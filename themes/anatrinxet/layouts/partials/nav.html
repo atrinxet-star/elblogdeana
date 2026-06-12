@@ -1,0 +1,19 @@
+<header class="site-header">
+  <nav class="navbar">
+    <div class="container">
+      <a href="{{ "/" | relURL }}" class="logo">
+        <span class="logo-name">Ana Trinxet</span>
+        <span class="logo-tagline">Orientadora Educativa</span>
+      </a>
+      <button class="nav-toggle" aria-label="Menú" onclick="toggleNav()">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}" class="{{ if eq $.RelPermalink .URL }}active{{ end }}">{{ .Name }}</a></li>
+        {{ end }}
+        <li><a href="{{ .Site.Params.cta_url }}" class="nav-cta">{{ .Site.Params.cta_text }}</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>

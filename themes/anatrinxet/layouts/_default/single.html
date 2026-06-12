@@ -1,0 +1,46 @@
+{{ define "main" }}
+<article class="article-page">
+  <header class="article-header">
+    <div class="container container-narrow">
+      {{ if .Params.category }}<span class="post-category">{{ .Params.category }}</span>{{ end }}
+      <h1>{{ .Title }}</h1>
+      <div class="article-meta">
+        <span>Por <strong>Ana Trinxet</strong></span>
+        <span>·</span>
+        <time>{{ .Date.Format "2 de January de 2006" }}</time>
+        {{ if .ReadingTime }}<span>·</span><span>{{ .ReadingTime }} min de lectura</span>{{ end }}
+      </div>
+    </div>
+  </header>
+
+  {{ if .Params.image }}
+  <div class="article-cover">
+    <div class="container">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="article-body container container-narrow">
+    {{ .Content }}
+  </div>
+
+  <footer class="article-footer container container-narrow">
+    <div class="article-tags">
+      {{ range .Params.tags }}
+      <span class="tag">{{ . }}</span>
+      {{ end }}
+    </div>
+    <div class="article-share">
+      <p>¿Te ha resultado útil? Compártelo:</p>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}" target="_blank" class="share-btn linkedin">LinkedIn</a>
+      <a href="https://www.instagram.com/" target="_blank" class="share-btn instagram">Instagram</a>
+    </div>
+    <div class="article-cta">
+      <h3>¿Necesitas orientación personalizada?</h3>
+      <p>Hablo contigo y con tu familia para encontrar el mejor camino.</p>
+      <a href="{{ .Site.Params.cta_url }}" class="btn btn-primary">{{ .Site.Params.cta_text }}</a>
+    </div>
+  </footer>
+</article>
+{{ end }}

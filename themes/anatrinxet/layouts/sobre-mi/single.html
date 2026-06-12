@@ -1,0 +1,117 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="container">
+    <h1>Quién escribe este blog</h1>
+    <p class="page-desc">Un espacio dedicado a la educación para todos</p>
+  </div>
+</section>
+
+<!-- BIO PRINCIPAL -->
+<section style="padding: 80px 0;">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: 1fr 1.6fr; gap: 80px; align-items: start;">
+      <div>
+        <div style="background: var(--blue-pale); border-radius: 16px; aspect-ratio: 3/4; display: flex; align-items: center; justify-content: center; overflow: hidden; position: relative;">
+          <img src="/img/ana-trinxet.jpg" alt="Ana Trinxet - Orientadora educativa"
+               style="width:100%; height:100%; object-fit:cover;"
+               onerror="this.style.display='none'; this.nextElementSibling.style.display='flex'">
+          <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; width:100%; height:100%; padding:40px; text-align:center;">
+            <div style="font-size: 5rem; margin-bottom: 16px;">👤</div>
+            <p style="font-size: 0.85rem; color: var(--text-light);">Añade tu foto en<br><code>/static/img/ana-trinxet.jpg</code></p>
+          </div>
+        </div>
+        <div style="margin-top: 32px; background: var(--blue-dark); color: white; border-radius: 12px; padding: 28px;">
+          <h4 style="color: white; font-family: var(--font-body); font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 20px;">Contacto directo</h4>
+          <p style="margin-bottom: 8px;"><a href="mailto:atrinxet@mcm.info" style="color: rgba(255,255,255,0.85);">atrinxet@mcm.info</a></p>
+          <p style="margin-bottom: 20px;"><a href="tel:+34934144422" style="color: rgba(255,255,255,0.85);">+34 934 144 422</a></p>
+          <a href="mailto:atrinxet@mcm.info" class="btn btn-white" style="width: 100%; text-align: center; display: block;">Reservar consulta</a>
+        </div>
+      </div>
+      <div>
+        <span class="section-label">Pedagoga y orientadora</span>
+        <h2 style="margin: 12px 0 24px;">Soy Ana Trinxet</h2>
+
+        <p style="font-size: 1.15rem; color: var(--text-light); margin-bottom: 24px; font-style: italic; border-left: 3px solid var(--blue-mid); padding-left: 20px;">
+          "Mi intención es crear un espacio de intercambio, aprendizaje y apoyo para padres, educadores y profesionales que buscan hacer de la educación una experiencia enriquecedora y significativa."
+        </p>
+
+        <p style="margin-bottom: 20px;">Pedagoga con más de 35 años de experiencia en el ámbito educativo. He tenido el privilegio de acompañar a cientos de padres en la trascendental tarea de educar a sus hijos, trabajando de manera cercana con familias, educadores y profesionales de la enseñanza.</p>
+
+        <p style="margin-bottom: 20px;">Este blog nace como una extensión de mi quehacer profesional: compartir experiencia y conocimiento con todos aquellos interesados en transformar la educación.</p>
+
+        <p style="margin-bottom: 20px;">Aquí encontrarás reflexiones, herramientas prácticas y recursos que van desde la pedagogía tradicional hasta las últimas innovaciones en neuro-educación.</p>
+
+        <p style="margin-bottom: 40px;">Mi trayectoria abarca desde la educación infantil hasta la adolescencia y la formación de adultos universitarios. He trabajado con familias en la búsqueda de soluciones personalizadas para sus retos educativos, y con profesores en la implementación de sistemas pedagógicos más inclusivos y efectivos.</p>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 40px;">
+          <div style="background: var(--blue-pale); border-radius: 12px; padding: 20px; text-align: center;">
+            <div style="font-family: var(--font-heading); font-size: 2.2rem; font-weight: 700; color: var(--blue-dark);">+35</div>
+            <div style="font-size: 0.8rem; color: var(--text-light); margin-top: 4px;">años de experiencia</div>
+          </div>
+          <div style="background: var(--blue-pale); border-radius: 12px; padding: 20px; text-align: center;">
+            <div style="font-family: var(--font-heading); font-size: 2.2rem; font-weight: 700; color: var(--blue-dark);">+7000</div>
+            <div style="font-size: 0.8rem; color: var(--text-light); margin-top: 4px;">estudiantes acompañados</div>
+          </div>
+          <div style="background: var(--blue-pale); border-radius: 12px; padding: 20px; text-align: center;">
+            <div style="font-family: var(--font-heading); font-size: 2.2rem; font-weight: 700; color: var(--blue-dark);">MCM</div>
+            <div style="font-size: 0.8rem; color: var(--text-light); margin-top: 4px;">desde 1989</div>
+          </div>
+        </div>
+
+        <div style="display: flex; gap: 16px; flex-wrap: wrap;">
+          <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reserva tu orientación</a>
+          <a href="https://www.linkedin.com/in/anatrinxet/" target="_blank" class="btn btn-outline">Ver LinkedIn</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CITA MANDELA -->
+<section style="background: var(--blue-dark); padding: 80px 0; text-align: center;">
+  <div class="container" style="max-width: 760px;">
+    <div style="font-size: 4rem; color: rgba(255,255,255,0.2); font-family: Georgia, serif; line-height: 1; margin-bottom: 20px;">"</div>
+    <blockquote style="font-family: var(--font-heading); font-size: clamp(1.3rem, 3vw, 2rem); color: white; font-style: italic; margin-bottom: 24px; line-height: 1.4;">
+      La educación es el arma más poderosa que puedes utilizar para cambiar el mundo.
+    </blockquote>
+    <cite style="color: rgba(255,255,255,0.6); font-size: 0.95rem; font-style: normal;">— Nelson Mandela</cite>
+  </div>
+</section>
+
+<!-- MI ENFOQUE -->
+<section style="padding: 80px 0; background: var(--off-white);">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-label">Mi filosofía</span>
+      <h2>Cómo entiendo la educación</h2>
+    </div>
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px;">
+      <div style="background: white; border-radius: 16px; padding: 32px; border: 1px solid var(--border);">
+        <div style="font-size: 2.5rem; margin-bottom: 16px;">🧠</div>
+        <h3 style="font-size: 1.1rem; margin-bottom: 12px;">Neuro-educación</h3>
+        <p style="color: var(--text-light); font-size: 0.95rem;">Comprender cómo funciona el cerebro en los procesos de aprendizaje, fomentando no solo la adquisición de conocimientos sino también el bienestar emocional y la motivación intrínseca.</p>
+      </div>
+      <div style="background: white; border-radius: 16px; padding: 32px; border: 1px solid var(--border);">
+        <div style="font-size: 2.5rem; margin-bottom: 16px;">❤️</div>
+        <h3 style="font-size: 1.1rem; margin-bottom: 12px;">Educación humanista</h3>
+        <p style="color: var(--text-light); font-size: 0.95rem;">Mi objetivo siempre ha sido humanizar el proceso educativo, adaptándolo a las necesidades individuales de cada estudiante, integrando tanto el desarrollo cognitivo como el emocional.</p>
+      </div>
+      <div style="background: white; border-radius: 16px; padding: 32px; border: 1px solid var(--border);">
+        <div style="font-size: 2.5rem; margin-bottom: 16px;">🤝</div>
+        <h3 style="font-size: 1.1rem; margin-bottom: 12px;">Trabajo con familias</h3>
+        <p style="color: var(--text-light); font-size: 0.95rem;">La educación es un puente hacia el crecimiento personal y social. Las emociones, las relaciones y el entorno juegan un papel fundamental que trabajamos juntos.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-banner">
+  <div class="container">
+    <div class="cta-content">
+      <h2>¿Hablamos?</h2>
+      <p>Primera consulta sin compromiso. Escríbeme.</p>
+      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Contactar a Ana</a>
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,42 @@
+baseURL = "https://elblogdeana.com"
+locale = "es-ES"
+title = "El Blog de Ana | Orientación Educativa y Profesional"
+theme = "anatrinxet"
+defaultContentLanguage = "es"
+enableRobotsTXT = true
+paginate = 9
+
+[params]
+  author = "Ana Trinxet"
+  description = "Orientadora educativa y profesional. Te ayudo a descubrir el mejor camino académico y profesional para ti y tu familia."
+  tagline = "Orientación que transforma vidas"
+  email = "atrinxet@mcm.info"
+  phone = "+34 934 144 422"
+  company = "MCM Educational Consultants"
+  linkedin = "https://www.linkedin.com/in/anatrinxet/"
+  instagram = "https://www.instagram.com/anatrinxet/"
+  mcmweb = "https://mcm.info"
+  cta_text = "Reserva tu orientación"
+  cta_url = "mailto:atrinxet@mcm.info"
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Sobre mí"
+    url = "/sobre-mi/"
+    weight = 2
+  [[menu.main]]
+    name = "Servicios"
+    url = "/servicios/"
+    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+  [[menu.main]]
+    name = "Contacto"
+    url = "/contacto/"
+    weight = 5
