@@ -1,4 +1,5 @@
 ---
+image: "/img/padres-hija-mano.jpg"
 title: "¿Sabias que los recuerdos de la infancia (y adolescencia) te ayudan cuando eres adulto?"
 date: 2024-05-18
 description: "Hoy he estado hablando con un padre que me contaba que cada fin de semana tenia peleas con su hijo por sentarse a hacer los deberes de matemáticas, cada sábado "

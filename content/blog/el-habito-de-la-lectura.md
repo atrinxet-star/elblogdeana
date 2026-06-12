@@ -1,4 +1,5 @@
 ---
+image: "/img/padre-hija-lectura.jpg"
 title: "EL HABITO DE LA LECTURA"
 date: 2024-02-28
 description: "PRIMERA PARTE"

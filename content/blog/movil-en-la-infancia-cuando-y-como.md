@@ -1,4 +1,5 @@
 ---
+image: "/img/adolescente-online.jpg"
 title: "A raíz de toda la controversia sobre el uso del #movil en la #infancia, he estado pensando que había que hacer algua reseña y hablar del tema por su importancia real."
 date: 2024-10-05
 description: "Te das cuenta de que un niño está “enganchado” cuando:"

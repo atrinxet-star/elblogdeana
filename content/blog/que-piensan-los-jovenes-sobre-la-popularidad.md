@@ -1,4 +1,5 @@
 ---
+image: "/img/jovenes-colegio.jpg"
 title: "Qué piensan los estudiantes, entre 13 y 17 años, sobre la popularidad?"
 date: 2024-05-05
 description: "Nicholas Ferroni, no es un profesor tradicional de historia de la escuela secundaria. Ha introducido nuevas metodologías haciendo uso de la “alfabetización medi"

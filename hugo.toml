@@ -1,10 +1,24 @@
-baseURL = "https://elblogdeana.com"
+baseURL = "https://elblogdeana.com/"
 locale = "es-ES"
 title = "El Blog de Ana | Orientación Educativa y Profesional"
 theme = "anatrinxet"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 paginate = 9
+
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+  [[related.indices]]
+    name = "category"
+    weight = 80
+  [[related.indices]]
+    name = "date"
+    weight = 10
 
 [params]
   author = "Ana Trinxet"
@@ -25,18 +39,26 @@ paginate = 9
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Sobre mí"
-    url = "/sobre-mi/"
+    name = "Conoce a tu hijo"
+    url = "/conoce-a-tu-hijo/"
     weight = 2
+  [[menu.main]]
+    name = "Orientación"
+    url = "/orientacion/"
+    weight = 3
   [[menu.main]]
     name = "Servicios"
     url = "/servicios/"
-    weight = 3
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
     weight = 4
+  [[menu.main]]
+    name = "Blog de educación"
+    url = "/educacion/"
+    weight = 5
+  [[menu.main]]
+    name = "Quién soy"
+    url = "/sobre-mi/"
+    weight = 6
   [[menu.main]]
     name = "Contacto"
     url = "/contacto/"
-    weight = 5
+    weight = 7

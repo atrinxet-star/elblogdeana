@@ -1,13 +1,149 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Params.author }}{{ end }}</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- TÍTULO SEO -->
+{{ if .IsHome }}
+<title>Ana Trinxet — Orientadora Educativa y Profesional | Barcelona</title>
+{{ else }}
+<title>{{ .Title }} | Ana Trinxet</title>
+{{ end }}
+
+<!-- META DESCRIPTION -->
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta name="author" content="{{ .Site.Params.author }}">
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta name="robots" content="index, follow">
+<meta name="language" content="es-ES">
+
+<!-- PALABRAS CLAVE -->
+{{ if .Params.tags }}
+<meta name="keywords" content="{{ delimit .Params.tags ", " }}">
+{{ else }}
+<meta name="keywords" content="orientación educativa, orientación profesional, tests personalidad adolescentes, orientación académica Barcelona, pedagoga Barcelona, MCM Educational Consultants">
+{{ end }}
+
+<!-- CANONICAL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- OPEN GRAPH (Facebook, WhatsApp, LinkedIn) -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | Ana Trinxet{{ end }}">
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="El Blog de Ana | Ana Trinxet">
+{{ if .Params.image }}
+<meta property="og:image" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .Params.image }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{ else }}
+<meta property="og:image" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}/img/hero-familia.jpg">
+{{ end }}
+{{ if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:author" content="Ana Trinxet">
+{{ if .Params.category }}<meta property="article:section" content="{{ .Params.category }}">{{ end }}
+{{ range .Params.tags }}<meta property="article:tag" content="{{ . }}">{{ end }}
+{{ end }}
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ if .Params.image }}
+<meta name="twitter:image" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}{{ .Params.image }}">
+{{ else }}
+<meta name="twitter:image" content="{{ .Site.BaseURL | strings.TrimSuffix "/" }}/img/hero-familia.jpg">
+{{ end }}
+
+<!-- SCHEMA.ORG JSON-LD -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ .Site.BaseURL }}#website",
+      "url": "{{ .Site.BaseURL }}",
+      "name": "El Blog de Ana | Ana Trinxet",
+      "description": "{{ .Site.Params.description }}",
+      "inLanguage": "es-ES",
+      "publisher": { "@id": "{{ .Site.BaseURL }}#person" }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ .Site.BaseURL }}#person",
+      "name": "Ana Trinxet",
+      "jobTitle": "Orientadora Educativa y Profesional",
+      "description": "Pedagoga con más de 35 años de experiencia en orientación educativa, tests de personalidad y asesoramiento familiar. Fundadora de MCM Educational Consultants.",
+      "url": "{{ .Site.BaseURL }}sobre-mi/",
+      "email": "atrinxet@mcm.info",
+      "telephone": "+34934144422",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "MCM Educational Consultants",
+        "url": "https://mcm.info"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/anatrinxet/",
+        "https://www.instagram.com/anatrinxet/",
+        "https://mcm.info"
+      ]
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "{{ .Site.BaseURL }}#service",
+      "name": "Orientación Educativa Ana Trinxet — MCM",
+      "url": "{{ .Site.BaseURL }}servicios/",
+      "description": "Orientación académica y profesional, tests de personalidad para adolescentes, asesoramiento a familias. Más de 35 años de experiencia.",
+      "provider": { "@id": "{{ .Site.BaseURL }}#person" },
+      "areaServed": { "@type": "Country", "name": "España" },
+      "serviceType": ["Orientación educativa", "Tests de personalidad", "Orientación profesional"],
+      "telephone": "+34934144422",
+      "email": "atrinxet@mcm.info"
+    }
+  ]
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "@id": "{{ .Permalink }}",
+  "headline": "{{ .Title }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | truncate 160 }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": "Ana Trinxet",
+    "url": "{{ .Site.BaseURL }}sobre-mi/"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Ana Trinxet",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  {{ if .Params.image }}
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ .Site.BaseURL }}{{ .Params.image }}"
+  },
+  {{ end }}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
+{{ end }}
+
+<!-- PRECONNECT para rendimiento -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">

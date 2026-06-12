@@ -1,4 +1,5 @@
 ---
+image: "/img/padre-hijo-adolescente.jpg"
 title: "CÓMO EDUCAR A UN ADOLESCENTE"
 date: 2024-01-30
 description: "Llegamos a casa y nos encontarmos a nuestro adolescente que pasa del 1,70 “tirado” en el sillon del salón."

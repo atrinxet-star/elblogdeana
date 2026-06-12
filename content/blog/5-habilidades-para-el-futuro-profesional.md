@@ -1,4 +1,5 @@
 ---
+image: "/img/trabajo-equipo.jpg"
 title: "5 habilidades que tu hijo necesita para el mercado laboral del futuro"
 date: 2025-01-15
 description: "El mundo laboral cambia más rápido que nunca. Estas son las 5 habilidades clave que preparan a tus hijos para un futuro que todavía no existe."

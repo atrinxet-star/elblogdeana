@@ -1,4 +1,5 @@
 ---
+image: "/img/adolescente-estudia.jpg"
 title: "5 maneras de motivar a su hijo para la escuela"
 date: 2024-02-14
 description: "Por Leslie Davis"

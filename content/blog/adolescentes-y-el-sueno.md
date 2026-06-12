@@ -1,4 +1,5 @@
 ---
+image: "/img/adolescente-estudia.jpg"
 title: "LOS ADOLESCENTES Y EL SUEÑO"
 date: 2024-04-22
 description: "Hace muchos años, quizás 10 o 15 años,  cuando mi hijo mayor empezó la adolescencia escribí un post sobre el sueño en la adolescencia. Oía a muchas madres y pad"

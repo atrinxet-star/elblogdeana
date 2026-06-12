@@ -1,4 +1,5 @@
 ---
+image: "/img/madre-hijo-campo.jpg"
 title: "PORQUE HA AUMENTADO TANTO LA PROTECCION DE LAS PADRES CUANDO MANDAN A SUS HIJOS A ESTUDIAR EL EXTRANJERO?"
 date: 2024-07-08
 description: "Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio."
