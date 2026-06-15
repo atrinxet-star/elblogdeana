@@ -3,7 +3,7 @@ image: "/img/familia-orientacion.jpg"
 title: "LA SEMANADA"
 date: 2024-01-15
 description: "Cuándo vais a darme semanada?"
-category: "Pedagogía para padres"
+category: "Adolescencia"
 tags: ["semanada", "dinero", "esfuerzo", "valores", "adolescentes"]
 ---
 

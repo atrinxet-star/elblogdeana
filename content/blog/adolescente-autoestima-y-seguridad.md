@@ -1,5 +1,5 @@
 ---
-image: "/img/adolescente-concentrado.jpg"
+image: "/img/adolescente-movil.jpg"
 title: "CÓMO EDUCAR AL ADOLESCENTE EN LA AUTOESTIMA Y SEGURIDAD"
 date: 2024-03-05
 description: "Una edad complicada, pero… cual no lo es??!!, saber llevarla hace que podamos disfrutar de la compañía del adolescente que puede ser muy divertida."
