@@ -1,0 +1,38 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="container">
+    <h1>Blog de educación y familia</h1>
+    <p class="page-desc">Reflexiones, recursos y herramientas prácticas para padres y educadores. Desde la pedagogía hasta la neuroeducación.</p>
+  </div>
+</section>
+
+<section class="blog-list">
+  <div class="container">
+    {{ $educacion := where .Site.RegularPages "Params.category" "Educación" }}
+    {{ if $educacion }}
+    <div class="posts-grid">
+      {{ range $educacion }}
+      <article class="post-card">
+        {{ if .Params.image }}
+        <div class="post-image">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="post-content">
+          <span class="post-category">{{ .Params.category }}</span>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Summary | truncate 140 }}</p>
+          <div class="post-meta">
+            <time>{{ .Date.Format "2 Jan 2006" }}</time>
+            <a href="{{ .Permalink }}" class="read-more">Leer →</a>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p style="text-align:center; color:var(--text-light); padding:60px 0;">Próximamente más artículos de educación.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

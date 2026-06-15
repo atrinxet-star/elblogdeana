@@ -1,77 +1,191 @@
 {{ define "main" }}
+
+<!-- HERO SERVICIOS -->
 <section class="page-hero">
   <div class="container">
     <h1>Servicios de orientación</h1>
-    <p class="page-desc">Cada persona es única. Por eso mis servicios son siempre personalizados.</p>
+    <p class="page-desc">Más de 35 años ayudando a familias, estudiantes y profesionales a tomar las decisiones correctas.</p>
   </div>
 </section>
 
-<section style="padding: 100px 0;">
+<!-- 4 SERVICIOS EN TARJETAS — visión rápida -->
+<section style="padding: 60px 0; background: var(--off-white);">
   <div class="container">
+    <div class="section-header">
+      <span class="section-label">Lo que hago</span>
+      <h2>Cuatro tipos de orientación</h2>
+      <p>Cada servicio responde a una pregunta concreta. ¿Cuál es la tuya?</p>
+    </div>
+    <div style="display: grid; grid-template-columns: repeat(4,1fr); gap: 20px;">
 
-    <div id="orientacion" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; margin-bottom: 120px;">
+      <a href="#educativa" style="text-decoration:none; display:block; background:white; border-radius:16px; padding:28px 22px; border:2px solid var(--border); transition:all 0.2s;" onmouseenter="this.style.borderColor='var(--blue-mid)';this.style.transform='translateY(-4px)'" onmouseleave="this.style.borderColor='var(--border)';this.style.transform='none'">
+        <div style="width:48px; height:48px; background:var(--blue-pale); border-radius:12px; display:flex; align-items:center; justify-content:center; margin-bottom:16px; font-size:1.5rem;">👨‍👩‍👧</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Orientación educativa</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:12px;">Para padres: cómo educar y entender a tu hijo</p>
+        <span style="font-size:0.8rem; color:var(--blue-mid); font-weight:600;">Ver más →</span>
+      </a>
+
+      <a href="#academica" style="text-decoration:none; display:block; background:var(--blue-dark); border-radius:16px; padding:28px 22px; border:2px solid var(--blue-dark); transition:all 0.2s; position:relative;" onmouseenter="this.style.transform='translateY(-4px)'" onmouseleave="this.style.transform='none'">
+        <div style="position:absolute; top:12px; right:12px; background:var(--gold); color:white; font-size:0.65rem; font-weight:700; padding:3px 10px; border-radius:50px;">MÁS SOLICITADO</div>
+        <div style="width:48px; height:48px; background:rgba(255,255,255,0.15); border-radius:12px; display:flex; align-items:center; justify-content:center; margin-bottom:16px; font-size:1.5rem;">🎓</div>
+        <h3 style="font-size:1rem; color:white; margin-bottom:8px;">Orientación académica</h3>
+        <p style="font-size:0.85rem; color:rgba(255,255,255,0.7); margin-bottom:12px;">Qué estudiar, dónde y cómo elegir bien</p>
+        <span style="font-size:0.8rem; color:#7fc3f5; font-weight:600;">Ver más →</span>
+      </a>
+
+      <a href="#profesional" style="text-decoration:none; display:block; background:white; border-radius:16px; padding:28px 22px; border:2px solid var(--border); transition:all 0.2s;" onmouseenter="this.style.borderColor='var(--blue-mid)';this.style.transform='translateY(-4px)'" onmouseleave="this.style.borderColor='var(--border)';this.style.transform='none'">
+        <div style="width:48px; height:48px; background:var(--blue-pale); border-radius:12px; display:flex; align-items:center; justify-content:center; margin-bottom:16px; font-size:1.5rem;">💼</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Orientación profesional</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:12px;">Futuro laboral: cambio de carrera o nueva dirección</p>
+        <span style="font-size:0.8rem; color:var(--blue-mid); font-weight:600;">Ver más →</span>
+      </a>
+
+      <a href="#tests" style="text-decoration:none; display:block; background:white; border-radius:16px; padding:28px 22px; border:2px solid var(--border); transition:all 0.2s;" onmouseenter="this.style.borderColor='var(--gold)';this.style.transform='translateY(-4px)'" onmouseleave="this.style.borderColor='var(--border)';this.style.transform='none'">
+        <div style="width:48px; height:48px; background:#fff8f0; border-radius:12px; display:flex; align-items:center; justify-content:center; margin-bottom:16px; font-size:1.5rem;">🧩</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Tests de personalidad</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:12px;">Tests profesionales validados por edades</p>
+        <span style="font-size:0.8rem; color:var(--gold); font-weight:600;">Ver más →</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- SERVICIO 1: ORIENTACIÓN EDUCATIVA (PADRES) -->
+<section id="educativa" style="padding: 100px 0;">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
       <div>
-        <span class="section-label">Servicio 01</span>
-        <h2 style="margin: 12px 0 20px;">Orientación académica</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">¿Qué estudiar? ¿Dónde? ¿Bachillerato, FP o universidad? Estas son algunas de las preguntas más importantes que una familia puede hacerse, y muchas veces se responden con prisas o con información incompleta.</p>
-        <p style="margin-bottom: 32px;">En mis sesiones de orientación académica analizamos juntos las capacidades, intereses y perfil del estudiante para encontrar el camino que realmente encaje con quién es.</p>
-        <ul style="margin-bottom: 32px;">
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Análisis de perfil académico y personal</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Información sobre opciones educativas en España e internacional</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Acompañamiento en la toma de decisiones</span></li>
-          <li style="display: flex; gap: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Seguimiento durante el proceso</span></li>
-        </ul>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar sesión</a>
+        <span class="section-label">Servicio 01 · Para padres</span>
+        <h2 style="margin: 12px 0 20px;">Orientación educativa: cómo educar a tu hijo</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 16px;">Trabajo con padres de hijos de cualquier edad — desde los primeros años hasta la adolescencia — cuando algo en la convivencia, el comportamiento o el desarrollo del hijo les preocupa y no saben cómo actuar.</p>
+        <p style="margin-bottom: 24px;">La orientación educativa para padres no es psicología ni terapia. Es un acompañamiento práctico y personalizado para entender mejor a tu hijo y actuar con coherencia, afecto y criterio.</p>
+
+        <div style="background: var(--blue-pale); border-radius: 12px; padding: 24px; margin-bottom: 28px;">
+          <h4 style="font-size:0.9rem; color:var(--blue-dark); margin-bottom:16px; text-transform:uppercase; letter-spacing:0.05em;">Cómo funciona el proceso</h4>
+          <div style="display:flex; flex-direction:column; gap:12px;">
+            <div style="display:flex; gap:14px; align-items:flex-start;">
+              <div style="width:28px; height:28px; background:var(--blue-mid); border-radius:50%; display:flex; align-items:center; justify-content:center; color:white; font-size:0.8rem; font-weight:700; flex-shrink:0;">1</div>
+              <div><strong>Entrevista con los padres</strong> — Escucho la situación sin juicios. Cada caso es único.</div>
+            </div>
+            <div style="display:flex; gap:14px; align-items:flex-start;">
+              <div style="width:28px; height:28px; background:var(--blue-mid); border-radius:50%; display:flex; align-items:center; justify-content:center; color:white; font-size:0.8rem; font-weight:700; flex-shrink:0;">2</div>
+              <div><strong>Análisis de la situación</strong> — Revisamos el contexto familiar, escolar y el desarrollo del hijo.</div>
+            </div>
+            <div style="display:flex; gap:14px; align-items:flex-start;">
+              <div style="width:28px; height:28px; background:var(--blue-mid); border-radius:50%; display:flex; align-items:center; justify-content:center; color:white; font-size:0.8rem; font-weight:700; flex-shrink:0;">3</div>
+              <div><strong>Tests si es necesario</strong> — Evaluamos personalidad, aptitudes o estilo de aprendizaje según la edad.</div>
+            </div>
+            <div style="display:flex; gap:14px; align-items:flex-start;">
+              <div style="width:28px; height:28px; background:var(--blue-mid); border-radius:50%; display:flex; align-items:center; justify-content:center; color:white; font-size:0.8rem; font-weight:700; flex-shrink:0;">4</div>
+              <div><strong>Evaluación y conclusiones</strong> — Te explico qué está pasando realmente y por qué.</div>
+            </div>
+            <div style="display:flex; gap:14px; align-items:flex-start;">
+              <div style="width:28px; height:28px; background:var(--blue-dark); border-radius:50%; display:flex; align-items:center; justify-content:center; color:white; font-size:0.8rem; font-weight:700; flex-shrink:0;">5</div>
+              <div><strong>Plan de acción</strong> — Pautas concretas y realistas para aplicar en casa desde el primer día.</div>
+            </div>
+          </div>
+        </div>
+
+        <p style="font-size:0.9rem; color:var(--text-light); margin-bottom:24px;">Para hijos de <strong>todas las edades</strong>: primera infancia (2-5 años), primaria (6-11), preadolescencia (11-13) y adolescencia (14-18).</p>
+        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar consulta de padres</a>
       </div>
-      <div style="background: linear-gradient(135deg, var(--blue-pale), #dceef9); border-radius: 20px; padding: 60px; text-align: center;">
-        <div style="font-size: 6rem; margin-bottom: 20px;">🎓</div>
-        <p style="font-style: italic; color: var(--blue-dark); font-size: 1.05rem;">"La decisión académica correcta no es la más brillante en papel. Es la que se ajusta a quién eres."</p>
+      <div>
+        <img src="/img/familia-orientacion.jpg" alt="Orientación educativa para padres" style="width:100%; border-radius:16px; box-shadow:0 16px 48px rgba(0,0,0,0.12); margin-bottom:20px;">
+        <div style="background:white; border:1px solid var(--border); border-radius:12px; padding:20px;">
+          <p style="font-style:italic; font-family:var(--font-heading); color:var(--blue-dark); font-size:1rem; line-height:1.6; margin:0;">"He trabajado con padres preocupados por un hijo de 5 años que se portaba mal, adolescentes con crisis de identidad y jóvenes adultos que no encontraban su camino. El punto de partida siempre es escuchar."</p>
+          <p style="margin-top:12px; font-size:0.8rem; color:var(--text-light);">— Ana Trinxet</p>
+        </div>
       </div>
     </div>
+  </div>
+</section>
 
-    <div id="tests" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; margin-bottom: 120px;">
-      <div style="background: linear-gradient(135deg, #fff8f0, #fdecd8); border-radius: 20px; padding: 60px; text-align: center;">
-        <div style="font-size: 6rem; margin-bottom: 20px;">🧠</div>
-        <p style="font-style: italic; color: var(--blue-dark); font-size: 1.05rem;">"Conocerse es el primer paso para elegir bien."</p>
+<!-- SERVICIO 2: ORIENTACIÓN ACADÉMICA -->
+<section id="academica" style="padding: 100px 0; background: var(--off-white);">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
+      <div style="border-radius:16px; overflow:hidden; box-shadow:0 16px 48px rgba(0,0,0,0.12);">
+        <img src="/img/jovenes-colegio.jpg" alt="Orientación académica qué estudiar" style="width:100%; display:block; object-fit:cover; max-height:380px;">
       </div>
       <div>
         <span class="section-label">Servicio 02 — Más solicitado</span>
-        <h2 style="margin: 12px 0 20px;">Tests de personalidad y aptitud</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">Los tests que utilizamos son herramientas profesionales adaptadas a cada franja de edad, desde los 11 años hasta la edad adulta. No son cuestionarios de internet: son instrumentos validados que revelan el perfil real de la persona.</p>
-        <p style="margin-bottom: 32px;">El resultado no es una etiqueta. Es un mapa para entenderse mejor y tomar mejores decisiones.</p>
-        <ul style="margin-bottom: 32px;">
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--gold); font-weight: 700; font-size: 1.2rem;">✓</span><span>Tests de personalidad profesionales (adaptados por edad)</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--gold); font-weight: 700; font-size: 1.2rem;">✓</span><span>Tests de aptitudes e inteligencias múltiples</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--gold); font-weight: 700; font-size: 1.2rem;">✓</span><span>Informe detallado con interpretación personalizada</span></li>
-          <li style="display: flex; gap: 12px; align-items: flex-start;"><span style="color: var(--gold); font-weight: 700; font-size: 1.2rem;">✓</span><span>Sesión de devolución con familia</span></li>
+        <h2 style="margin: 12px 0 20px;">Orientación académica: qué estudiar</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">¿Bachillerato o FP? ¿Qué carrera? ¿Universidad en España o en el extranjero? Preguntas que pueden definir una vida — y que muchas familias responden con prisas, por descarte o siguiendo la moda.</p>
+        <p style="margin-bottom: 32px;">Con una orientación académica bien hecha, la decisión se toma con información real sobre quién es el estudiante, qué opciones existen y qué camino encaja mejor con su perfil.</p>
+        <ul style="margin-bottom: 32px; padding:0; list-style:none;">
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Análisis del perfil académico y personal</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Información sobre opciones en España e internacional</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Acompañamiento en la toma de decisión</span></li>
+          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Seguimiento durante el proceso</span></li>
         </ul>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar tests</a>
+        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar orientación académica</a>
       </div>
     </div>
-
-    <div id="profesional" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; margin-bottom: 80px;">
-      <div>
-        <span class="section-label">Servicio 03</span>
-        <h2 style="margin: 12px 0 20px;">Orientación profesional</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">¿Ya tienes unos estudios y no sabes qué hacer con ellos? ¿Quieres un cambio de carrera? ¿Estás en un momento de transición laboral? La orientación profesional no es solo para jóvenes.</p>
-        <p style="margin-bottom: 32px;">Trabajo con adultos que quieren reconectar con lo que realmente quieren hacer y construir un plan realista para conseguirlo.</p>
-        <ul style="margin-bottom: 32px;">
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Análisis del perfil profesional actual</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Identificación de salidas con tus estudios</span></li>
-          <li style="display: flex; gap: 12px; margin-bottom: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Plan de acción personalizado</span></li>
-          <li style="display: flex; gap: 12px; align-items: flex-start;"><span style="color: var(--blue-mid); font-weight: 700; font-size: 1.2rem;">✓</span><span>Sesiones de seguimiento</span></li>
-        </ul>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar sesión</a>
-      </div>
-      <div style="background: linear-gradient(135deg, #f0f7e8, #ddf0d0); border-radius: 20px; padding: 60px; text-align: center;">
-        <div style="font-size: 6rem; margin-bottom: 20px;">💼</div>
-        <p style="font-style: italic; color: var(--blue-dark); font-size: 1.05rem;">"El trabajo que más satisface es el que está alineado con quién eres."</p>
-      </div>
-    </div>
-
   </div>
 </section>
 
+<!-- SERVICIO 3: ORIENTACIÓN PROFESIONAL -->
+<section id="profesional" style="padding: 100px 0;">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
+      <div>
+        <span class="section-label">Servicio 03</span>
+        <h2 style="margin: 12px 0 20px;">Orientación profesional: futuro laboral</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">La orientación profesional no es solo para jóvenes. Trabajo con adultos que quieren cambiar de carrera, explorar nuevas salidas con sus estudios actuales o simplemente entender qué tipo de trabajo les haría sentirse realizados.</p>
+        <p style="margin-bottom: 32px;">Si algo en tu trayectoria profesional no encaja, no es un fracaso. Es información. Y con esa información se puede construir un plan nuevo.</p>
+        <ul style="margin-bottom: 32px; padding:0; list-style:none;">
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Análisis del perfil profesional actual</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Exploración de salidas con tus estudios</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Plan de acción personalizado</span></li>
+          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Sesiones de seguimiento</span></li>
+        </ul>
+        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar orientación profesional</a>
+      </div>
+      <div style="border-radius:16px; overflow:hidden; box-shadow:0 16px 48px rgba(0,0,0,0.12);">
+        <img src="/img/trabajo-equipo.jpg" alt="Orientación profesional cambio de carrera" style="width:100%; display:block; object-fit:cover; max-height:380px;">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICIO 4: TESTS -->
+<section id="tests" style="padding: 100px 0; background: var(--off-white);">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
+      <div style="border-radius:16px; overflow:hidden; box-shadow:0 16px 48px rgba(0,0,0,0.12);">
+        <img src="/img/neuro-educacion.jpg" alt="Tests de personalidad y aptitudes profesionales" style="width:100%; display:block; object-fit:cover; max-height:380px;">
+      </div>
+      <div>
+        <span class="section-label">Servicio 04 · La base de todo</span>
+        <h2 style="margin: 12px 0 20px;">Tests de personalidad y aptitudes</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">Los tests que utilizo son herramientas profesionales validadas, adaptadas a cada franja de edad. No son cuestionarios de internet: son instrumentos que revelan el perfil real de la persona — sus fortalezas, su forma de aprender, sus motivaciones.</p>
+        <p style="margin-bottom: 28px;">El resultado no es una etiqueta. Es un mapa para entenderse mejor y tomar mejores decisiones.</p>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:28px;">
+          <div style="background:white; border-radius:10px; padding:16px; border:1px solid var(--border);">
+            <div style="font-size:0.7rem; font-weight:700; color:var(--blue-mid); text-transform:uppercase; margin-bottom:6px;">Desde los 5 años</div>
+            <div style="font-size:0.88rem; color:var(--text-dark);">Tests de personalidad e inteligencias</div>
+          </div>
+          <div style="background:white; border-radius:10px; padding:16px; border:1px solid var(--border);">
+            <div style="font-size:0.7rem; font-weight:700; color:var(--blue-mid); text-transform:uppercase; margin-bottom:6px;">11-18 años</div>
+            <div style="font-size:0.88rem; color:var(--text-dark);">Aptitudes, vocación y orientación</div>
+          </div>
+          <div style="background:white; border-radius:10px; padding:16px; border:1px solid var(--border);">
+            <div style="font-size:0.7rem; font-weight:700; color:var(--blue-mid); text-transform:uppercase; margin-bottom:6px;">Universitarios</div>
+            <div style="font-size:0.88rem; color:var(--text-dark);">Perfil académico y salidas profesionales</div>
+          </div>
+          <div style="background:white; border-radius:10px; padding:16px; border:1px solid var(--border);">
+            <div style="font-size:0.7rem; font-weight:700; color:var(--blue-mid); text-transform:uppercase; margin-bottom:6px;">Adultos</div>
+            <div style="font-size:0.88rem; color:var(--text-dark);">Perfil profesional y cambio de carrera</div>
+          </div>
+        </div>
+        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Pedir información sobre los tests</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA FINAL -->
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
@@ -81,4 +195,5 @@
     </div>
   </div>
 </section>
+
 {{ end }}

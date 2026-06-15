@@ -1,0 +1,77 @@
+{{ define "main" }}
+<section class="page-hero">
+  <div class="container">
+    <h1>Orientación educativa y profesional</h1>
+    <p class="page-desc">Artículos y recursos sobre tests de personalidad, orientación académica, elección de carrera y cómo ayudar a tus hijos a encontrar su camino.</p>
+  </div>
+</section>
+
+<!-- 4 TEMAS DE ORIENTACIÓN -->
+<section style="padding: 60px 0; background: var(--off-white);">
+  <div class="container">
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:16px;">
+      <a href="/servicios/#educativa" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
+        <div style="font-size:1.8rem; margin-bottom:10px;">👨‍👩‍👧</div>
+        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Orientación educativa</div>
+        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Cómo educar</div>
+      </a>
+      <a href="/servicios/#academica" style="text-decoration:none; background:var(--blue-dark); border-radius:12px; padding:20px; border:1px solid var(--blue-dark); display:block; text-align:center;">
+        <div style="font-size:1.8rem; margin-bottom:10px;">🎓</div>
+        <div style="font-size:0.88rem; font-weight:600; color:white;">Orientación académica</div>
+        <div style="font-size:0.78rem; color:rgba(255,255,255,0.7); margin-top:4px;">Qué estudiar</div>
+      </a>
+      <a href="/servicios/#profesional" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
+        <div style="font-size:1.8rem; margin-bottom:10px;">💼</div>
+        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Orientación profesional</div>
+        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Futuro laboral</div>
+      </a>
+      <a href="/servicios/#tests" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
+        <div style="font-size:1.8rem; margin-bottom:10px;">🧩</div>
+        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Tests</div>
+        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Personalidad y aptitudes</div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ARTÍCULOS DE ORIENTACIÓN -->
+<section class="blog-list">
+  <div class="container">
+    {{ $orientacion := where .Site.RegularPages "Params.category" "Orientación" }}
+    {{ if $orientacion }}
+    <div class="posts-grid">
+      {{ range $orientacion }}
+      <article class="post-card">
+        {{ if .Params.image }}
+        <div class="post-image">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+        </div>
+        {{ end }}
+        <div class="post-content">
+          <span class="post-category">{{ .Params.category }}</span>
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <p>{{ .Summary | truncate 140 }}</p>
+          <div class="post-meta">
+            <time>{{ .Date.Format "2 Jan 2006" }}</time>
+            <a href="{{ .Permalink }}" class="read-more">Leer →</a>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p style="text-align:center; color:var(--text-light); padding:60px 0;">Próximamente más artículos de orientación.</p>
+    {{ end }}
+  </div>
+</section>
+
+<section class="cta-banner">
+  <div class="container">
+    <div class="cta-content">
+      <h2>¿Necesitas orientación personalizada?</h2>
+      <p>Primera consulta gratuita. Sin compromiso.</p>
+      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Escríbeme</a>
+    </div>
+  </div>
+</section>
+{{ end }}
