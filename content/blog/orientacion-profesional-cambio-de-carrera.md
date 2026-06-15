@@ -1,5 +1,5 @@
 ---
-image: "/img/trabajo-equipo.jpg"
+image: "/img/mujer-computadora.jpg"
 title: "Cambio de carrera profesional: cómo saber si es el momento y por dónde empezar"
 date: 2025-11-10
 description: "Tienes trabajo, tienes experiencia. Pero algo no encaja. ¿Es el momento de cambiar? ¿Cómo se hace sin tirar todo por la borda?"

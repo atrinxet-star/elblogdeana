@@ -1,5 +1,5 @@
 ---
-image: "/img/padre-hijo-adolescente.jpg"
+image: "/img/madre-hijo-salon.jpg"
 title: "UN TEMA DE CONFIANZA"
 date: 2024-06-25
 description: "Lo que nos ha pasado muchas veces es que los padres, movidos por la ola que hay, de enviar a los hijos fuera a estudiar, deciden que su hijo no sea menos y real"

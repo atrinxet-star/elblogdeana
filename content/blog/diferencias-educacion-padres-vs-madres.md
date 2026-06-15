@@ -1,5 +1,5 @@
 ---
-image: "/img/madre-hijo-campo.jpg"
+image: "/img/padres-hijos-salon.jpg"
 title: "Diferencias entre educacion de los padres vs madres"
 date: 2024-11-20
 description: "En varias ocasiones he oído quejarse a madres o padres de que no coinciden en cómo educar a los hijos/as."

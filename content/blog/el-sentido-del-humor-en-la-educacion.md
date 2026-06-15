@@ -1,5 +1,5 @@
 ---
-image: "/img/familia-desayuno.jpg"
+image: "/img/padres-conversacion.jpg"
 title: "EL SENTIDO DEL HUMOR EN LA EDUCACIÓN"
 date: 2024-04-10
 description: "Tantas veces educar nos supones un problema de cansancio y astio!"

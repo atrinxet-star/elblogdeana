@@ -39,7 +39,7 @@ paginate = 9
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Conoce a tu hijo"
+    name = "Para padres"
     url = "/conoce-a-tu-hijo/"
     weight = 2
   [[menu.main]]
@@ -51,8 +51,8 @@ paginate = 9
     url = "/servicios/"
     weight = 4
   [[menu.main]]
-    name = "Blog de educación"
-    url = "/educacion/"
+    name = "Blog"
+    url = "/blog/"
     weight = 5
   [[menu.main]]
     name = "Quién soy"
