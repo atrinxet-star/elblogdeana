@@ -6,30 +6,12 @@
   </div>
 </section>
 
-<!-- 4 TEMAS DE ORIENTACIÓN -->
-<section style="padding: 60px 0; background: var(--off-white);">
+<!-- INTRO ORIENTACIÓN -->
+<section style="padding: 48px 0; background: var(--off-white);">
   <div class="container">
-    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:16px;">
-      <a href="/servicios/#educativa" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
-        <div style="font-size:1.8rem; margin-bottom:10px;">👨‍👩‍👧</div>
-        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Orientación educativa</div>
-        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Cómo educar</div>
-      </a>
-      <a href="/servicios/#academica" style="text-decoration:none; background:var(--blue-dark); border-radius:12px; padding:20px; border:1px solid var(--blue-dark); display:block; text-align:center;">
-        <div style="font-size:1.8rem; margin-bottom:10px;">🎓</div>
-        <div style="font-size:0.88rem; font-weight:600; color:white;">Orientación académica</div>
-        <div style="font-size:0.78rem; color:rgba(255,255,255,0.7); margin-top:4px;">Qué estudiar</div>
-      </a>
-      <a href="/servicios/#profesional" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
-        <div style="font-size:1.8rem; margin-bottom:10px;">💼</div>
-        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Orientación profesional</div>
-        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Futuro laboral</div>
-      </a>
-      <a href="/servicios/#tests" style="text-decoration:none; background:white; border-radius:12px; padding:20px; border:1px solid var(--border); display:block; text-align:center;">
-        <div style="font-size:1.8rem; margin-bottom:10px;">🧩</div>
-        <div style="font-size:0.88rem; font-weight:600; color:var(--blue-dark);">Tests</div>
-        <div style="font-size:0.78rem; color:var(--text-light); margin-top:4px;">Personalidad y aptitudes</div>
-      </a>
+    <p style="text-align:center; color:var(--text-light); max-width:680px; margin:0 auto 28px;">Artículos escritos desde más de 35 años de experiencia orientando a familias, jóvenes y profesionales. Si buscas contratar una sesión, visita la página de <a href="/servicios/" style="color:var(--blue-mid); font-weight:600;">Servicios</a>.</p>
+    <div style="text-align:center;">
+      <a href="/servicios/" class="btn btn-outline">Ver todos los servicios →</a>
     </div>
   </div>
 </section>
@@ -37,7 +19,8 @@
 <!-- ARTÍCULOS DE ORIENTACIÓN -->
 <section class="blog-list">
   <div class="container">
-    {{ $orientacion := where .Site.RegularPages "Params.category" "Orientación" }}
+    {{ $cats := slice "Orientación" "Educación Internacional" "Universidades" }}
+    {{ $orientacion := where .Site.RegularPages "Params.category" "in" $cats }}
     {{ if $orientacion }}
     <div class="posts-grid">
       {{ range $orientacion }}

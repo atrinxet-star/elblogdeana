@@ -376,47 +376,48 @@ em { color: var(--blue-mid); font-style: normal; }
   .footer-grid { grid-template-columns: 1fr; }
   .hero-actions { flex-direction: column; align-items: flex-start; }
 
-  /* Secciones con grid inline en layouts */
-  [style*="grid-template-columns: 1fr 1fr"],
-  [style*="grid-template-columns: 1fr 1.6fr"],
-  [style*="grid-template-columns: 1fr 2fr"],
-  [style*="grid-template-columns: repeat(2"],
-  [style*="grid-template-columns: repeat(3"],
-  [style*="grid-template-columns: repeat(4"] {
+  /* Todos los grids inline pasan a columna única en móvil */
+  [style*="grid-template-columns"] {
     display: block !important;
   }
 
-  /* Tarjetas de "A quién ayudo" */
-  [style*="grid-template-columns: repeat(3,1fr)"] > div,
-  [style*="grid-template-columns: repeat(4,1fr)"] > div {
-    margin-bottom: 16px;
-  }
-
-  /* Artículos relacionados */
-  .article-footer [style*="grid-template-columns: repeat(3,1fr)"] {
-    display: grid !important;
-    grid-template-columns: 1fr !important;
-  }
-
-  /* Proceso 4 pasos */
-  [style*="repeat(4,1fr)"] {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr !important;
+  /* Espacio entre bloques apilados */
+  [style*="grid-template-columns"] > div,
+  [style*="grid-template-columns"] > a,
+  [style*="grid-template-columns"] > article {
+    margin-bottom: 20px !important;
   }
 
   /* Padding reducido en móvil */
-  section[style*="padding: 80px 0"] {
-    padding: 40px 0 !important;
+  section[style*="padding: 80px 0"],
+  section[style*="padding: 100px 0"],
+  section[style*="padding: 60px 0"] {
+    padding: 36px 0 !important;
   }
 
-  /* Logo tagline más corto en móvil */
+  /* Logo tagline oculto en móvil */
   .logo-tagline { display: none; }
 
   /* Texto hero más pequeño */
-  .hero h1 { font-size: 1.9rem !important; }
+  .hero h1 { font-size: 1.75rem !important; }
+  .hero-text { font-size: 0.95rem !important; }
 
   /* Container padding */
   .container { padding: 0 16px; }
+
+  /* Imágenes full width en móvil */
+  [style*="max-height:380px"], [style*="max-height:420px"], [style*="max-height:440px"] {
+    max-height: 220px !important;
+  }
+
+  /* Padding en cajas de texto reducido */
+  [style*="padding: 48px"], [style*="padding: 60px"] {
+    padding: 24px !important;
+  }
+
+  /* Botones centrados */
+  .btn { display: block; text-align: center; }
+  .hero-actions .btn { display: inline-block; }
 
   /* Article body */
   .article-header, .article-body, .article-footer { padding-left: 16px; padding-right: 16px; }

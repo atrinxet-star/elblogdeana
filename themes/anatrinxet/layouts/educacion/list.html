@@ -8,7 +8,8 @@
 
 <section class="blog-list">
   <div class="container">
-    {{ $educacion := where .Site.RegularPages "Params.category" "Educación" }}
+    {{ $cats := slice "Educación" "Pedagogía para padres" "Infancia" "Adolescencia" }}
+    {{ $educacion := where .Site.RegularPages "Params.category" "in" $cats }}
     {{ if $educacion }}
     <div class="posts-grid">
       {{ range $educacion }}
