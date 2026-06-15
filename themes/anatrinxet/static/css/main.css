@@ -366,7 +366,7 @@ em { color: var(--blue-mid); font-style: normal; }
   .footer-brand { grid-column: 1 / -1; }
 }
 @media (max-width: 768px) {
-  .nav-links { display: none; flex-direction: column; position: absolute; top: 70px; left: 0; right: 0; background: var(--white); border-bottom: 1px solid var(--border); padding: 20px; gap: 4px; box-shadow: var(--shadow); }
+  .nav-links { display: none; flex-direction: column; position: absolute; top: 70px; left: 0; right: 0; background: var(--white); border-bottom: 1px solid var(--border); padding: 20px; gap: 4px; box-shadow: var(--shadow); z-index: 999; }
   .nav-links.open { display: flex; }
   .nav-toggle { display: flex; }
   .hero .container { grid-template-columns: 1fr; gap: 40px; }
@@ -375,6 +375,51 @@ em { color: var(--blue-mid); font-style: normal; }
   .services-grid, .posts-grid { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1fr; }
   .hero-actions { flex-direction: column; align-items: flex-start; }
+
+  /* Secciones con grid inline en layouts */
+  [style*="grid-template-columns: 1fr 1fr"],
+  [style*="grid-template-columns: 1fr 1.6fr"],
+  [style*="grid-template-columns: 1fr 2fr"],
+  [style*="grid-template-columns: repeat(2"],
+  [style*="grid-template-columns: repeat(3"],
+  [style*="grid-template-columns: repeat(4"] {
+    display: block !important;
+  }
+
+  /* Tarjetas de "A quién ayudo" */
+  [style*="grid-template-columns: repeat(3,1fr)"] > div,
+  [style*="grid-template-columns: repeat(4,1fr)"] > div {
+    margin-bottom: 16px;
+  }
+
+  /* Artículos relacionados */
+  .article-footer [style*="grid-template-columns: repeat(3,1fr)"] {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Proceso 4 pasos */
+  [style*="repeat(4,1fr)"] {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* Padding reducido en móvil */
+  section[style*="padding: 80px 0"] {
+    padding: 40px 0 !important;
+  }
+
+  /* Logo tagline más corto en móvil */
+  .logo-tagline { display: none; }
+
+  /* Texto hero más pequeño */
+  .hero h1 { font-size: 1.9rem !important; }
+
+  /* Container padding */
+  .container { padding: 0 16px; }
+
+  /* Article body */
+  .article-header, .article-body, .article-footer { padding-left: 16px; padding-right: 16px; }
 }
 @media (min-width: 769px) and (max-width: 1024px) {
   .services-grid { grid-template-columns: repeat(2, 1fr); }
