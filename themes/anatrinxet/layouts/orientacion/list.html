@@ -1,60 +1,77 @@
 {{ define "main" }}
+
+<!-- HERO ORIENTACIÓN -->
 <section class="page-hero">
   <div class="container">
-    <h1>Orientación educativa y profesional</h1>
-    <p class="page-desc">Artículos y recursos sobre tests de personalidad, orientación académica, elección de carrera y cómo ayudar a tus hijos a encontrar su camino.</p>
+    <h1>¿Qué es la orientación educativa?</h1>
+    <p class="page-desc">Orientar no es decidir por alguien. Es acompañarle a descubrir quién es y qué camino le corresponde.</p>
   </div>
 </section>
 
-<!-- INTRO ORIENTACIÓN -->
-<section style="padding: 48px 0; background: var(--off-white);">
+<!-- QUÉ ES LA ORIENTACIÓN -->
+<section style="padding: 80px 0;">
   <div class="container">
-    <p style="text-align:center; color:var(--text-light); max-width:680px; margin:0 auto 28px;">Artículos escritos desde más de 35 años de experiencia orientando a familias, jóvenes y profesionales. Si buscas contratar una sesión, visita la página de <a href="/servicios/" style="color:var(--blue-mid); font-weight:600;">Servicios</a>.</p>
-    <div style="text-align:center;">
-      <a href="/servicios/" class="btn btn-outline">Ver todos los servicios →</a>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:center;">
+      <div>
+        <span class="section-label">Mi enfoque</span>
+        <h2 style="margin:12px 0 20px;">La orientación que cambia decisiones</h2>
+        <p style="font-size:1.05rem; color:var(--text-light); margin-bottom:20px;">La orientación educativa y profesional es un proceso de acompañamiento personalizado que ayuda a las personas — y a sus familias — a tomar decisiones importantes con criterio, información y autoconocimiento.</p>
+        <p style="margin-bottom:20px;">No es terapia. No es consejo de amigos. Es una herramienta profesional que combina la escucha, el análisis y los tests validados para revelar quién es realmente una persona y qué camino encaja mejor con ella.</p>
+        <p style="margin-bottom:32px; font-weight:600; color:var(--blue-dark);">Llevo más de 35 años haciendo esto. Y sigo fascinada cada vez que un test abre una conversación que cambia el futuro de alguien.</p>
+        <a href="/servicios/" class="btn btn-primary">Ver mis servicios</a>
+      </div>
+      <div>
+        <img src="/img/madre-adolescente-apoyo.jpg" alt="Orientación educativa Ana Trinxet" style="width:100%; border-radius:16px; box-shadow:0 16px 48px rgba(0,0,0,0.12);">
+      </div>
     </div>
   </div>
 </section>
 
-<!-- ARTÍCULOS DE ORIENTACIÓN -->
-<section class="blog-list">
+<!-- LOS 4 TIPOS -->
+<section style="padding:80px 0; background:var(--off-white);">
   <div class="container">
-    {{ $cats := slice "Orientación" "Educación Internacional" "Universidades" }}
-    {{ $orientacion := where .Site.RegularPages "Params.category" "in" $cats }}
-    {{ if $orientacion }}
-    <div class="posts-grid">
-      {{ range $orientacion }}
-      <article class="post-card">
-        {{ if .Params.image }}
-        <div class="post-image">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-        </div>
-        {{ end }}
-        <div class="post-content">
-          <span class="post-category">{{ .Params.category }}</span>
-          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-          <p>{{ .Summary | truncate 140 }}</p>
-          <div class="post-meta">
-            <time>{{ .Date.Format "2 Jan 2006" }}</time>
-            <a href="{{ .Permalink }}" class="read-more">Leer →</a>
-          </div>
-        </div>
-      </article>
-      {{ end }}
+    <div class="section-header">
+      <span class="section-label">Cuatro áreas</span>
+      <h2>Lo que puedo hacer por ti</h2>
     </div>
-    {{ else }}
-    <p style="text-align:center; color:var(--text-light); padding:60px 0;">Próximamente más artículos de orientación.</p>
-    {{ end }}
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:20px;">
+      <div style="background:white; border-radius:16px; padding:28px 22px; border:1px solid var(--border);">
+        <div style="font-size:2rem; margin-bottom:14px;">👨‍👩‍👧</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Orientación educativa</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:16px;">Para padres que quieren entender a su hijo y acompañarle mejor en su educación.</p>
+        <a href="/conoce-a-tu-hijo/" style="font-size:0.82rem; color:var(--blue-mid); font-weight:600;">Conoce a tu hijo →</a>
+      </div>
+      <div style="background:var(--blue-dark); border-radius:16px; padding:28px 22px;">
+        <div style="font-size:2rem; margin-bottom:14px;">🎓</div>
+        <h3 style="font-size:1rem; color:white; margin-bottom:8px;">Orientación académica</h3>
+        <p style="font-size:0.85rem; color:rgba(255,255,255,0.7); margin-bottom:16px;">Qué estudiar, dónde y cómo elegir bien. Para estudiantes en momentos de decisión.</p>
+        <a href="/servicios/#academica" style="font-size:0.82rem; color:#7fc3f5; font-weight:600;">Ver servicio →</a>
+      </div>
+      <div style="background:white; border-radius:16px; padding:28px 22px; border:1px solid var(--border);">
+        <div style="font-size:2rem; margin-bottom:14px;">💼</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Orientación profesional</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:16px;">Para adultos que quieren cambiar de carrera o encontrar su camino profesional.</p>
+        <a href="/servicios/#profesional" style="font-size:0.82rem; color:var(--blue-mid); font-weight:600;">Ver servicio →</a>
+      </div>
+      <div style="background:white; border-radius:16px; padding:28px 22px; border:1px solid var(--border);">
+        <div style="font-size:2rem; margin-bottom:14px;">🧩</div>
+        <h3 style="font-size:1rem; color:var(--blue-dark); margin-bottom:8px;">Tests de personalidad</h3>
+        <p style="font-size:0.85rem; color:var(--text-light); margin-bottom:16px;">Herramientas profesionales validadas para todas las edades, desde los 5 años.</p>
+        <a href="/servicios/#tests" style="font-size:0.82rem; color:var(--blue-mid); font-weight:600;">Ver tests →</a>
+      </div>
+    </div>
   </div>
 </section>
 
+<!-- CTA -->
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
-      <h2>¿Necesitas orientación personalizada?</h2>
-      <p>Primera consulta gratuita. Sin compromiso.</p>
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Escríbeme</a>
+      <h2>¿Tienes una decisión importante por delante?</h2>
+      <p>Escríbeme. Primera consulta gratuita y sin compromiso.</p>
+      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Contactar a Ana</a>
     </div>
   </div>
 </section>
+
 {{ end }}

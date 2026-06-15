@@ -1,5 +1,5 @@
 ---
-image: "/img/jovenes-colegio.jpg"
+image: "/img/adolescente-estudia.jpg"
 title: "¿Qué estudiar? La pregunta más importante que nadie enseña a responder"
 date: 2025-09-05
 description: "Cada año miles de jóvenes eligen carrera por descarte, por nota de corte o por presión familiar. Hay una forma mejor de hacerlo."
