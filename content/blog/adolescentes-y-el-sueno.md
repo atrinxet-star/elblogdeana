@@ -1,98 +1,44 @@
 ---
 image: "/img/adolescente-estudia.jpg"
-title: "LOS ADOLESCENTES Y EL SUEÑO"
+title: "Los adolescentes y el sueño: por qué no es pereza, es biología"
 date: 2024-04-22
-description: "Hace muchos años, quizás 10 o 15 años,  cuando mi hijo mayor empezó la adolescencia escribí un post sobre el sueño en la adolescencia. Oía a muchas madres y pad"
+description: "Cuando mi hijo mayor empezó la adolescencia, escribí mi primer post sobre el sueño adolescente. Años después, sigue siendo uno de los temas que más preocupa a las familias."
 category: "Adolescencia"
 tags: ["adolescentes", "sueño", "salud", "bienestar"]
 ---
 
-Hace muchos años, quizás 10 o 15 años,  cuando mi hijo mayor empezó la adolescencia escribí un post sobre el sueño en la adolescencia. Oía a muchas madres y padres quejándose de sus hijos: siempre dormidos por los sillones, perezosos, una lucha para que haga algo, etc.
+Hace muchos años, cuando mi hijo mayor empezó la adolescencia, escribí un primer post sobre el sueño en esta etapa. Oía entonces a muchas madres y padres quejarse de lo mismo: hijos siempre tumbados en el sillón, perezosos, una lucha constante para que hicieran cualquier cosa. Hoy se habla abiertamente de una nueva epidemia entre los adolescentes: la falta de sueño. Y la explicación, en el fondo, sigue siendo la misma de entonces.
 
-Hoy se habla de “la nueva #epidemia de los adolescentes y la falta de #sueño”
+## El ritmo circadiano
 
-Queridos padres esto es lo que le pasa a tu adolescente:
+Seguramente has oído hablar del ritmo circadiano: el ciclo natural de cambios físicos, mentales y de comportamiento que nuestro cuerpo atraviesa cada 24 horas, regulado en gran medida por la luz solar.
 
-ENTENDAMOS EL SUEÑO EN LA ADOLESCENCIA
+Cuando un niño entra en la adolescencia, ese ritmo cambia. La melatonina, la hormona que le dice a nuestro cuerpo "vamos a dormir", se libera mucho más tarde, normalmente pasadas las once de la noche. Antes de eso, sencillamente no va a tener sueño, por mucho que insistamos. Los últimos estudios apuntan a que este ritmo circadiano puede alargarse hasta las 25 o 26 horas en la adolescencia, lo que explicaría por qué muchos adolescentes nunca encuentran el momento "natural" de irse a dormir.
 
-RITMO CIRCADIANO:
+## Cuántas horas necesita dormir
 
-Hay una palabreja que quizás hayas oído, ritmo #circadiano. Este es el ritmo natural de nuestros cambios físicos, mentales y de comportamiento que sufre nuestro cuerpo en el transcurso de un día, o sea 24 horas.   Estos ritmos circadianos están afectados principalmente por la luz del sol.
+Un adolescente debería dormir entre 8 y 10 horas diarias, casi como un bebé. Tiene sentido si lo piensas así: el cambio físico e intelectual que vive un bebé entre el primer y el quinto año es enorme, y el que vive un adolescente entre los 11 y los 17 años no lo es menos. Ese desarrollo necesita sueño para consolidarse.
 
-Pues bien, cuando tu niño empieza a entrar en la adolescencia empieza también a tener un cambio en su ritmo circadiano, esto significa que su biorritmo cambia, la hormona de la melatonina que es la encargada de decir a nuestro cuerpo “vamos a dormir” se libera mucho más tarde, pasadas  las 11pm, así que antes  no tendrá sueño. Cuando empiece a liberarse la melatonina, a partir de las 11pm, entonces al cabo de media hora, más o menos, empezará a tener sueño, calcula sobre las 11:30h / 12:00h.
+## Lo que sabotea su descanso
 
-Los últimos estudios apuntan a que este ritmo circadiano en la adolescencia se alarga hasta 25 ó 26 horas, este podría ser uno de los motivos por el cual el adolescente nunca encuentra el momento de ir a dormir.
+Entre los 11 y los 18 años, los adolescentes atraviesan cambios constantes —hormonales, emocionales, psicológicos y sociales— que les exigen un esfuerzo mental y físico considerable. A eso se suma el efecto del grupo: socializar hoy significa estar en las redes, y eso no sucede a las siete de la mañana, sino por la noche, cuando todos están más despiertos y activos.
 
-HORAS DE SUEÑO
+Muchos adolescentes duermen apenas seis horas, entre la carga de tareas escolares —cada vez más exigente hasta Bachillerato— y las actividades extraescolares. Varios estudios han demostrado que la hora ideal para despertarse estaría entre las 9 y las 10 de la mañana: si a un adolescente le haces un examen de matemáticas a las 8:30 y el mismo examen a las 11:30, la diferencia en la nota puede llegar a un punto y medio. Su cerebro, sencillamente, sigue medio dormido cuando entra a clase.
 
-El adolescente ha de dormir ¡como un bebe! Entre 8 y 10 horas diarias.
+El sueño REM es, además, la fase en la que el cerebro consolida lo aprendido el día anterior. Recortar horas de sueño no ayuda en nada al rendimiento escolar; todo lo contrario.
 
-Si te fijas, en el cambio que hace un bebé desde el 1 año a los 5 años, el cambio es inmenso, física e intelectualmente, ¿correcto? Pues si miras el cambio que hace un adolescente desde los 11/12 años hasta los 17 más o menos, el cambio es también enorme física e intelectualmente. ¡Así que han de dormir!
+## Cómo actuar
 
-AGENTES EXTERNOS
+Los sermones no sirven de nada: en cuanto los adolescentes detectan el tono, desconectan. Funciona mucho mejor hablar de forma distendida, en un momento en que estén receptivos, sobre las consecuencias reales de la falta de sueño, apoyándote en ejemplos de terceros antes que en advertencias directas.
 
-Tu hijo va a ir experimentando desde los 11/12 años hasta los 18 años, más o menos, cambios constantes, todos le van a suponer un esfuerzo a nivel mental y físico: cambios hormonales, emocionales, psicológicos y sociales. El efecto del grupo, ser social, estar donde todos, es importante. Por lo que se junta, con el tema del sueño, las redes sociales. Estar enganchados al móvil y no perderse nada es lo que cuenta, lo importante para ellos. Socializar es ahora estar en las redes, y no lo hacen a las 7 de la mañana, lo hacen por la noche, cuando todos está más despiertos y activos.
+**La cena.** Lo que se come antes de dormir puede ayudar a conciliar el sueño, igual que otros alimentos —el café, el azúcar, las bebidas con cola— hacen justo el efecto contrario. Los alimentos ricos en triptófano o melatonina son los más recomendables: frutos secos como almendras y nueces, lácteos, carne de ave, frutas como fresas, cerezas, plátano o kiwi, cereales como arroz, avena y maíz, pescado azul, huevos, zanahoria, e infusiones de manzanilla o tila. Los alimentos calientes antes de dormir también ayudan: el cuerpo trabaja para bajar la temperatura y eso favorece la somnolencia.
 
-El adolescente no da pesar de que puede estar medio dormido por las mañanas.  Puede llegar a verlo como otra imposición de los padres. Muchos duermes unas 6 horas, más o menos, debido a la carga diaria de tareas escolares, una época que se empieza a estudiar y hacer trabajos cada vez con más exigencia hasta Bachillerato y además con extraescolares como inglés, deporte, etc.
+**Las pantallas.** Los dispositivos electrónicos emiten luz azul, que el cerebro interpreta como luz diurna. Mientras la detecta, no segrega melatonina, así que cuesta mucho más conciliar el sueño después de apagarlos. La solución más sencilla es activar el modo de luz cálida en el móvil y la tablet, y usar filtros de luz amarilla en el ordenador.
 
-Varios estudios han demostrado que la hora ideal para despertarse seria entre las 9am y las 10am. Te puede escandalizar, pero es real, si hacemos un examen de matemáticas a un adolescente a las 8.30am y le hacemos el mismo examen a las 11.30 am la variación de la nota puede llegar al punto y medio. Esto significa que nuestro adolescente, que entra en clase a las 8.30am su cerebro aun sigue durmiendo y empezará a estar activo una hora u hora y media más tarde.
+**Los horarios.** Al final, todo se reduce a mantener un horario con una hora fija para apagar la luz y conseguir las horas de sueño necesarias. Se puede ser algo más flexible el fin de semana y más estricto entre semana, procurando que los deberes de la semana queden hechos antes del domingo, para no tener que terminarlos de madrugada.
 
-El rendimiento escolar se puede ver afectado si nuestro adolescente no descansa las horas que necesita. La última fase del sueño es cuando nuestro cerebro almacena la información de los aprendido el día anterior (sueño REM) así que acortar esas horas de sueño no ayuda en absoluto en el rendimiento escolar.
+## En resumen
 
-CÓMO ACTUAR
+La adolescencia es una etapa de cambios psicológicos, físicos y hormonales profundos, en la que además se les exige rendimiento académico y se enfrentan a retos diarios en muchos frentes. Necesitan sentir que tienen nuestro apoyo, y apoyarles significa también ser ese brazo firme que sabe lo que les conviene, aunque no siempre sea fácil conseguir que apaguen la luz a tiempo.
 
-No sirve de nada dar sermones a nuestros hijos, desconectan solo vernos la cara. Pero en cambio hablar de forma distendida, en momentos en los que está más receptivo, sobre las consecuencias de la falta de sueño, con ejemplos de terceros puede ir muy bien.
-
-Algunos consejos que te pueden ayudar a ti y a tu adolescente
-
-LA CENA:
-
-La alimentación antes de ir a dormir puede ayudar a conciliar el sueño, así como otros alimentos ya conocidos excitan y hacen el efecto contrario como el café, el azúcar o las colas.
-
-Los alimentos ricos en aminoácido Triptófano o melatonina son los aconsejables.
-
-Sabiendo que a nuestro adolescente le cuesta encontrar el momento para ir a dormir haremos una dieta que contenga alguno de los alimentos de la lista para ayudarle.
-
-Te dejo el listado de los alimentos ricos en el aminoácido Triptófano o melatonina
-
-Frutos secos: almendras y nueces
-
-Productos lácteos por su alto contenido en triptófanos.
-
-Carne de ave también por su alto contenido en triptófano
-
-Frutas: Fresas, cerezas, plátano y kiwi, este último además posee serotonina.
-
-Cereales: arroz, avena y maíz son fuentes naturales de melatonina.
-
-Pescado azul: atún o salmón, tienen un alto contenido en Omega-3 y vitamina D
-
-Huevos
-
-Zanahoria
-
-Te de manzanilla y o tila caliente.
-
-Los alimentos calientes antes de dormir hacen trabajar al cuerpo para bajar la temperatura y esto provoca somnolencia. Un estudio de Journal of Sleep Research vinculo la Omega-3 a un sueño más profundo y reparador.
-
-El carbohidrato, al contrario de lo que a veces se piensa, ayuda a conciliar el sueño y recuerda que los adolescentes ¡comen mucho!
-
-Un estudio reciente publicado en Sleep ha demostrado que la falta de Vitamina D puede alterar el sueño, los huevos y la leche son fuente de esta vitamina esencial.
-
-ESTUDIAR
-
-Algo que debes saber tu y tu hijo es que los aparatos electrónicos emiten “luz azul”, esta luz azul el cerebro la asocia a la luz diurna, con lo cual entiende que aun es de día y no segrega la melatonina. Esto hace que sigamos sin sensación de sueño y una vez apaguen el ordenador o dejen el móvil les cueste dormir.
-
-Para solucionar esta situación: existe un mecanismo en el móvil y iPad que puedes desactivar la luz azul, enseguida lo notas es una luz más cálida y amarillenta. Para el ordenador existen una pantallas o lentes de luz amarilla que impiden o atenúan esta luz azul, dejando que la melatonina haga su función.
-
-HORARIOS
-
-Sabiendo ya lo que sabes, lo único que queda es remarcar que se ha de seguir un horario, unas horas de apagar la luz para conseguir las horas de sueño adecuadas.
-
-Puedes llegar a unos convenios un poco más laxos el fin de semana y más rigurosos entre semana. Intenta que avance todos los deberes de la semana el fin de semana para que no tenga que estar haciendo deberes hasta tarde por la noche.
-
-En conclusión, la adolescencia es una etapa de cambio psicológicos, físicos y hormonales, donde además se les exige rendimiento académico, se descubren ellos mismos dentro de la sociedad, y tienen muchos retos diarios en muchos frentes. Así que hemos de apoyarles y ellos han de sentir que tienen ese apoyo que tanto necesitan, pero apoyarse significa que tu has de ser un brazo firme que sabes lo que necesita y le conviene.
-
-A veces no te será fácil hacer que tu adolescente apague la luz, los aparatos electrónicos no ayudan y ahora ya sabes que incluso impiden que les entre el sueño, así que ahí has de poner limites y horarios.
-
-Ánimo! Nadie dijo que educar fuera fácil!
+No es pereza, no es rebeldía: es biología. Entenderlo nos permite ser más empáticos con ellos sin renunciar a la estructura que necesitan.

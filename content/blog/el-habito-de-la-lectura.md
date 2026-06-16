@@ -1,118 +1,61 @@
 ---
 image: "/img/padre-hija-lectura.jpg"
-title: "EL HABITO DE LA LECTURA"
+title: "Guía completa para fomentar el hábito de la lectura en tus hijos"
 date: 2024-02-28
-description: "PRIMERA PARTE"
+description: "A todo el mundo le puede gustar leer, solo hay que ayudarles a descubrir ese mundo. Los cinco pasos que recomiendo para crear el hábito de lectura, de los 4 a los 16 años."
 category: "Infancia"
 tags: ["lectura", "hábitos", "infancia", "educación", "aprendizaje"]
 ---
 
-PRIMERA PARTE
+Cuántas veces hemos oído la frase: "qué suerte que a tu hijo le guste leer, al mío no le gusta nada". Pues bien, a todo el mundo le puede gustar leer. Solo hay que ayudarles a descubrir ese mundo de la forma adecuada.
 
-Muchas veces hemos oído la frase:
+Leer es, para unos, estar al día de lo que pasa en el mundo; para otros, un rato de ocio, entretenimiento o aprendizaje. Cada uno lo hace por motivos distintos, pero en el fondo leer siempre es comunicar, aprender, soñar, pasar un buen rato a solas, en silencio, en calma. Los niños que están acostumbrados a leer mucho, leen más rápido, comprenden mejor lo que leen y se concentran con más facilidad. Por eso nos interesa tanto que nuestros hijos cojan este hábito y no lo dejen.
 
-Qué suerte que a tu hijo le gusta leer, al mÍo no le gusta nada .
+## Primer paso: predicar con el ejemplo
 
-A todo el mundo le puede gustar leer!!, sólo hay que hacerles descubrir ese mundo.
+Si no nos ven aficionados a la lectura, poco vamos a poder influir en ellos, por muchos argumentos de peso que les demos. Los hijos que ven leer a sus padres tienen mucho ganado. Que nos vean con un libro en el salón o en la cama, que nos lleven el libro de viaje el fin de semana... no es un detalle menor, es fundamental. Eso ya crea en ellos, desde pequeños, una certeza: los mayores leen, y no porque lo manden en el colegio, sino porque lo hace todo el mundo.
 
-Leer, para unos, es estar al día de lo que pasa en el mundo, para otros, se asocia a un rato de ocio, entretenimiento,  aprendizaje, etc.
+## Segundo paso: crear afición desde la diversión
 
-Cada uno lo hace por motivos diferentes. Leer es comunicar, aprender, soñar, es pasar un buen rato a solas, en silencio, en calma.
+El hábito de la lectura debe empezar a trabajarse desde que comienzan a leer, o incluso antes, simplemente pasando páginas de libros con poca letra y muchos dibujos. Para crearlo:
 
-Los que están acostumbrados a leer mucho, leen más rápido, tienen mejor comprensión lectora y se concentran con mayor facilidad.  Así que nos interesa que nuestros hijos cojan este habito y no lo dejen!!
+- Los libros tienen que formar parte del estante de los juguetes, como uno más, variados y adecuados a su edad.
+- Ve con ellos a comprar los libros que quieran leer. Tómate tu tiempo, mira, hojea, enséñale varios. Visita librerías o bibliotecas sin prisa.
+- Al volver a casa, comenta el libro con él: hazle preguntas que le lleven a interesarse por el argumento, por los dibujos.
+- Reserva los regalos extra para libros, cuentos o revistas. En Navidad, cumpleaños u otras celebraciones, procura que siempre haya algún libro entre los regalos.
+- No intentes influir en lo que lee: si quiere una revista o un cómic, déjale. Al principio, lo importante es que vea que para ti leer es algo serio e importante, no qué formato concreto tiene entre manos.
 
-Para que tu hijo coja esta afición por la lectura que le ayudará el resto de su vida hay varios puntos que se han de trabajar:
+Hasta que coge el hábito, hay gestos que parecen irrelevantes pero ayudan mucho: que te vean disfrutar de compartir ese rato, que valores sus avances delante de los demás. Frases tan simples como "qué bien has leído hoy, se lo vamos a contar a papá" o "cómo me gusta este ratito contigo" convierten la lectura en un regalo de atención exclusiva, y eso es lo que hace que un niño quiera repetir ese rato cada día.
 
-- PRIMER PASO
+![Segunda parte: el hábito y el horario de lectura](/img/habito-lectura-2.jpg)
 
-Predicar con el ejemplo:
+## Tercer paso: el hábito y el horario (de 4 a 10 años)
 
-Es real y cierto que si no nos ven aficionados a la lectura, poco vamos a poder influir en ellos con argumentos de peso y creíbles.
+El rato antes de dormir es ideal para leer. No siempre es fácil, sobre todo si hay más de un hijo reclamando atención, pero conviene hacerlo en riguroso orden cada día, sin dar prisa: con las prisas y los nervios, se lee peor.
 
-Los hijos que ven a sus padres leer tienen mucho ganado.  El hecho de que nos vean con un libro de lectura en el salón o en la cama,  que vean que nos llevamos el libro el fin de semana, si nos vamos fuera, o de viaje… no es importante, es fundamental!.  Eso ya crea en ellos una curiosidad y una realidad desde que son pequeños: los mayores leen!.
+Una vez instalados cómodamente, empieza tú a leer un par de páginas para que se introduzca en la historia —les encanta que les lean en voz alta— y, cuando notes que ya está metido en ella, pásale el turno. Empieza por media página, luego una página entera, alternando la lectura entre los dos. Al principio se cansan rápido; no pasa nada, retomas tú y vuelves a pasarle el turno en la página siguiente. Es mejor que leas tú más que él al principio: así se acostumbra a imaginar la historia mientras escucha.
 
-No es una obligación del colegio, lo hace todo el mundo.
+Para trabajar la comprensión lectora, ve avanzando poco a poco: primero una frase y que te explique lo que ha leído, después tres frases, después un párrafo entero. Si un día está muy cansado, no le obligues a leer, pero no te saltes el rato: lee tú un par de páginas y a dormir. Aprovecha también para enseñarle a entonar y a respetar las comas y los puntos.
 
-- SEGUNDO PASO
+No todos los niños aprenden a leer con la misma fluidez. No les interrumpas mientras leen, salvo si inventan una palabra; si una palabra larga les cuesta, puedes ayudarles tapando el final con el dedo para que la descifren poco a poco. Hace falta paciencia, mucha, y morderse la lengua para no terminarles la palabra. Pero si lo haces bien, les acabará gustando leer contigo, y con el tiempo irán cogiendo el hábito de leer solos en la cama.
 
-Crear  afición  desde la diversión.
+Algunas referencias que suelo recomendar: para ellas, *Valeria Varita* o *Martina*; para ellos, *Gerónimo Stilton*; y para ambos, los cuentos clásicos de Disney. Aunque hay muchas opciones en Amazon, sigue siendo mucho mejor ir con ellos a elegirlos en persona.
 
-El hábito de la lectura, la afición por los libros, ha de comenzarse a trabajar desde que empiezan a leer. O incluso antes, sólo pasando páginas de libros con poca letra y muchos dibujos.
+![Tercera parte: comentar el libro y mantener el hábito de lectura](/img/habito-lectura-3.jpg)
 
-Para crear esta afición:
+## Cuarto paso: comentar el libro
 
-Los libros han de formar parte del estante de los juguetes (han de ser un juguete más), han de ser, también,  variados y para su edad.
+Hablar del libro que se está leyendo motiva enormemente. Preguntas como "¿qué te parece?", "¿qué crees que debería hacer el protagonista?" o "¿tú qué harías en su lugar?" convierten la lectura en un vínculo comunicativo, además de en una oportunidad para trabajar la empatía y el pensamiento crítico.
 
-Ves con ellos a comprar los libros que quieran leer, estate un buen rato, mirando, ojeando,  enseñándole varios. Ves a varias librerías o biblioteca. No tengas prisa cuando vayas.
+## Quinto paso: mantener el hábito
 
-De vuelta a casa, después de haberlo comprado, comenta el libro con él, hazle preguntas que le lleven a interesarse  por el argumento, los dibujos, etc.
+Aprender a leer es solo el principio; lo difícil es que el hábito no se rompa. El objetivo final son cinco metas: rapidez lectora, vocabulario, comprensión, capacidad de resumen y concentración. La constancia es clave: si un libro resulta aburrido y lo deja a medias, y tiene menos de 12 años, puedes empezar a leerlo tú con él para comprobar si realmente no engancha o solo necesitaba un empujón.
 
-Resérvate los regalos extras para comprarle algún libro, cuento o revista.
+## Evolución por edades
 
-No quieras influir en sus lecturas, si quiere leer una revista o comics,  déjale que lo haga. Lo importante al principio es que vea que para ti es importante y que te tomas muy en serio el tema de que lea. El que tenga entre manos un libro, una revista o comic… al principio no es relevante.
+- **5-6 años:** deben empezar a identificar letras y a leer.
+- **7-9 años:** etapa para ganar confianza, agilidad y asentar la comprensión lectora.
+- **10-13 años:** la afición ya debería estar encaminada; empiezan a leer solos en la cama por iniciativa propia.
+- **14-16 años:** toca leer con regularidad para construir una buena base, también de cara a los estudios.
 
-En Navidad, cumpleaños, santo u otras celebraciones haz que siempre hayan algún regalo que sea un libro.
-
-Hasta que cogen el hábito de la lectura, hay pasos que parecen irrelevantes pero que luego te ayudarán mucho, uno de ellos es que te vean con ganas de compartir este rato de aprendizaje, muestrale tu entusiasmo en sus adelantos y valoraslos delante de los demás!:
-
-Qué contenta estoy y qué bien has leído hoy, cuando venga papá se lo vamos a explicar, vale?
-
-Corre!, ves a lavarte los dientes y nos ponemos a leer, a ver qué pasa hoy con ”Pepito el conejito”!
-
-Cómo me gusta este ratito contigo, y a ti?
-
-No notas como has mejorado?
-
-Sabes que estás leyendo súper bien hoy?
-
-Si ve que leer, es un regalo de halagos a los oídos, además de pasar un rato exclusivo contigo, siempre querrá leer ese ratito.
-
-Fin Primera parte
-
-- TERCER PASO
-
-El Habito: Empieza poniendo un horario de lectura con él. (4,5,6 años hasta los 9/10)
-
-El rato de antes de irse a dormir es muy bueno para leer.
-
-A veces no es fácil, cuando tienes a más de uno que requiere tu atención. Pero hazlo por riguroso orden cada día, que sepa que no le vas a dar prisa, con las prisas y los nervios se lee peor.
-
-Cuando ya estéis instalados en su cama, cómodamente para leer, empieza tu ha hacerlo. Lee un par de páginas para que él se introduzca en la historia (les encanta que les lean!) cuando creas que ya sabe de que va, que está concentrado y metido en la historia, pásaselo y que siga leyendo él/ella.
-
-Primero ½ página, después con el tiempo 1 página. Alternar la lectura entre tu y él/ella, es lo mejor, al principio se cansan rápido. No pasa nada, vuelves a retomar tu la lectura, y la página siguiente se lo vuelves a pasar.
-
-Lee siempre más tu que él/ella, de esta forma se acostumbra a imaginarse la historia. Les encanta que les lean en voz alta, hazlo pero haciendo que participe, 1 paginas tu y ½ él, después una pagina cada uno, etc.
-
-Para trabajar la comprensión lectora empieza muy poco a poco:
-
-Una frase y que te explique lo que ha leido
-
-3 frases y que te explique.
-
-1 párrafo y que te explique.
-
-Si un día está muy cansado no le hagas leer pero no te saltes ese rato de lectura, lee tu un par de paginas y a dormir!.
-
-Enséñale a entonar, a pararse en las comas, los puntos, etc.
-
-No todos los niños empiezan a leer con la misma fluidez, algunos les cuesta más que a otros. No les interrumpas cuando leen, solo si inventan la palabra. Puedes ayudarles, tapando el final de la palabra con el dedo si le cuestan las palabras largas.
-
-A veces es tremendo, y hay que cargarse de paciencia!!! Lo sé. Y morderse la lengua, hasta casi tragársela, para no terminarles una palabra!!. Pero si lo haces bien les gustará leer contigo y luego irán cogiendo el hábito de leer en la cama solos!
-
-Os dejo algunas referencias de libros en Amazon, en librerías infantiles también podéis encontrarlos, pero como os comentaba, es mucho mejor ir con ellos/as a comprarlos!!
-
-Libros infantiles para niñas:
-
-Valeria Varita en Amazon: http://goo.gl/D5uspe
-
-Martina en Amazon: http://goo.gl/qf6kDR
-
-Cuentos de Disney: http://goo.gl/2Vauh4
-
-Libros infantiles para niños:
-
-Gerónimo Stilton en Amazon: http://goo.gl/jos177
-
-Cuentos de Disney en Amazon: http://goo.gl/2Vauh4
-
-Fin Primera parte
+La fórmula, a cualquier edad, es siempre la misma: constancia, paciencia y entusiasmo.
