@@ -1,0 +1,46 @@
+backend:
+  name: github
+  repo: atrinxet-star/elblogdeana
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+locale: es
+
+collections:
+  - name: blog
+    label: Posts del Blog
+    folder: content/blog
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Título, name: title, widget: string }
+      - { label: Fecha, name: date, widget: datetime, format: YYYY-MM-DD }
+      - { label: Descripción, name: description, widget: text }
+      - { label: Categoría, name: category, widget: select, options: ["Adolescencia", "Orientación Académica", "Orientación Profesional", "Pedagogía para padres", "Estudios en el Extranjero", "Universidad"] }
+      - { label: Etiquetas, name: tags, widget: list }
+      - { label: Imagen, name: image, widget: image, required: false }
+      - { label: Contenido, name: body, widget: markdown }
+
+  - name: pages
+    label: Páginas
+    files:
+      - label: Sobre mí
+        name: sobre-mi
+        file: content/sobre-mi.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Contenido, name: body, widget: markdown }
+      - label: Servicios
+        name: servicios
+        file: content/servicios.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Contenido, name: body, widget: markdown }
+      - label: Contacto
+        name: contacto
+        file: content/contacto.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Contenido, name: body, widget: markdown }
