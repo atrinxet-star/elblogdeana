@@ -180,7 +180,10 @@ em { color: var(--blue-mid); font-style: normal; }
 }
 .hero h1 { color: var(--white); margin-bottom: 20px; }
 .hero h1 em { color: #67e8f9; }
-.hero-text { color: rgba(255,255,255,0.85); font-size: 1.1rem; margin-bottom: 36px; max-width: 480px; }
+.hero-text { color: rgba(255,255,255,0.85); font-size: 1.1rem; margin-bottom: 16px; max-width: 480px; }
+.hero-list { color: rgba(255,255,255,0.85); font-size: 1.05rem; margin-bottom: 36px; max-width: 480px; padding-left: 0; list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.hero-list li { display: flex; align-items: flex-start; gap: 10px; }
+.hero-list li::before { content: "→"; color: var(--gold); font-weight: 700; flex-shrink: 0; }
 .hero-actions { display: flex; gap: 16px; flex-wrap: wrap; }
 .hero-card {
   background: rgba(255,255,255,0.1);
