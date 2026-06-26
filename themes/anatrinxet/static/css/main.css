@@ -101,7 +101,7 @@ em { color: var(--blue-mid); font-style: normal; }
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 70px;
+  height: 80px;
 }
 .logo {
   display: flex;
@@ -124,22 +124,24 @@ em { color: var(--blue-mid); font-style: normal; }
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 2px;
 }
 .nav-links li a {
-  padding: 8px 14px;
+  padding: 7px 10px;
   border-radius: 8px;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 500;
   color: var(--text);
   transition: all 0.2s;
+  white-space: nowrap;
 }
 .nav-links li a:hover, .nav-links li a.active { background: var(--blue-pale); color: var(--blue-mid); }
 .nav-cta {
   background: var(--blue-mid) !important;
   color: var(--white) !important;
   border-radius: 50px !important;
-  padding: 8px 20px !important;
+  padding: 8px 16px !important;
+  white-space: nowrap !important;
 }
 .nav-cta:hover { background: var(--blue-dark) !important; }
 .nav-toggle {
