@@ -1,5 +1,5 @@
 ---
-image: "/img/familia-sofa.jpg"
+image: "/img/adolescente-estudia.jpg"
 title: "Programas de inmersión lingüística: dónde hacerlos, cuándo y por qué"
 date: 2025-11-28
 description: "La inmersión lingüística es la mejor manera de aprender un idioma de forma natural y duradera. Te explico qué tipos existen, a qué edades y por qué marcan una diferencia real."
