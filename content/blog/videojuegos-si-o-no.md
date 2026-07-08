@@ -1,5 +1,5 @@
 ---
-image: "/img/videojuegos.jpg"
+image: "/img/nino-videojuegos.jpg"
 title: "Videojuegos, ¿sí o no?"
 date: 2026-03-08
 description: "La ciencia dice que los videojuegos de acción entrenan la atención y la toma de decisiones. Te explico qué dice la investigación y cómo sacarles partido sin que se conviertan en un problema."

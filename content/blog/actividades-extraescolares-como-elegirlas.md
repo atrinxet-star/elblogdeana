@@ -1,5 +1,5 @@
 ---
-image: "/img/actividades-extraescolares.jpg"
+image: "/img/ninos-extraescolares.jpg"
 title: "Cómo elegir las mejores actividades extraescolares para tu hijo"
 date: 2025-09-01
 description: "Llega el principio de curso y, con él, la carrera por llenar la agenda. Te explico por qué una agenda sobrecargada no es sinónimo de buena educación, y cómo elegir bien."
