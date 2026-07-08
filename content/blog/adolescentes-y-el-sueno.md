@@ -1,5 +1,5 @@
 ---
-image: "/img/madre-hijo-salon.jpg"
+image: "/img/adolescente-estudia.jpg"
 title: "Los adolescentes y el sueño: por qué no es pereza, es biología"
 date: 2024-04-22
 description: "Cuando mi hijo mayor empezó la adolescencia, escribí mi primer post sobre el sueño adolescente. Años después, sigue siendo uno de los temas que más preocupa a las familias."
