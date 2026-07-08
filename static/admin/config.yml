@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: atrinxet-star/elblogdeana
+  name: git-gateway
   branch: master
 
 media_folder: static/img
