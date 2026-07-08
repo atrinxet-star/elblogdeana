@@ -1,5 +1,5 @@
 ---
-image: "/img/cenar-familia.jpg"
+image: "/img/familia-desayuno.jpg"
 title: "Cenar en familia: sí o sí"
 date: 2026-03-25
 description: "Numerosos estudios confirman lo beneficioso que es cenar o comer en familia, especialmente para los adolescentes. Cuatro claves para que esta rutina funcione de verdad."

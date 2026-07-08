@@ -1,5 +1,5 @@
 ---
-image: "/img/educamos-navidad.jpg"
+image: "/img/madre-hijo-abrazo.jpg"
 title: "¿Educamos en Navidad?"
 date: 2025-12-12
 description: "La Navidad no es solo regalos y celebraciones: es un momento pedagógico que no deberíamos desperdiciar. Seis estrategias para aprovecharlo de verdad."
