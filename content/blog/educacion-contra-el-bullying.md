@@ -3,7 +3,7 @@ title: "La educación contra el bullying empieza en casa, mucho antes de que ocu
 date: 2026-06-01
 category: "Pedagogía para padres"
 description: "Prevenir el acoso escolar no es tarea solo de las escuelas. Es un trabajo profundo y constante que los padres pueden hacer desde los primeros años."
-image: "/img/familia-apoyo.jpg"
+image: "/img/adolescentes-grupo.jpg"
 ---
 
 La educación contra el bullying no comienza cuando un niño se convierte en víctima o testigo del acoso escolar. Comienza mucho antes, en casa, con los primeros vínculos, las primeras palabras y las primeras lecciones emocionales.
