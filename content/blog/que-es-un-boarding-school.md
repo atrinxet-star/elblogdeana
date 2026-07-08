@@ -1,5 +1,5 @@
 ---
-image: "/img/hero-familia.jpg"
+image: "/img/familia-sofa.jpg"
 title: "¿Qué es un Boarding School y por qué pueden cambiar la vida de tu hijo?"
 date: 2025-09-12
 description: "Los internados internacionales son mucho más que colegios de élite. Son comunidades donde los jóvenes crecen, aprenden y se preparan para el mundo. Te lo explico sin mitos."
