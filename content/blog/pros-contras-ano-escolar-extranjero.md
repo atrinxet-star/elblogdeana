@@ -1,5 +1,5 @@
 ---
-image: "/img/madre-hija-hero.jpg"
+image: "/img/tourist-4400871_1280.jpg"
 title: "Pros y contras de estudiar un Año Escolar en el Extranjero (la versión honesta)"
 date: 2025-01-15
 description: "El año escolar en el extranjero transforma a los jóvenes. Pero no es para todo el mundo. Aquí te cuento los beneficios reales y los desafíos que nadie te explica del todo."

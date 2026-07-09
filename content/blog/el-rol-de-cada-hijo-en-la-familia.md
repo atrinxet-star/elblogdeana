@@ -1,5 +1,5 @@
 ---
-image: "/img/cenar-familia.jpg"
+image: "/img/familia-padres-hijo.png"
 title: "LA PERSONALIDAD DE LOS HIJOS Y SU ROL EN LA FAMILIA"
 date: 2024-06-12
 description: "Hay estudios que muestran que adoptamos un papel dentro de la familia y que el lugar que nos toca entre los hermanos va a marcar nuestro carácter."

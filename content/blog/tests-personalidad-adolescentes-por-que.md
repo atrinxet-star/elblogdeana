@@ -3,7 +3,7 @@ title: "¿Qué hay detrás de la popularidad de los tests de personalidad en la 
 date: 2026-06-10
 category: "Orientación"
 description: "Durante 25 años he aplicado más de 500 tests a adolescentes. Te explico por qué cada vez más familias los solicitan y qué información real aportan."
-image: "/img/test-evaluacion.jpg"
+image: "/img/curiosidad-ideas-educacion.png"
 ---
 
 Durante los últimos 25 años he corregido más de 500 tests de personalidad a adolescentes. Y si algo he observado con claridad en estos últimos años es que cada vez más familias se interesan por este tipo de evaluaciones.
