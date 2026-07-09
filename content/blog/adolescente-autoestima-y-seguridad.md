@@ -10,7 +10,7 @@ tags:
   - autoestima
   - seguridad
   - educación
-image: /img/ajedrez-1.jpg
+image: "/img/adolescente-confianza-autoestima.png"
 ---
 
 Una edad complicada, pero… cual no lo es??!!, saber llevarla hace que podamos disfrutar de la compañía del adolescente que puede ser muy divertida.

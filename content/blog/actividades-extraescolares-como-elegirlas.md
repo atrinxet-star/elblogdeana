@@ -10,7 +10,7 @@ tags:
   - tiempo libre
   - autonomía
   - hijos
-image: /img/captura-de-pantalla-2023-03-14-a-las-11.45.56.png
+image: "/img/ninos-actividades-extraescolares.jpg"
 ---
 
 Llega el principio de curso, y cada año volvemos a organizar las tardes de nuestros hijos, a menudo actuando como si dejarles "tiempo libre" fuese, en sí mismo, un problema grave.

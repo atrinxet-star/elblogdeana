@@ -1,5 +1,5 @@
 ---
-image: "/img/hijo-ordenado.jpg"
+image: "/img/nino-ordenado-habitacion.jpg"
 title: "Cómo conseguir que tu hijo sea ordenado"
 date: 2025-12-22
 description: "Sí es posible que tu hijo aprenda a ser ordenado, pero no sucede de la noche a la mañana. Seis estrategias que sí funcionan, etapa por etapa."

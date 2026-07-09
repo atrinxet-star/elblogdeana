@@ -1,5 +1,5 @@
 ---
-image: "/img/familia-orientacion.jpg"
+image: "/img/ninos-semanada-dinero.jpg"
 title: "LA SEMANADA"
 date: 2024-01-15
 description: "Cuándo vais a darme semanada?"

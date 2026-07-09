@@ -1,5 +1,5 @@
 ---
-image: "/img/neuro-educacion.jpg"
+image: "/img/adolescente-test-personalidad.jpg"
 title: "Test de personalidad para adolescentes: qué son, para qué sirven y cuándo hacerlos"
 date: 2025-10-15
 description: "Un test de personalidad no es un cuestionario de internet. Es una herramienta profesional que revela cómo es realmente tu hijo y qué camino encaja con quién es."
