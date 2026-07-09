@@ -1,10 +1,16 @@
 ---
-image: "/img/ninos-extraescolares.jpg"
-title: "Cómo elegir las mejores actividades extraescolares para tu hijo"
+title: Cómo elegir las mejores actividades extraescolares para tu hijo
 date: 2025-09-01
-description: "Llega el principio de curso y, con él, la carrera por llenar la agenda. Te explico por qué una agenda sobrecargada no es sinónimo de buena educación, y cómo elegir bien."
-category: "Infancia"
-tags: ["extraescolares", "tiempo libre", "autonomía", "hijos"]
+description: Llega el principio de curso y, con él, la carrera por llenar la
+  agenda. Te explico por qué una agenda sobrecargada no es sinónimo de buena
+  educación, y cómo elegir bien.
+category: Infancia
+tags:
+  - extraescolares
+  - tiempo libre
+  - autonomía
+  - hijos
+image: /img/captura-de-pantalla-2023-03-14-a-las-11.45.56.png
 ---
 
 Llega el principio de curso, y cada año volvemos a organizar las tardes de nuestros hijos, a menudo actuando como si dejarles "tiempo libre" fuese, en sí mismo, un problema grave.
