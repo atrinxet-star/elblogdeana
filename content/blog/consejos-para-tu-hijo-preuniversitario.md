@@ -1,10 +1,16 @@
 ---
-image: "/img/consejos-padre-preuniversitario.jpg"
-title: "Lo que me gustaría que supiera mi hijo antes de ir a la universidad"
+title: Lo que me gustaría que supiera mi hijo antes de ir a la universidad
 date: 2025-06-15
-description: "Cuando un hijo se va a estudiar lejos de casa, lo académico es solo una parte. Estos son los consejos de vida que más me gustan compartir con los estudiantes preuniversitarios."
-category: "Universidades"
-tags: ["universidad", "consejos", "valores", "jóvenes"]
+description: Cuando un hijo se va a estudiar lejos de casa, lo académico es solo
+  una parte. Estos son los consejos de vida que más me gustan compartir con los
+  estudiantes preuniversitarios.
+category: Universidades
+tags:
+  - universidad
+  - consejos
+  - valores
+  - jóvenes
+image: /img/ninos-tarea.jpg
 ---
 
 Hace tiempo conocí una carta preciosa: la que un padre escribió a su hijo cuando este se marchaba a estudiar a la universidad, lejos de casa. El hijo la fotocopió y la compartió con sus compañeros, y tuvo tanto éxito que terminó publicada en forma de libro. Cada vez que acompaño a una familia en este momento —el de soltar a un hijo para que empiece su vida universitaria— pienso en esa carta, porque lo académico es solo una parte de lo que realmente importa.
