@@ -1,10 +1,18 @@
 ---
-image: "/img/adolescente-test-personalidad.jpg"
-title: "Test de personalidad para adolescentes: qué son, para qué sirven y cuándo hacerlos"
+title: "Test de personalidad para adolescentes: qué son, para qué sirven y
+  cuándo hacerlos"
 date: 2025-10-15
-description: "Un test de personalidad no es un cuestionario de internet. Es una herramienta profesional que revela cómo es realmente tu hijo y qué camino encaja con quién es."
-category: "Orientación"
-tags: ["test de personalidad", "adolescentes", "orientación", "tests", "autoconocimiento"]
+description: Un test de personalidad no es un cuestionario de internet. Es una
+  herramienta profesional que revela cómo es realmente tu hijo y qué camino
+  encaja con quién es.
+category: Orientación
+tags:
+  - test de personalidad
+  - adolescentes
+  - orientación
+  - tests
+  - autoconocimiento
+image: /img/captura-de-pantalla-2025-12-16-a-las-10.45.32.png
 ---
 
 Cada año, en septiembre y febrero, recibo el mismo tipo de mensaje de padres: *"Mi hijo no sabe qué quiere estudiar y yo tampoco sé cómo ayudarle."*
