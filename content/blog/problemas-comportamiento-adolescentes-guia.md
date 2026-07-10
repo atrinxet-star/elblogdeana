@@ -1,5 +1,5 @@
 ---
-image: "/img/comportamiento-adolescentes.jpg"
+image: "/img/que-hacer-movil.jpg"
 title: "Problemas de comportamiento en la adolescencia: guía práctica para padres"
 date: 2025-04-08
 description: "La preadolescencia puede empezar a los 11 años y traer cambios difíciles de gestionar. Te explico qué influye en el comportamiento adolescente y cómo actuar sin perder la relación."
