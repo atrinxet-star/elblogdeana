@@ -2,7 +2,7 @@
 image: "/img/nino-deberes.jpg"
 title: "5 maneras de motivar a su hijo para la escuela"
 date: 2024-02-14
-description: "Por Leslie Davis"
+description: "Motivar a tu hijo para que quiera ir al colegio no es magia: es método. Cinco estrategias concretas para despertar el interés por aprender, incluso en los más reacios."
 category: "Pedagogía para padres"
 tags: ["motivación", "escuela", "hijos", "estudio", "familias"]
 ---

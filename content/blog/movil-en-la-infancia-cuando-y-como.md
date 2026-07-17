@@ -1,8 +1,8 @@
 ---
 image: "/img/adolescente-online.jpg"
-title: "A raíz de toda la controversia sobre el uso del #movil en la #infancia, he estado pensando que había que hacer algua reseña y hablar del tema por su importancia real."
+title: “Móvil en la infancia: señales de enganche y cómo gestionar las pantallas”
 date: 2024-10-05
-description: "Te das cuenta de que un niño está “enganchado” cuando:"
+description: “¿Cómo saber si tu hijo está enganchado al móvil? Señales claras de alarma y estrategias prácticas para gestionar el uso de las pantallas en la infancia.”
 category: "Infancia"
 tags: ["móvil", "tecnología", "infancia", "pantallas"]
 ---

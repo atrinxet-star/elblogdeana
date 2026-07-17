@@ -2,7 +2,7 @@
 image: "/img/ninos-semanada-dinero.jpg"
 title: "¿Cae el dinero del cielo? Los medios vuelven a hablar de la “semanada” para los hijos."
 date: 2024-03-15
-description: "¿A alguno de nosotros nos cae el dinero del cielo cada mes solo poniendo la mano? Sin embargo, seguimos planteando si es buena idea dar una asignación fija —la "
+description: "Dar dinero a los hijos sin que lo ganen no les enseña a valorarlo. Después de 35 años acompañando a familias, te explico por qué la semanada sin esfuerzo es un error."
 category: "Adolescencia"
 tags: ["dinero", "semanada", "valores", "familias", "adolescentes"]
 ---

@@ -1,8 +1,8 @@
 ---
 image: "/img/familia-risa-humor.jpg"
-title: "EL SENTIDO DEL HUMOR EN LA EDUCACIÓN"
+title: "El sentido del humor en la educación: por qué es una herramienta y no un lujo"
 date: 2024-04-10
-description: "Tantas veces educar nos supones un problema de cansancio y astio!"
+description: "Educar no tiene que ser siempre serio. El humor conecta, relaja tensiones y abre puertas que de otra manera permanecerían cerradas. Te cuento cómo usarlo con tus hijos."
 category: "Pedagogía para padres"
 tags: ["humor", "educación", "comunicación"]
 ---

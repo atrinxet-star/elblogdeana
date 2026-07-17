@@ -1,8 +1,8 @@
 ---
 image: "/img/jovenes-colegio.jpg"
-title: "Qué piensan los estudiantes, entre 13 y 17 años, sobre la popularidad?"
+title: “¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los jóvenes de 13 a 17 años”
 date: 2024-05-05
-description: "Nicholas Ferroni, no es un profesor tradicional de historia de la escuela secundaria. Ha introducido nuevas metodologías haciendo uso de la “alfabetización medi"
+description: “La popularidad obsesiona a muchos adolescentes. Descubre qué piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el liderazgo y la presión social.”
 category: "Adolescencia"
 tags: ["adolescentes", "popularidad", "autoestima", "jóvenes"]
 ---

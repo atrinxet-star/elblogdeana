@@ -2,7 +2,7 @@
 image: "/img/padres-hija-mano.jpg"
 title: "¿Sabias que los recuerdos de la infancia (y adolescencia) te ayudan cuando eres adulto?"
 date: 2024-05-18
-description: "Hoy he estado hablando con un padre que me contaba que cada fin de semana tenia peleas con su hijo por sentarse a hacer los deberes de matemáticas, cada sábado "
+description: "Los recuerdos de la infancia influyen en quiénes somos de adultos. Por qué importan y cómo ayudar a nuestros hijos a crear memorias positivas que les acompañen toda la vida."
 category: "Infancia"
 tags: ["infancia", "recuerdos", "emociones", "memoria", "familias"]
 ---

@@ -2,7 +2,7 @@
 image: "/img/nino-escuela.jpg"
 title: "Cómo fomentar la responsabilidad en la infancia"
 date: 2024-09-10
-description: "La responsabilidad no es algo que simplemente aparece con la edad. No es un interruptor que se enciende al llegar a cierta etapa de la vida, ni algo que se impo"
+description: "La responsabilidad no se impone: se cultiva. Claves prácticas para educar en ella desde los primeros años de vida, con paciencia, coherencia y mucho ejemplo."
 category: "Infancia"
 tags: ["responsabilidad", "infancia", "educación"]
 ---

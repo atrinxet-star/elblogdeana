@@ -1,8 +1,8 @@
 ---
 image: "/img/ninos-semanada-dinero.jpg"
-title: "LA SEMANADA"
+title: "La semanada: cómo educar a los hijos en el valor del esfuerzo y el dinero"
 date: 2024-01-15
-description: "Cuándo vais a darme semanada?"
+description: "¿Hay que dar semanada a los hijos? Y si sí, ¿bajo qué condiciones? Te cuento cómo vincular el dinero al esfuerzo desde pequeños para que aprendan a valorarlo."
 category: "Adolescencia"
 tags: ["semanada", "dinero", "esfuerzo", "valores", "adolescentes"]
 ---
