@@ -1,9 +1,7 @@
 ---
-title: CÓMO EDUCAR AL ADOLESCENTE EN LA AUTOESTIMA Y SEGURIDAD
+title: "Cómo educar a tu hijo adolescente en la autoestima y la seguridad personal"
 date: 2024-03-05
-description: Una edad complicada, pero… cual no lo es??!!, saber llevarla hace
-  que podamos disfrutar de la compañía del adolescente que puede ser muy
-  divertida.
+description: "La adolescencia es una etapa intensa, pero también puede ser muy divertida. Te comparto cómo acompañar a tu hijo adolescente para que crezca con autoestima sana y seguridad en sí mismo."
 category: Adolescencia
 tags:
   - adolescentes

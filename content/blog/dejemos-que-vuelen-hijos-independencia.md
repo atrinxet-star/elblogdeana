@@ -1,6 +1,6 @@
 ---
 image: "/img/madre-hija-abrazo.jpg"
-title: "DEJEMOS QUE VUELEN"
+title: "Dejemos que vuelen: cómo confiar cuando nuestros hijos estudian lejos de casa"
 date: 2024-09-28
 description: "Noche antes de un festivo, medianoche, una madre pasándolo mal, no porque su hija esté mal, si no porque su hija no esta con ella."
 category: "Orientación"

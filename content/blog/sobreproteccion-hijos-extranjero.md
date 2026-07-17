@@ -1,9 +1,7 @@
 ---
-title: PORQUE HA AUMENTADO TANTO LA PROTECCION DE LAS PADRES CUANDO MANDAN A SUS
-  HIJOS A ESTUDIAR EL EXTRANJERO?
+title: "Por qué los padres sobreprotegen más cuando mandan a sus hijos a estudiar al extranjero"
 date: 2024-07-08
-description: Dicen que las abejas son la especie más inteligente debido a su
-  alto nivel de aclimatación y adaptación al medio.
+description: "Cada año veo el mismo patrón: padres que sufren más de lo necesario cuando mandan a sus hijos fuera. Te explico por qué ocurre y cómo gestionarlo."
 category: Orientación
 tags:
   - sobreprotección
