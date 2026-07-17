@@ -12,22 +12,42 @@ tags:
 image: /img/familia-sofa.jpg
 ---
 
-Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio.
+Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio. Pequeñas, trabajadoras, capaces de sobrevivir y prosperar en entornos muy distintos. Cuando pienso en lo que queremos para nuestros hijos, a menudo pienso en ellas.
 
-Siempre me han sorprendido estos maravillosos seres tan pequeños, tan inteligentes y tan trabajadores.
+Pero para que una abeja aprenda a adaptarse, tiene que salir de la colmena.
 
-Yo comparo a nuestros alumnos con estas abejas y pienso que me gustaria que fuesen como ellas, trabajadores, adaptativos e inteligentes.
+## La paradoja de la sobreprotección
 
-Cuanto más joven es el estudiante más influirán en él todas las nuevas experiencias.
+Cuanto más joven es el estudiante, más influyen en él las nuevas experiencias. Su cerebro aprende a amoldarse a circunstancias distintas y conserva esa capacidad para el futuro. El esfuerzo por adaptarse sin la red de protección habitual desarrolla una inteligencia —una flexibilidad mental y emocional— que en casa, con nosotros cerca, es mucho más difícil de adquirir.
 
-Su cerebro aprende a amoldarse a nuevas circunstancias y recordará como hacerlo si se le vuelven a presentar situaciones parecida. Los esfuerzos por amoldarse y adaptarse, sin la protección de los padres,  les hace ser un poco abejas, desarrollan una inteligencia que aquí con nosotros, los padres, es difícil que lo hagan.
+Y sin embargo, el grado de protección que ejercemos como padres no ha dejado de crecer. Nuestros propios padres no perdían tanto tiempo en preguntarse si estábamos bien o mal, si nos gustaba todo, si necesitábamos más de lo que teníamos. Se suponía que estábamos bien. Y generalmente lo estábamos.
 
-Nos damos cuenta, que el grado de protección hacia los hijos es cada vez mayor.
+No digo que eso fuera perfecto. Pero sí hay algo valioso en esa confianza básica que hemos perdido.
 
-Nuestros padres no perdían tanto tiempo en pensar si estábamos bien o mal, si nos gustaba o no algo, o si necesitábamos más de lo que teníamos, se suponía siempre que estábamos bien.
+## Por qué sobreprotegemos más cuando están lejos
 
-Quizás ahora como padres estamos más pendientes de sus necesidades, no creo que esto sea malo, y nos esforzamos más en su curriculum, tampoco creo que sea malo. Pero si es malo que todo ello nos lleve a ser más protectores y controladores.
+Cuando un hijo está en casa, tenemos información constante: le vemos la cara, notamos si está triste, podemos actuar. Cuando está lejos, no tenemos esa información. Y la mente humana tiende a llenar los vacíos de información con preocupación.
 
-El hecho de irse de casa un tiempo supone además de todo, que le estamos ofreciendo algo que en casa no podemos darle, le estamos ofreciendo que ejerza otro rol al que está acostumbrado, que se adapte a circunstancias diferentes, quizás no cómodas, pero que sin duda amoldará su personalidad para futuras circunstancias.
+A eso se suma el entorno social. Los lunes en el despacho noto los efectos de las "cenas del sábado noche": padres que han comentado la situación de su hijo con amigos y familiares, han recibido diez opiniones distintas y llegan a la semana más angustiados que cuando se fueron. Cada uno ha añadido algo: "¿Y si la familia no le trata bien?", "¿Y si tiene problemas con el idioma?", "Yo no lo haría."
 
-Hay una edad para aprender y desarrollar ciertas capacidades, pasar por esas edades sin la oportunidad de hacerlo supone no desarrollar al máximo las posibilidades personales.
+El problema es que escuchamos a los amigos —que no conocen ni el programa ni al chico— más de lo que escuchamos al profesional que lleva años gestionando exactamente esa situación.
+
+## Las consecuencias de sobreproteger desde la distancia
+
+Un padre que llama cada día preguntando "¿estás bien?, ¿seguro?, ¿no echas de menos volver?" no está acompañando a su hijo: le está transmitiendo su propia angustia.
+
+Un adolescente que siente que sus padres están sufriendo no puede relajarse y vivir la experiencia. Siente que tiene que tranquilizarles, que cualquier queja o dificultad normal va a generar alarma en casa. Así que o bien calla lo que le pasa, o bien magnifica los problemas pequeños para justificar la atención constante. Ninguna de las dos cosas le ayuda a crecer.
+
+El hijo que sabe que sus padres confían en él, que están bien en casa y que le esperan con los brazos abiertos cuando vuelva tiene mucho más espacio para crecer de verdad.
+
+## Una edad para cada cosa
+
+Hay una edad para aprender y desarrollar ciertas capacidades. Pasar por esas edades sin la oportunidad de hacerlo supone no desarrollar al máximo el propio potencial.
+
+Algunas de esas capacidades —la autonomía real, la adaptación a entornos desconocidos, la resiliencia ante lo nuevo— solo se desarrollan estando lejos. No porque los padres sean un obstáculo, sino porque la distancia es el entorno donde se aprenden.
+
+El hecho de irse de casa durante una temporada le ofrece al hijo algo que en casa no puede recibir: la oportunidad de ejercer un rol distinto, de adaptarse a circunstancias que quizás no son cómodas al principio pero que moldean su personalidad de una manera que dura toda la vida.
+
+---
+
+Si estás viviendo esta situación y la angustia se está convirtiendo en un obstáculo, **hablemos**. No para que dejes de querer a tu hijo, sino para que ese amor le deje crecer.
