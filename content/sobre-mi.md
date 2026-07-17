@@ -1,4 +1,4 @@
 ---
-title: "Sobre mí"
-description: "Soy Ana Trinxet, orientadora educativa y profesional en Barcelona con más de 30 años de experiencia."
+title: "Pedagoga, Neuroeducadora y Orientadora Educativa en Barcelona"
+description: "Soy Ana Trinxet, pedagoga y neuroeducadora con más de 35 años de experiencia. He acompañado a más de 7.000 familias en orientación educativa, académica y profesional en Barcelona y online."
 ---

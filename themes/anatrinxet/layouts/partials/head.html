@@ -107,6 +107,44 @@
   ]
 }
 </script>
+{{ else if eq .RelPermalink "/sobre-mi/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "{{ .Permalink }}",
+  "name": "Ana Trinxet — Pedagoga, Neuroeducadora y Orientadora Educativa",
+  "description": "{{ .Description }}",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ .Site.BaseURL }}#person",
+    "name": "Ana Trinxet",
+    "jobTitle": "Pedagoga, Neuroeducadora y Orientadora Educativa",
+    "description": "Pedagoga con más de 35 años de experiencia. Máster en Neurociencias. Directora en MCM Educational Consultants desde 1989. Especialista en orientación académica, tests de personalidad y asesoramiento a familias.",
+    "url": "{{ .Permalink }}",
+    "email": "atrinxet@mcm.info",
+    "telephone": "+34934144422",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "C/ Calvet 5, 4º-2ª",
+      "addressLocality": "Barcelona",
+      "postalCode": "08021",
+      "addressCountry": "ES"
+    },
+    "worksFor": {
+      "@type": "Organization",
+      "name": "MCM Educational Consultants",
+      "url": "https://mcm.info"
+    },
+    "knowsAbout": ["Orientación educativa", "Neuroeducación", "Pedagogía", "Tests de personalidad", "Orientación académica", "Orientación profesional"],
+    "sameAs": [
+      "https://www.linkedin.com/in/anatrinxet/",
+      "https://www.instagram.com/anatrinxet/",
+      "https://mcm.info"
+    ]
+  }
+}
+</script>
 {{ else if .IsPage }}
 <script type="application/ld+json">
 {
