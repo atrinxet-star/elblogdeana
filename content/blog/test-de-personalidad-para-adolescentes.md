@@ -13,6 +13,15 @@ tags:
   - tests
   - autoconocimiento
 image: /img/captura-de-pantalla-2025-12-16-a-las-10.45.32.png
+faq:
+  - question: "¿Qué es un test de personalidad para adolescentes?"
+    answer: "Es una herramienta psicométrica validada que mide cómo es el adolescente: su perfil de personalidad, inteligencias múltiples, aptitudes cognitivas, intereses vocacionales y estilo de aprendizaje. No mide si es inteligente, sino cómo es inteligente y qué entorno le hace rendir mejor. El resultado no es una etiqueta, es un mapa."
+  - question: "¿Cuándo es el mejor momento para hacer un test de personalidad a un hijo?"
+    answer: "A los 11-13 años, para entender mejor al hijo en la preadolescencia. A los 14-16 años, antes de elegir bachillerato, itinerario o FP, es el momento clave. A los 17-18 años, para orientar la elección universitaria con base real. También se realizan para adultos en momentos de cambio profesional cuando algo no encaja."
+  - question: "¿Qué diferencia hay entre un test profesional y un cuestionario de internet?"
+    answer: "Los tests profesionales son herramientas psicométricas validadas por expertos en psicología y pedagogía, adaptadas a cada franja de edad. Los cuestionarios de internet no tienen validación científica y no son fiables para tomar decisiones educativas o profesionales importantes."
+  - question: "¿Qué ocurre después de hacer el test de personalidad?"
+    answer: "Se realiza una sesión de devolución personalizada donde se interpretan los resultados con los padres y, cuando corresponde, con el adolescente. Se construye un plan de orientación concreto y se entrega un informe escrito con recomendaciones claras sobre caminos académicos y profesionales."
 ---
 
 Cada año, en septiembre y febrero, recibo el mismo tipo de mensaje de padres: *"Mi hijo no sabe qué quiere estudiar y yo tampoco sé cómo ayudarle."*

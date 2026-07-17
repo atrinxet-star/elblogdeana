@@ -6,6 +6,15 @@ description: "El año escolar en el extranjero transforma a los jóvenes. Pero n
 category: "Educación Internacional"
 tags: ["año escolar", "extranjero", "High School", "idiomas", "familias"]
 source: "mcm"
+faq:
+  - question: "¿Vale la pena enviar a mi hijo a estudiar un año en el extranjero?"
+    answer: "Depende del perfil del joven, del momento y de la familia. Cuando encaja bien, es una de las mejores decisiones posibles: el idioma se aprende de verdad, maduran como personas y el CV se diferencia notablemente. Requiere una buena preparación y orientación profesional para elegir el destino correcto y evitar errores evitables."
+  - question: "¿Cuánto cuesta un año escolar en el extranjero?"
+    answer: "El coste orientativo es superior a los 14.500 euros por curso sin incluir viajes. Hay diferencias importantes según el país y el tipo de programa. Existen becas disponibles, aunque raramente cubren el coste total. Una agencia especializada puede orientar sobre las opciones más ajustadas a cada presupuesto."
+  - question: "¿A qué edad es mejor hacer un año escolar en el extranjero?"
+    answer: "El periodo más recomendable está entre los 14 y los 17 años, cuando el joven tiene la madurez suficiente para aprovechar la experiencia y todavía tiene margen para incorporar lo aprendido a su formación. En España suele coincidir con 3º o 4º de ESO o Bachillerato."
+  - question: "¿Cómo afectan las convalidaciones al volver de un año en el extranjero?"
+    answer: "Las convalidaciones dependen del país destino, del sistema educativo y del centro de origen en España. Con una planificación adecuada antes de partir, este aspecto se puede resolver sin problemas. Es fundamental informarse con antelación y contar con una agencia especializada que haya gestionado casos similares."
 ---
 
 Cada año, familias enteras se plantean la misma pregunta: ¿merece la pena enviar a mi hijo a estudiar un año fuera?

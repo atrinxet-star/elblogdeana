@@ -6,6 +6,15 @@ description: "Los internados internacionales son mucho más que colegios de éli
 category: "Educación Internacional"
 tags: ["boarding school", "internado", "educación internacional", "Reino Unido", "Estados Unidos"]
 source: "mcm"
+faq:
+  - question: "¿Qué es un Boarding School?"
+    answer: "Un Boarding School es un internado internacional donde los alumnos no solo estudian sino que también viven en el campus durante el año académico, compartiendo dormitorios, comidas y actividades con jóvenes de distintos países. Son reconocidos por su calidad educativa y la preparación que ofrecen para acceder a las mejores universidades del mundo."
+  - question: "¿A qué edad se puede ir a un Boarding School?"
+    answer: "Los Boarding Schools suelen admitir alumnos a partir de los 11-12 años. La edad más habitual es entre 14 y 18 años, cuando el joven tiene la madurez suficiente para vivir de forma independiente y aprovechar al máximo la experiencia académica e intercultural."
+  - question: "¿Cuáles son los mejores países para estudiar en un internado internacional?"
+    answer: "Los destinos más reconocidos son Reino Unido (Eton, Harrow), Estados Unidos (Phillips Exeter Academy), Canadá (Upper Canada College), Suiza (Institut Le Rosey) y Australia. Cada país tiene un enfoque educativo diferente y la elección debe ajustarse al perfil del alumno."
+  - question: "¿Cuánto cuesta un Boarding School?"
+    answer: "Los costes varían según el país y el tipo de institución. En general oscilan entre los 20.000 y los 60.000 euros anuales para los internados más reconocidos del Reino Unido y Estados Unidos. Existen opciones más asequibles en Canadá y Australia, y algunos centros ofrecen becas parciales."
 ---
 
 Cuando los padres me preguntan por los Boarding Schools, suelen tener una imagen en la cabeza: colegios carísimos para hijos de millonarios, con uniformes y tradiciones exóticas.

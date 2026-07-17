@@ -5,6 +5,15 @@ date: 2024-12-10
 description: "Un boletín con suspensos dispara preguntas y miedos en cualquier familia. Te explico cómo identificar la causa real según la etapa y qué hacer en cada caso."
 category: "Pedagogía para padres"
 tags: ["suspensos", "notas", "estudio", "esfuerzo", "familias"]
+faq:
+  - question: "¿Por qué suspende mi hijo en el colegio?"
+    answer: "Los motivos varían según la etapa. En Primaria suelen estar relacionados con dificultades en lectoescritura o problemas de visión y oído. En la ESO influyen el cambio en el biorritmo del sueño, la distracción tecnológica y la pérdida de motivación. En Bachillerato suelen ser falta de base, técnicas de estudio ineficaces o un itinerario mal elegido."
+  - question: "¿Cuándo debo preocuparme por las notas de mi hijo?"
+    answer: "Cuando los suspensos se acumulan en varias asignaturas durante dos o más evaluaciones seguidas, o cuando el rendimiento cae de forma repentina sin causa aparente. Un cambio brusco en las notas suele indicar un cambio emocional o motivacional que merece atención profesional."
+  - question: "¿Sirven los castigos para que mi hijo mejore las notas?"
+    answer: "Las prohibiciones extremas no son efectivas para mejorar el rendimiento académico. Funcionan mejor la disciplina positiva, las rutinas de trabajo claras, reconocer el esfuerzo aunque la mejora sea pequeña, y mantener la confianza en el hijo incluso cuando los resultados no acompañan."
+  - question: "¿Cuándo consultar con un profesional si mi hijo suspende?"
+    answer: "Cuando los suspensos se repiten en varias asignaturas durante más de una evaluación, cuando hay un cambio de actitud importante o cuando los intentos en casa no dan resultado. Un profesional puede identificar la causa real y proponer la solución más adecuada para cada caso."
 ---
 
 Cualquier padre o madre puede imaginar lo que se siente cuando un hijo trae a casa un boletín lleno de suspensos. Surgen preguntas casi automáticas: ¿qué está pasando?, ¿hemos fallado como padres?, ¿falla el colegio?, ¿falla el sistema?
