@@ -1,50 +1,56 @@
 ---
 image: "/img/jovenes-colegio.jpg"
-title: “¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los jóvenes de 13 a 17 años”
+title: "¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los jóvenes de 13 a 17 años"
 date: 2024-05-05
-description: “La popularidad obsesiona a muchos adolescentes. Descubre qué piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el liderazgo y la presión social.”
+description: "La popularidad obsesiona a muchos adolescentes. Descubre qué piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el liderazgo y la presión social."
 category: "Adolescencia"
 tags: ["adolescentes", "popularidad", "autoestima", "jóvenes"]
 ---
 
-Nicholas Ferroni, no es un profesor tradicional de historia de la escuela secundaria. Ha introducido nuevas metodologías haciendo uso de la “alfabetización mediática”, en sus clases los alumnos fomentan el pensamiento critico a traves de debates, sobre documentales, peliculas, etc., verdaderamente interesante.
+En mis años de consulta con familias y adolescentes, hay un tema que aparece con más frecuencia de lo que podría esperarse: la popularidad. No siempre lo dicen con esa palabra, pero está ahí. "Es que no encaja con su grupo." "Le preocupa mucho lo que piensan sus compañeros." "Desde que empezó el instituto, ha cambiado."
 
-Pero aquí os dejo un escrito suyo sobre lo que piensan sus estudiantes sobre la popularidad.
+La popularidad importa muchísimo a los adolescentes. Y tiene sentido que así sea.
 
-“Qué piensan mis estudiantes a cerca de ser populares
+## Por qué la popularidad importa tanto en la adolescencia
 
-Nicholas Ferroni
+El cerebro adolescente está en un período de reorganización profunda. Una de las cosas que más cambia es la manera en que se percibe la mirada del otro. Los adolescentes son extraordinariamente sensibles al juicio social: lo que piensan los compañeros pesa, en muchos momentos, más que lo que piensan los padres.
 
-Host, educador, historiador y mentor.
+Esto no es una debilidad ni un problema de educación. Es neurología. El sistema límbico —que regula las emociones y la respuesta social— está especialmente activo durante la adolescencia, mientras que el córtex prefrontal, que permite evaluar consecuencias a largo plazo, todavía está madurando.
 
-http://goo.gl/0hB0Zj
+En la práctica, eso significa que un adolescente no puede "simplemente ignorar" lo que piensan sus compañeros. Su cerebro no está diseñado para hacerlo todavía.
 
-“En mis años como educador , he pasado la mayor parte de mi tiempo con adolescentes de entre 13 y 18 años, y he llegado a una certeza: Los adolescentes dicen algunas de las cosas más profundas y más sabias , que puedas imaginar.
+## Lo que dicen realmente los jóvenes
 
-No pasa un día por que mis estudiantes no me iluminan con su genuina inocencia o me entretienen con su ignorancia juvenil. Por esa razón, creo que hay tanto como adultos que podemos aprender de los jóvenes de hoy .
+Cuando hablo con adolescentes en consulta —chicos y chicas de entre 13 y 17 años, de distintos entornos y colegios— lo que emerge sobre la popularidad es más matizado de lo que muchos adultos esperan.
 
-Así que , decidí no sólo capacitar a mis estudiantes , sino darles un foro en el que estos determinen libres y sin juicios, comparto con ellos sus pensamientos, puntos de vista y opiniones sobre los temas que son actuales y se están discutiendo en los medios convencionales . Prepárate , porque nunca puedo predecir lo que pueden pensar o decir .
+La mayoría distingue muy bien entre dos tipos de popularidad:
 
-Así pues, aquí es lo que mis estudiantes piensan acerca de ser popular.
+**La popularidad social** —ser conocido, tener muchos seguidores, que todo el mundo sepa tu nombre— y **la popularidad real**, que ellos describen más como sentirse aceptado dentro de su grupo cercano.
 
-" Popularidad no dura mucho tiempo . Perder el tiempo siendo popular? No gracias . Voy a pasar mi tiempo de ser feliz . Felicidad dura para siempre , y eso te hace sentir tan bien . " - Taylor, 10 º grado
+Lo curioso es que muchos adolescentes, especialmente a partir de los 15-16 años, ya son bastante críticos con la primera. "No quiero ser popular, quiero tener amigos de verdad" es una frase que escucho más de lo que se podría pensar.
 
-" ¿Si creo que es importante ser popular? En absoluto. Ser popular no ayuda a tener éxito en la vida , así que ¿por qué debería ser importante? " - Cathleen , 10 º grado
+Lo que les cuesta más gestionar es la segunda: la sensación de pertenecer, de no quedarse fuera, de tener un lugar dentro del grupo. Eso sí les preocupa, y con razón: el ser humano es una especie social, y el rechazo social duele de forma muy real, no solo simbólica.
 
-" Depende de su forma de pensar. Si usted es el tipo que se preocupa mucho acerca de lo que la gente piensa de ti , entonces sí. Pero por lo que he aprendido de mi experiencia en la preparatoria, es mejor mantener tu estrecho círculo de amistades. " - Gabby , 10 º grado
+## El papel de las redes sociales
 
-" En la escuela secundaria es realmente todo lo que preocupa. Pero, cuando se gradue , se da cuenta de que nunca fue tan importante. " - Jada , 10 º grado
+Las redes sociales han amplificado exponencialmente la ansiedad social en la adolescencia. Antes, la popularidad se construía en el patio del colegio. Ahora se construye también —y muchas veces sobre todo— en Instagram, TikTok y en los grupos de WhatsApp.
 
-" No, no creo que el ser popular es importante. No importará si la gente conoce tu nombre o si colgaste con quien sales. Lo que importa es si te hiciste un nombre por tí mismo y tiene éxito después de la escuela . " - Vernice , 10 º grado
+El número de seguidores, los likes, los comentarios: todo se ha convertido en una métrica visible y constante de la aceptación social. Y eso es especialmente duro para los adolescentes porque el feedback es inmediato, público y permanente.
 
-"Yo no creo que es importante ser popular en la escuela secundaria . A nadie le importa quién eres , después de cuatro años, o de quién eras . No recuerdo que sea en aplicaciones de la universidad . " - Brandon, 10 º grado
+Cuando trabajo con familias en las que la preocupación por la popularidad se ha convertido en un problema —ansiedad, cambios de comportamiento, evitar el colegio— siempre exploramos primero cuánto espacio están ocupando las redes sociales en la vida cotidiana del chico o la chica.
 
-" Ser popular le llevará a ninguna parte en la vida. Todo depende de sus académicos y conocimientos. " - Bryan, grado 10
+## Lo que los padres pueden hacer
 
-" Ser popular no es importante. Para mí, ser popular significa que acaba de saber un montón de gente . Porque en mi grupo de amigos que me siento popular, pero no es importante para mí, si todo el mundo en la escuela sabe mi nombre. " - Erika , 10 º grado
+La respuesta de decirle a un adolescente "la popularidad no importa" no funciona. No porque sea mentira —a largo plazo, tiene razón— sino porque a corto plazo, en el día a día del instituto, sí importa. Y el adolescente lo sabe.
 
-"En la sociedad es importante popular. El mundo , básicamente, gira en torno a quién tiene más amigos en Facebook y seguidores en Twitter . Pero, en realidad , no importa . " - Leshay , 10 º grado
+Lo que sí ayuda:
 
-" Muchas personas en la escuela superior se preocupan por su popularidad , pero no creo que sea importante. Estudiantes que son populares tienden a centrarse sólo en su papel en la escuela y tienden a olvidarse de su trabajo escolar. " - Arber , 10 º grado
+- **Validar lo que siente** antes de ofrecer perspectiva. "Entiendo que eso te duele" abre la conversación. "No te preocupes por lo que piensen" la cierra.
+- **Ayudarle a construir relaciones de calidad** dentro y fuera del colegio. Un adolescente que tiene dos o tres amigos de verdad es mucho más resiliente que uno que tiene veinte conocidos.
+- **Mantener conversaciones sobre identidad** más allá del grupo. Quién es él o ella, qué le gusta, qué valora. Cuando un adolescente tiene un sentido claro de quién es, la presión del grupo pesa menos.
 
-"Yo creo que es importante ser muy conocido y muy querido. Si nunca te conviertes en popular, no es el fin del mundo, pero es bueno saber que eres popular y tener un montón de amigos. " - Jordann , 10 º grado “.
+---
+
+La popularidad en la adolescencia es un tema real y complejo. No desaparece ignorándolo. Pero con acompañamiento adecuado —en casa y, cuando es necesario, con apoyo profesional— los adolescentes aprenden a gestionar la presión social sin que les defina.
+
+Si ves que tu hijo está especialmente afectado por estos temas, **escríbeme**. Una conversación puede ayudar a entender qué hay detrás.
