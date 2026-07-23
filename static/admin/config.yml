@@ -29,9 +29,16 @@ collections:
         name: sobre-mi
         file: content/sobre-mi.md
         fields:
-          - { label: Título, name: title, widget: string }
-          - { label: Foto, name: photo, widget: image, required: false, hint: "Sube aquí tu foto de perfil" }
-          - { label: Contenido, name: body, widget: markdown, required: false }
+          - { label: Título SEO, name: title, widget: string, hint: "Solo para buscadores, no se ve en la página" }
+          - { label: Foto, name: photo, widget: image, required: false, hint: "Tu foto de perfil" }
+          - { label: Título de la página, name: hero_titulo, widget: string, hint: "Ej: Quién escribe este blog" }
+          - { label: Subtítulo de la página, name: hero_subtitulo, widget: string }
+          - { label: Tu cita personal, name: cita_personal, widget: text, hint: "La frase en cursiva que aparece antes de tu bio" }
+          - { label: Tu bio (texto principal), name: body, widget: markdown, hint: "Escribe aquí tu presentación. Puedes usar varios párrafos." }
+          - { label: "Estadística: años de experiencia", name: stat_anos, widget: string, hint: "Ej: +35" }
+          - { label: "Estadística: estudiantes", name: stat_estudiantes, widget: string, hint: "Ej: +7000" }
+          - { label: Cita inspiracional, name: cita_mandela, widget: text, hint: "La cita del fondo oscuro" }
+          - { label: Autor de la cita, name: cita_autor, widget: string, hint: "Ej: Nelson Mandela" }
       - label: Servicios
         name: servicios
         file: content/servicios.md
