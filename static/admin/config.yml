@@ -30,7 +30,8 @@ collections:
         file: content/sobre-mi.md
         fields:
           - { label: Título, name: title, widget: string }
-          - { label: Contenido, name: body, widget: markdown }
+          - { label: Foto, name: photo, widget: image, required: false, hint: "Sube aquí tu foto de perfil" }
+          - { label: Contenido, name: body, widget: markdown, required: false }
       - label: Servicios
         name: servicios
         file: content/servicios.md
