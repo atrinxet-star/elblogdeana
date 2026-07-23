@@ -25,6 +25,20 @@ collections:
   - name: pages
     label: Páginas
     files:
+      - label: Página de inicio
+        name: inicio
+        file: content/_index.md
+        fields:
+          - { label: Título SEO, name: title, widget: string, hint: "Solo para buscadores" }
+          - { label: "Hero: etiqueta pequeña", name: hero_label, widget: string, hint: "Ej: Pedagoga · Neuroeducadora · Orientadora educativa" }
+          - { label: "Hero: título principal", name: hero_titulo, widget: string, hint: "El título grande de la portada" }
+          - { label: "Hero: texto introductorio", name: hero_texto, widget: text }
+          - { label: "Hero: punto 1 de la lista", name: hero_punto1, widget: string }
+          - { label: "Hero: punto 2 de la lista", name: hero_punto2, widget: string }
+          - { label: "Hero: punto 3 de la lista", name: hero_punto3, widget: string }
+          - { label: "Hero: imagen", name: hero_imagen, widget: image, required: false }
+          - { label: "CTA final: título", name: cta_titulo, widget: string }
+          - { label: "CTA final: texto", name: cta_texto, widget: string }
       - label: Sobre mí
         name: sobre-mi
         file: content/sobre-mi.md

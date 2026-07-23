@@ -4,13 +4,13 @@
 <section class="hero">
   <div class="container">
     <div class="hero-content">
-      <p class="hero-label">Pedagoga · Neuroeducadora · Orientadora educativa</p>
-      <h1>¿Sabes de verdad cuál es el <em>camino de tu hijo</em> — o el tuyo?</h1>
-      <p class="hero-text">La orientación educativa, académica y profesional da claridad, marca el camino y ayuda a tomar las decisiones más importantes con criterio.</p>
+      <p class="hero-label">{{ .Params.hero_label | default "Pedagoga · Neuroeducadora · Orientadora educativa" }}</p>
+      <h1>{{ .Params.hero_titulo | default "¿Sabes de verdad cuál es el camino de tu hijo — o el tuyo?" }}</h1>
+      <p class="hero-text">{{ .Params.hero_texto | default "La orientación educativa, académica y profesional da claridad, marca el camino y ayuda a tomar las decisiones más importantes con criterio." }}</p>
       <ul class="hero-list">
-        <li>Familias que quieren saber cómo educar mejor a sus hijos</li>
-        <li>Jóvenes que no saben qué estudiar o qué camino tomar</li>
-        <li>Adultos en busca de su rumbo profesional</li>
+        <li>{{ .Params.hero_punto1 | default "Familias que quieren saber cómo educar mejor a sus hijos" }}</li>
+        <li>{{ .Params.hero_punto2 | default "Jóvenes que no saben qué estudiar o qué camino tomar" }}</li>
+        <li>{{ .Params.hero_punto3 | default "Adultos en busca de su rumbo profesional" }}</li>
       </ul>
       <div class="hero-actions">
         <a href="/servicios/#tests" class="btn btn-primary">Descubre los tests</a>
@@ -19,7 +19,7 @@
     </div>
     <div class="hero-visual">
       <div style="position:relative; border-radius:20px; overflow:hidden; box-shadow:0 20px 60px rgba(0,0,0,0.35);">
-        <img src="/img/hero-familia.jpg" alt="Familia feliz en la playa" style="width:100%; display:block; object-fit:cover; max-height:440px;">
+        <img src="{{ .Params.hero_imagen | default "/img/hero-familia.jpg" }}" alt="Familia feliz en la playa" style="width:100%; display:block; object-fit:cover; max-height:440px;">
         <div style="position:absolute; bottom:0; left:0; right:0; background:linear-gradient(to top, rgba(15,61,74,0.85) 0%, transparent 100%); padding:28px 24px;">
           <div style="display:flex; gap:24px; justify-content:center;">
             <div style="text-align:center; color:white;">
@@ -210,8 +210,8 @@
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
-      <h2>Una decisión importante merece orientación profesional</h2>
-      <p>Primera consulta gratuita. Sin compromiso. Escríbeme.</p>
+      <h2>{{ .Params.cta_titulo | default "Una decisión importante merece orientación profesional" }}</h2>
+      <p>{{ .Params.cta_texto | default "Primera consulta gratuita. Sin compromiso. Escríbeme." }}</p>
       <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Reserva tu orientación</a>
     </div>
   </div>
