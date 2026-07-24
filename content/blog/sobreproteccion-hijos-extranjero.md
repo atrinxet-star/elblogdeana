@@ -9,7 +9,7 @@ tags:
   - año escolar
   - padres
   - independencia
-image: /img/familia-sofa.jpg
+image: "/img/madre-sobreproteccion.jpg"
 ---
 
 Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio. Pequeñas, trabajadoras, capaces de sobrevivir y prosperar en entornos muy distintos. Cuando pienso en lo que queremos para nuestros hijos, a menudo pienso en ellas.
