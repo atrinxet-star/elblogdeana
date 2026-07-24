@@ -5,6 +5,7 @@ theme = "anatrinxet"
 defaultContentLanguage = "es"
 enableRobotsTXT = true
 paginate = 9
+disableKinds = ["taxonomy", "term"]
 
 [related]
   includeNewer = true
