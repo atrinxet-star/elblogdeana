@@ -21,6 +21,12 @@ Un cambio de carrera no es dimitir el lunes porque el lunes fue horrible. No es 
 
 Es un proceso. Y como todo proceso, necesita información, método y algo de valentía.
 
+## La señal real de que algo tiene que cambiar
+
+Hay un test muy sencillo que uso con adultos en la primera sesión: *¿Los domingos por la tarde te pesa el lunes que viene?* Si la respuesta es sí, de forma sostenida durante meses, algo no encaja. No siempre es la profesión. A veces es el rol. A veces es el entorno. A veces es la empresa. Pero algo hay que revisar.
+
+El problema es que cuando estamos dentro de algo que no funciona, cuesta mucho ver qué parte específica es la que falla. La sensación es global: "esto no es lo mío." Y desde ahí, la tentación es hacer un cambio radical que, sin información, puede llevarnos a reproducir el mismo error en otro sitio.
+
 ## La primera pregunta que hay que hacerse
 
 Antes de cambiar de trabajo, hay que saber si el problema es el *qué* o el *cómo*.
@@ -43,16 +49,26 @@ Los tests que utilizamos con adultos no son los mismos que con adolescentes. Est
 
 Con esa información, el cambio de carrera deja de ser un salto al vacío. Es un paso calculado.
 
+## Lo que suele pasar cuando nadie acompaña el proceso
+
+Sin orientación, los cambios de carrera suelen seguir uno de estos dos patrones:
+
+**El cambio impulsivo**: se toma una decisión en caliente, se cambia de sector o de rol sin información real y, dos años después, la sensación de malestar vuelve porque el problema de fondo —el desajuste entre quién eres y qué haces— no se resolvió.
+
+**El no-cambio por miedo**: se sabe que algo no funciona, pero el vértigo de cambiar —la hipoteca, la familia, los años invertidos— paraliza. Y la persona llega a los 55 con la sensación de haber dedicado su vida laboral a algo que nunca le llenó del todo.
+
+Los dos tienen solución. El primero, con más información antes de actuar. El segundo, con un plan que haga el cambio viable sin tener que tirarlo todo por la borda.
+
 ## El plan realista
 
 En mis sesiones de orientación profesional con adultos, construimos juntos:
 
 1. **El mapa de quién eres profesionalmente** (con tests y conversación)
-2. **Las opciones reales que tienes** — no las ideales, sino las viables para tu situación actual
+2. **Las opciones reales que tienes** — no las ideales, sino las viables para tu situación actual: qué formación necesitas, qué experiencia ya tienes que es transferible, qué sectores buscan exactamente lo que puedes ofrecer
 3. **El plan de transición**: formación que necesitas, red que tienes que activar, pasos concretos mes a mes
 
-No te prometo que sea fácil. Pero sí que, con la información correcta, la decisión que tomes será tuya de verdad.
+No te prometo que sea fácil. Pero sí que, con la información correcta, la decisión que tomes será tuya de verdad, no una huida hacia delante ni una resignación disfrazada de madurez.
 
 ---
 
-¿Estás en un momento de cuestionarte tu carrera? **Escríbeme.** Primera conversación gratuita para ver si la orientación profesional puede ayudarte.
+¿Estás en un momento de cuestionarte tu carrera? **Escríbeme.** Primera conversación gratuita para ver si la orientación profesional puede ayudarte a dar el siguiente paso con criterio.
