@@ -1,30 +1,45 @@
 ---
 image: "/img/padres-hija-mano.jpg"
-title: "¿Sabias que los recuerdos de la infancia (y adolescencia) te ayudan cuando eres adulto?"
+title: "Los recuerdos de la infancia te acompañan toda la vida: cómo crearlos bien"
 date: 2024-05-18
 description: "Los recuerdos de la infancia influyen en quiénes somos de adultos. Por qué importan y cómo ayudar a nuestros hijos a crear memorias positivas que les acompañen toda la vida."
 category: "Infancia"
 tags: ["infancia", "recuerdos", "emociones", "memoria", "familias"]
 ---
 
-Hoy he estado hablando con un padre que me contaba que cada fin de semana tenia peleas con su hijo por sentarse a hacer los deberes de matemáticas, cada sábado por la mañana. Un niño de 7 años.
+Hoy he estado hablando con un padre que me contaba que cada fin de semana tenía peleas con su hijo por sentarse a hacer los deberes de matemáticas. Cada sábado por la mañana, la misma batalla. Un niño de 7 años.
 
-Dale la vuelta a la situación: “escucha para que te escuchen”
+Le dije que pensara en eso desde la perspectiva del niño: ese sábado por la mañana no va a recordarlo como "el día que aprendí las fracciones". Lo va a recordar como "el día que me peleé con papá". Y ese recuerdo —ese flash de tensión y enfado— va a quedarse guardado en algún cajón de su memoria mucho más tiempo del que nos gustaría.
 
-Tener un enganche cada fin de semana por las matemáticas no es la forma de que a tu hijo le gusten las matemáticas, le motive aprender o quiera hacer él solo los deberes de mates.
+## La vuelta que cambia todo
 
-Dile:
+Le propuse que hiciera una cosa diferente. Que le dijera a su hijo:
 
-Te gusta hacer mates por la mañana, a mi no mucho y se que a ti tampoco por que cada sábado nos enfadamos. Tu sabes que hemos de reforzar las mates, pero he pensado que podríamos hacerlo por la tarde, ¿qué te parece? Y ahora nos vamos tu y yo a tomar un helado, o a jugar a futbol.
+*"Sé que no te gustan las mates por la mañana. A mí tampoco me gusta discutir contigo cada sábado. He pensado que podríamos hacerlo por la tarde, ¿qué te parece? Y ahora nos vamos tú y yo a tomar un helado."*
 
-El sentimiento de: -me entiende, -me escucha, - me quiere… es el sentimiento que nos interesa cultivar.
+El sentimiento que eso genera en el niño —que le entienden, que le escuchan, que le quieren— es el sentimiento que nos interesa cultivar. Y cuando llegue el momento de sentarse con las mates, estará feliz. No porque las mates sean divertidas, sino porque ese rato contigo, con esa empatía y sinceridad, es lo que le quedará grabado en el cajón de sus recuerdos de la infancia.
 
-Y cuándo te sientes a explicarle las mates estará feliz, y eso es lo que cuenta! Por que ese rato contigo, tu empatía y sinceridad es lo que le quedará gravado en el cajón de sus recuerdos de la infancia, un cajón que abrimos muchísimas más veces de las que somos consicnetes.
+## Por qué importan tanto
 
-Todos tenemos recuerdos de la #infancia y la #adolescencia, flashes de segundos que han quedado grabados y almacenados en uno de nuestra memoria, destellos de #felicidad o #infelicidad. Sin saberlo esos recuerdos que tenemos, olvidados, marcan cada día nuestras acciones, percepciones, sentimientos, etc. Vuelven a aflorar sentimientos guardados, que muchas veces no reconocemos de dónde proceden, a pesar de que no seamos conscientes de revivirlos, están ahí.
+Todos tenemos flashes de infancia y adolescencia: destellos de segundos que han quedado grabados en la memoria. Sin saberlo, esos recuerdos marcan cada día nuestras acciones, percepciones y sentimientos. Vuelven a aflorar en momentos que muchas veces no reconocemos, aunque no seamos conscientes de revivirlos.
 
-Tener una infancia feliz  es  haber podido construir los cimientos de la #estabilidademocional, la #empatia,
+La neurociencia lo confirma: las experiencias emocionales de la infancia dejan huellas en el cerebro que influyen en cómo nos relacionamos, cómo gestionamos el estrés y cómo nos sentimos con nosotros mismos en la edad adulta. No necesitamos que la infancia sea perfecta —eso es imposible— pero sí que sea emocionalmente segura.
 
-Cuando un recuerdo de tu infancia te traerte nostalgia, es que fue un recuerdo feliz.
+## Qué construyen los recuerdos felices
 
-Fomentar los recuerdos felices en los niños es construís adultos sociables, empáticos y con estabilidad emocional, capaces de afrontar problemas y retos con seguridad y serenidad.
+Tener una infancia con recuerdos felices es haber podido construir los cimientos de la estabilidad emocional y la empatía. Los adultos que recuerdan su infancia con calidez —aunque también haya habido momentos difíciles— suelen ser más capaces de afrontar los problemas con serenidad, de relacionarse con los demás desde la confianza y de recuperarse ante las adversidades.
+
+Fomentar recuerdos felices en los niños no es malcriarlos ni protegerlos de todo. Es estar presentes, escucharles de verdad, crear momentos de conexión real que no requieren ni dinero ni grandes planes.
+
+## Cómo crear esos recuerdos en el día a día
+
+No hacen falta vacaciones extraordinarias ni regalos caros. Los recuerdos que más duran suelen ser los más sencillos:
+
+- Una conversación larga en el coche, sin destino especial.
+- Una tarde inventando algo juntos en la cocina.
+- Ese momento en que un padre se ríe con su hijo en lugar de reñirle.
+- La noche que se quedaron hasta tarde hablando sobre algo que al niño le importaba.
+
+Lo que hace que un recuerdo se quede es la emoción que lo acompaña. Y la emoción más poderosa es sentirse visto, escuchado y querido sin condiciones.
+
+Cuando te sientas con tu hijo, recuerda: no solo estás resolviendo el problema de hoy. Estás construyendo el recuerdo de mañana.

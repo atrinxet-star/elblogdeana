@@ -1,38 +1,50 @@
 ---
-image: "/img/ninos-semanada-dinero.jpg"
-title: "¿Cae el dinero del cielo? Los medios vuelven a hablar de la “semanada” para los hijos."
+image: "/img/la-semanada-educar-en-el-valor-del-esfuerzo.jpg"
+title: "¿Cae el dinero del cielo? Por qué la semanada sin esfuerzo no educa"
 date: 2024-03-15
-description: "Dar dinero a los hijos sin que lo ganen no les enseña a valorarlo. Después de 35 años acompañando a familias, te explico por qué la semanada sin esfuerzo es un error."
+description: "Dar dinero a los hijos sin que lo ganen no les enseña a valorarlo. Después de 35 años acompañando a familias, te explico por qué la semanada sin esfuerzo es un error y qué hacer en su lugar."
 category: "Adolescencia"
 tags: ["dinero", "semanada", "valores", "familias", "adolescentes"]
 ---
 
-¿A alguno de nosotros nos cae el dinero del cielo cada mes solo poniendo la mano? Sin embargo, seguimos planteando si es buena idea dar una asignación fija —la famosa semanada— a nuestros hijos.
+¿A alguno de nosotros nos cae el dinero del cielo cada mes solo poniendo la mano? Sin embargo, seguimos debatiendo si es buena idea dar una asignación fija —la famosa semanada— a nuestros hijos sin que tengan que ganársela.
 
-Después de 35 años de experiencia pedagógica y haber acompañado a más de 7.000 estudiantes y padres, puedo asegurar que dar dinero regularmente, ganado sin esfuerzo, no es la panacea para enseña a gestionarlo ni a valorarlo. Al contrario: "el dinero que no se gana con esfuerzo, no se valora".
+Después de 35 años de experiencia pedagógica y haber acompañado a más de 7.000 estudiantes y familias, puedo asegurar que dar dinero regularmente sin esfuerzo no enseña a gestionarlo ni a valorarlo. Al contrario: el dinero que no se gana con esfuerzo, no se valora.
 
-Este fin de semana escuché en una TV que algunos profesionales recomiendan dar semanada… Pero, ¿en base a qué evidencia? ¿Hay estudios que respalden realmente esta práctica o simplemente es una suposición que se repite?
+## Por qué la semanada gratuita no funciona
 
-Por qué NO deberíamos dar semanada sin más:
+Cuando los hijos reciben dinero automáticamente, aprenden tres cosas sin que nos demos cuenta:
 
-1) Falta de control: ¿De verdad queremos que durante épocas de exámenes acumulen dinero que luego gastarán sin supervisión? ¿En qué lo gastan? ¿Con quién?
+1. **El dinero aparece sin conexión con el trabajo.** Si siempre está ahí, ¿para qué esforzarse?
+2. **Los recursos parecen ilimitados.** Si se acaba, ya habrá más el viernes.
+3. **No hay consecuencias por gastos irresponsables.** Si lo gasto hoy en algo tonto, mañana habrá más.
 
-2) Ausencia de mérito: Si haga lo que haga siempre tiene dinero en el bolsillo, ¿cómo aprenderá el valor del esfuerzo?
+Hay estudios que respaldan realmente esta práctica. Pero cuando el dinero no cuesta nada ganarlo, tampoco cuesta nada gastarlo.
 
-3) Educación en valores: ¿Cuándo damos más valor a algo, cuando nos cuesta conseguirlo o cuando lo obtenemos sin esfuerzo?
+## Dos casos reales que lo ilustran
 
-Qué consigues no dando semanada:
+**Las gafas de sol** (14 años): Una adolescente quería unas gafas de marca caras. Sus padres le dijeron que pagarían lo que costase una versión básica, y que el resto lo tendría que poner ella de sus ahorros ganados dando clases particulares. Tardó unas semanas en reunir la diferencia. Resultado: cuida esas gafas como si valieran oro. Las gafas que le hubieran regalado sin más ya las habría perdido.
 
-Asociar el dinero al esfuerzo: Desde pequeños, pueden ganarse una pequeña cantidad por tareas adecuadas a su edad. Conforme crecen, pueden asumir más responsabilidad (dar clases, cuidar niños, etc.). Esto les ayuda a comprender que el dinero es el resultado de un intercambio: tú das algo, y recibes algo a cambio.
+**La feria del pueblo** (16 años): Un chico rechazó gastar sus ahorros en atracciones, prefiriendo acumularlos para algo de más valor. Su comentario fue simple: "Cuando es tu propio dinero, te lo piensas dos veces antes de gastarlo."
 
-Conversaciones abiertas: Hablad sobre el coste de las cosas, si vale la pena gastarlo, cómo ahorrar, cómo generar más ingresos… Esto también es educación financiera.
+## Lo que sí funciona: alternativas reales
 
-Un control útil en la adolescencia: Si necesitan más dinero del que ganan dando clases o lo que sea, te pedirán y ese dinero es el que te irá bien para controlar: cuánto gasta, dónde, con quién y cuándo lo gastan.
+### Dinero según la edad y el esfuerzo
 
-Dar semanada no garantiza adultos financieramente responsables. Pero educar en finanzas sí es una herramienta poderosa para prepararlos para el mundo real.
+- **10-13 años:** Tareas extra en casa, pequeños trabajos para vecinos o familiares.
+- **14-16 años:** Clases particulares a niños más pequeños, cuidado de niños, paseos de perros.
+- **17-18 años:** Trabajos de verano, prácticas, colaboraciones puntuales.
 
-Enseñarles que el dinero no es un regalo, sino el resultado del esfuerzo es una forma de sacarles de la burbuja casa-colegio-redes y ponerles un pie en la vida adulta. Porque el dinero se gana, y lo que haces tiene un valor.
+### Dinero según necesidad con conversación
 
-No les des el pez... enséñales a pescar.
+Que pidan para algo concreto, que expliquen para qué es, y que devuelvan el cambio. Esa conversación —cuánto cuesta, si vale la pena, cómo ahorrar— es educación financiera real. Y además te da información útil sobre qué están haciendo y con quién.
 
-Os comparto además una entrevista muy reveladora sobre cómo los jóvenes quieren saber, aprender y participar. Están más preparados de lo que creemos… Somos los adultos quienes a veces los mantenemos adormecidos.
+### Financiación compartida para caprichos
+
+Para algo que quieren y no necesitan: los padres ponen la mitad o la parte básica; ellos ponen el resto con dinero ganado. Funciona mucho mejor que el no rotundo o el sí automático.
+
+## Lo que les enseñas cuando les pides que se lo ganen
+
+Que el esfuerzo tiene recompensa tangible. Que los recursos son limitados. Que la satisfacción que viene del logro propio es diferente —y más profunda— que la que viene de recibir algo sin más.
+
+No les des el pez. Enséñales a pescar. Y cuando lo pesquen solos, verás la diferencia.
