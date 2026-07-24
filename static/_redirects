@@ -1,0 +1,5 @@
+# Redireccionamientos 301 - páginas antiguas que ya no existen
+/el-adolescente-y-sus-horas-de-sueno/          /blog/adolescentes-y-el-sueno/          301
+/blog/el-adolescente-y-sus-horas-de-sueno/     /blog/adolescentes-y-el-sueno/          301
+/lo-mas-leido-del-blog/                        /blog/                                  301
+/profesionales-de-la-educacion/                /                                       301
