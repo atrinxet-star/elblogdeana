@@ -3,6 +3,7 @@ title: ¿Qué hay detrás de la popularidad de los tests de personalidad en la
   adolescencia?
 date: 2026-06-10
 category: "Orientación"
+tags: ["tests de personalidad", "adolescentes", "orientación académica", "autoconocimiento"]
 description: "Durante 25 años he aplicado más de 500 tests a adolescentes. Te explico por qué cada vez más familias los solicitan y qué información real aportan."
 image: "/img/adolescente-test.jpg"
 ---

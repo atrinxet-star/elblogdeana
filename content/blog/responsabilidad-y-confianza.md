@@ -2,6 +2,7 @@
 title: "Responsabilidad y confianza: una relación que se construye desde pequeños"
 date: 2026-04-20
 category: "Pedagogía para padres"
+tags: ["responsabilidad", "confianza", "autonomía", "hijos", "educación"]
 description: "La responsabilidad no se enseña a los 14 años. Se cultiva con pequeños pasos desde la infancia, sobre una base de confianza."
 image: "/img/padre-hija-confianza.jpg"
 ---

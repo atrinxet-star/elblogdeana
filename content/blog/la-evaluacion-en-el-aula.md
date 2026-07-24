@@ -2,6 +2,7 @@
 title: "La evaluación en el aula: ¿estamos midiendo lo que realmente importa?"
 date: 2026-05-15
 category: "Educación"
+tags: ["evaluación", "sistema educativo", "notas", "aprendizaje", "educación"]
 description: "El sistema de evaluación escolar no ha cambiado al ritmo de la educación. Hay otro modelo posible que convierte el examen en una herramienta de aprendizaje."
 image: "/img/madre-preocupada.jpg"
 ---
