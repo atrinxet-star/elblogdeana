@@ -39,6 +39,7 @@ collections:
           - { label: "Hero: imagen", name: hero_imagen, widget: image, required: false }
           - { label: "CTA final: título", name: cta_titulo, widget: string }
           - { label: "CTA final: texto", name: cta_texto, widget: string }
+
       - label: Sobre mí
         name: sobre-mi
         file: content/sobre-mi.md
@@ -53,12 +54,105 @@ collections:
           - { label: "Estadística: estudiantes", name: stat_estudiantes, widget: string, hint: "Ej: +7000" }
           - { label: Cita inspiracional, name: cita_mandela, widget: text, hint: "La cita del fondo oscuro" }
           - { label: Autor de la cita, name: cita_autor, widget: string, hint: "Ej: Nelson Mandela" }
+
       - label: Servicios
         name: servicios
         file: content/servicios.md
         fields:
-          - { label: Título, name: title, widget: string }
-          - { label: Contenido, name: body, widget: markdown }
+          - { label: Título SEO, name: title, widget: string }
+          - { label: "Hero: título", name: hero_titulo, widget: string }
+          - { label: "Hero: subtítulo", name: hero_subtitulo, widget: text }
+          - label: "Servicio 1 — Orientación educativa (padres)"
+            name: s1
+            widget: object
+            fields:
+              - { label: Título del servicio, name: titulo, widget: string }
+              - { label: "Descripción (párrafo 1)", name: desc1, widget: text }
+              - { label: "Descripción (párrafo 2)", name: desc2, widget: text }
+              - { label: "Nota sobre edades (puedes usar **negrita**)", name: edades, widget: text }
+          - label: "Servicio 2 — Orientación académica"
+            name: s2
+            widget: object
+            fields:
+              - { label: Título del servicio, name: titulo, widget: string }
+              - { label: "Descripción (párrafo 1)", name: desc1, widget: text }
+              - { label: "Descripción (párrafo 2)", name: desc2, widget: text }
+              - { label: "Incluye: punto 1", name: bullet1, widget: string }
+              - { label: "Incluye: punto 2", name: bullet2, widget: string }
+              - { label: "Incluye: punto 3", name: bullet3, widget: string }
+              - { label: "Incluye: punto 4", name: bullet4, widget: string }
+          - label: "Servicio 3 — Orientación profesional"
+            name: s3
+            widget: object
+            fields:
+              - { label: Título del servicio, name: titulo, widget: string }
+              - { label: "Descripción (párrafo 1)", name: desc1, widget: text }
+              - { label: "Descripción (párrafo 2)", name: desc2, widget: text }
+              - { label: "Incluye: punto 1", name: bullet1, widget: string }
+              - { label: "Incluye: punto 2", name: bullet2, widget: string }
+              - { label: "Incluye: punto 3", name: bullet3, widget: string }
+              - { label: "Incluye: punto 4", name: bullet4, widget: string }
+          - label: "Servicio 4 — Tests"
+            name: s4
+            widget: object
+            fields:
+              - { label: Título del servicio, name: titulo, widget: string }
+              - { label: "Descripción (párrafo 1)", name: desc1, widget: text }
+              - { label: "Descripción (párrafo 2)", name: desc2, widget: text }
+          - label: "Servicio 5 — Acompañamiento familiar intensivo"
+            name: s5
+            widget: object
+            fields:
+              - { label: Título del servicio, name: titulo, widget: string }
+              - { label: "Descripción (párrafo 1)", name: desc1, widget: text }
+              - { label: "Descripción (párrafo 2)", name: desc2, widget: text }
+              - { label: "Nota final (puedes usar **negrita**)", name: nota, widget: text }
+          - label: "Preguntas frecuentes (FAQ)"
+            name: faqs
+            widget: list
+            fields:
+              - { label: Pregunta, name: pregunta, widget: string }
+              - { label: Respuesta, name: respuesta, widget: text }
+          - { label: "CTA final: título", name: cta_titulo, widget: string }
+          - { label: "CTA final: texto", name: cta_texto, widget: string }
+
+      - label: Orientación
+        name: orientacion
+        file: content/orientacion/_index.md
+        fields:
+          - { label: Título SEO, name: title, widget: string }
+          - { label: "Hero: título", name: hero_titulo, widget: string }
+          - { label: "Hero: subtítulo", name: hero_subtitulo, widget: text }
+          - { label: "Intro: título de sección", name: intro_titulo, widget: string }
+          - { label: "Intro: descripción (párrafo 1)", name: intro_desc1, widget: text }
+          - { label: "Intro: descripción (párrafo 2)", name: intro_desc2, widget: text }
+          - { label: "Intro: cita en negrita", name: intro_cita, widget: text }
+          - label: "Preguntas frecuentes"
+            name: faqs
+            widget: list
+            fields:
+              - { label: Pregunta, name: pregunta, widget: string }
+              - { label: Respuesta, name: respuesta, widget: text }
+          - { label: "CTA: título", name: cta_titulo, widget: string }
+          - { label: "CTA: texto", name: cta_texto, widget: string }
+
+      - label: Conoce a tu hijo
+        name: conoce-a-tu-hijo
+        file: content/conoce-a-tu-hijo.md
+        fields:
+          - { label: Título SEO, name: title, widget: string }
+          - { label: "Hero: título", name: hero_titulo, widget: string }
+          - { label: "Hero: subtítulo", name: hero_subtitulo, widget: text }
+          - { label: "Sección padres: título principal", name: problema_titulo, widget: string }
+          - label: "Preguntas frecuentes para padres"
+            name: faqs
+            widget: list
+            fields:
+              - { label: Pregunta, name: pregunta, widget: string }
+              - { label: Respuesta, name: respuesta, widget: text }
+          - { label: "CTA final: título", name: cta_titulo, widget: string }
+          - { label: "CTA final: texto", name: cta_texto, widget: string }
+
       - label: Contacto
         name: contacto
         file: content/contacto.md

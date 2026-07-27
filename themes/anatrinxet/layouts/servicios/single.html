@@ -3,8 +3,8 @@
 <!-- HERO SERVICIOS -->
 <section class="page-hero">
   <div class="container">
-    <h1>Servicios de orientación</h1>
-    <p class="page-desc">Más de 35 años ayudando a familias, estudiantes y profesionales a tomar las decisiones correctas.</p>
+    <h1>{{ .Params.hero_titulo | default "Servicios de orientación" }}</h1>
+    <p class="page-desc">{{ .Params.hero_subtitulo | default "Más de 35 años ayudando a familias, estudiantes y profesionales a tomar las decisiones correctas." }}</p>
   </div>
 </section>
 
@@ -63,9 +63,9 @@
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
       <div>
         <span class="section-label">Servicio 01 · Para padres</span>
-        <h2 style="margin: 12px 0 20px;">Orientación educativa: cómo educar a tu hijo</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 16px;">Trabajo con padres de hijos de cualquier edad — desde los primeros años hasta la adolescencia — cuando algo en la convivencia, el comportamiento o el desarrollo del hijo les preocupa y no saben cómo actuar.</p>
-        <p style="margin-bottom: 24px;">La orientación educativa para padres no es psicología ni terapia. Es un acompañamiento práctico y personalizado para entender mejor a tu hijo y actuar con coherencia, afecto y criterio.</p>
+        <h2 style="margin: 12px 0 20px;">{{ .Params.s1.titulo | default "Orientación educativa: cómo educar a tu hijo" }}</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 16px;">{{ .Params.s1.desc1 | default "Trabajo con padres de hijos de cualquier edad — desde los primeros años hasta la adolescencia — cuando algo en la convivencia, el comportamiento o el desarrollo del hijo les preocupa y no saben cómo actuar." }}</p>
+        <p style="margin-bottom: 24px;">{{ .Params.s1.desc2 | default "La orientación educativa para padres no es psicología ni terapia. Es un acompañamiento práctico y personalizado para entender mejor a tu hijo y actuar con coherencia, afecto y criterio." }}</p>
 
         <div style="background: var(--blue-pale); border-radius: 12px; padding: 24px; margin-bottom: 28px;">
           <h4 style="font-size:0.9rem; color:var(--blue-dark); margin-bottom:16px; text-transform:uppercase; letter-spacing:0.05em;">Cómo funciona el proceso</h4>
@@ -93,8 +93,8 @@
           </div>
         </div>
 
-        <p style="font-size:0.9rem; color:var(--text-light); margin-bottom:24px;">Para hijos de <strong>todas las edades</strong>: primera infancia (2-5 años), primaria (6-11), preadolescencia (11-13) y adolescencia (14-18).</p>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar consulta de padres</a>
+        <div style="font-size:0.9rem; color:var(--text-light); margin-bottom:24px;">{{ .Params.s1.edades | default "Para hijos de **todas las edades**: primera infancia (2-5 años), primaria (6-11), preadolescencia (11-13) y adolescencia (14-18)." | markdownify }}</div>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary">Reservar consulta de padres</a>
       </div>
       <div>
         <img src="/img/familia-orientacion.jpg" alt="Orientación educativa para padres" style="width:100%; border-radius:16px; box-shadow:0 16px 48px rgba(0,0,0,0.12); margin-bottom:20px;">
@@ -116,16 +116,16 @@
       </div>
       <div>
         <span class="section-label">Servicio 02 — Más solicitado</span>
-        <h2 style="margin: 12px 0 20px;">Orientación académica: qué estudiar, qué estudios elegir</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">¿Bachillerato o FP? ¿Qué carrera? ¿Universidad en España o en el extranjero? Preguntas que pueden definir una vida — y que muchas familias responden con prisas, por descarte o siguiendo la moda.</p>
-        <p style="margin-bottom: 32px;">Con una orientación académica bien hecha, la decisión se toma con información real sobre quién es el estudiante, qué opciones existen y qué camino encaja mejor con su perfil.</p>
+        <h2 style="margin: 12px 0 20px;">{{ .Params.s2.titulo | default "Orientación académica: qué estudiar, qué estudios elegir" }}</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">{{ .Params.s2.desc1 | default "¿Bachillerato o FP? ¿Qué carrera? ¿Universidad en España o en el extranjero? Preguntas que pueden definir una vida — y que muchas familias responden con prisas, por descarte o siguiendo la moda." }}</p>
+        <p style="margin-bottom: 32px;">{{ .Params.s2.desc2 | default "Con una orientación académica bien hecha, la decisión se toma con información real sobre quién es el estudiante, qué opciones existen y qué camino encaja mejor con su perfil." }}</p>
         <ul style="margin-bottom: 32px; padding:0; list-style:none;">
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Análisis del perfil académico y personal</span></li>
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Información sobre opciones en España e internacional</span></li>
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Acompañamiento en la toma de decisión</span></li>
-          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Seguimiento durante el proceso</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s2.bullet1 | default "Análisis del perfil académico y personal" }}</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s2.bullet2 | default "Información sobre opciones en España e internacional" }}</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s2.bullet3 | default "Acompañamiento en la toma de decisión" }}</span></li>
+          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s2.bullet4 | default "Seguimiento durante el proceso" }}</span></li>
         </ul>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar orientación académica</a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary">Reservar orientación académica</a>
       </div>
     </div>
   </div>
@@ -137,16 +137,16 @@
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
       <div>
         <span class="section-label">Servicio 03</span>
-        <h2 style="margin: 12px 0 20px;">Orientación profesional: futuro laboral</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">La orientación profesional no es solo para jóvenes. Trabajo con adultos que quieren cambiar de carrera, explorar nuevas salidas con sus estudios actuales o simplemente entender qué tipo de trabajo les haría sentirse realizados.</p>
-        <p style="margin-bottom: 32px;">Si algo en tu trayectoria profesional no encaja, no es un fracaso. Es información. Y con esa información se puede construir un plan nuevo.</p>
+        <h2 style="margin: 12px 0 20px;">{{ .Params.s3.titulo | default "Orientación profesional: futuro laboral" }}</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">{{ .Params.s3.desc1 | default "La orientación profesional no es solo para jóvenes. Trabajo con adultos que quieren cambiar de carrera, explorar nuevas salidas con sus estudios actuales o simplemente entender qué tipo de trabajo les haría sentirse realizados." }}</p>
+        <p style="margin-bottom: 32px;">{{ .Params.s3.desc2 | default "Si algo en tu trayectoria profesional no encaja, no es un fracaso. Es información. Y con esa información se puede construir un plan nuevo." }}</p>
         <ul style="margin-bottom: 32px; padding:0; list-style:none;">
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Análisis del perfil profesional actual</span></li>
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Exploración de salidas con tus estudios</span></li>
-          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Plan de acción personalizado</span></li>
-          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>Sesiones de seguimiento</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s3.bullet1 | default "Análisis del perfil profesional actual" }}</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s3.bullet2 | default "Exploración de salidas con tus estudios" }}</span></li>
+          <li style="display:flex; gap:12px; margin-bottom:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s3.bullet3 | default "Plan de acción personalizado" }}</span></li>
+          <li style="display:flex; gap:12px; align-items:flex-start;"><span style="color:var(--blue-mid); font-weight:700;">✓</span><span>{{ .Params.s3.bullet4 | default "Sesiones de seguimiento" }}</span></li>
         </ul>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Reservar orientación profesional</a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary">Reservar orientación profesional</a>
       </div>
       <div style="border-radius:16px; overflow:hidden; box-shadow:0 16px 48px rgba(0,0,0,0.12);">
         <img src="/img/trabajo-equipo.jpg" alt="Orientación profesional cambio de carrera" style="width:100%; display:block; object-fit:cover; max-height:380px;">
@@ -164,9 +164,9 @@
       </div>
       <div>
         <span class="section-label">Servicio 04 · La base de todo</span>
-        <h2 style="margin: 12px 0 20px;">Tests de orientación y personalidad y aptitudes</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">Los tests que utilizo son herramientas profesionales validadas, adaptadas a cada franja de edad. No son cuestionarios de internet: son instrumentos que revelan el perfil real de la persona — sus fortalezas, su forma de aprender, sus motivaciones.</p>
-        <p style="margin-bottom: 28px;">El resultado no es una etiqueta. Es un mapa para entenderse mejor y tomar mejores decisiones.</p>
+        <h2 style="margin: 12px 0 20px;">{{ .Params.s4.titulo | default "Tests de orientación y personalidad y aptitudes" }}</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 20px;">{{ .Params.s4.desc1 | default "Los tests que utilizo son herramientas profesionales validadas, adaptadas a cada franja de edad. No son cuestionarios de internet: son instrumentos que revelan el perfil real de la persona — sus fortalezas, su forma de aprender, sus motivaciones." }}</p>
+        <p style="margin-bottom: 28px;">{{ .Params.s4.desc2 | default "El resultado no es una etiqueta. Es un mapa para entenderse mejor y tomar mejores decisiones." }}</p>
         <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:28px;">
           <div style="background:white; border-radius:10px; padding:16px; border:1px solid var(--border);">
             <div style="font-size:0.7rem; font-weight:700; color:var(--blue-mid); text-transform:uppercase; margin-bottom:6px;">Desde los 5 años</div>
@@ -185,7 +185,7 @@
             <div style="font-size:0.88rem; color:var(--text-dark);">Perfil profesional y cambio de carrera</div>
           </div>
         </div>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary">Pedir información sobre los tests</a>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary">Pedir información sobre los tests</a>
       </div>
     </div>
   </div>
@@ -197,9 +197,9 @@
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
       <div>
         <span class="section-label" style="color:#9333ea; border-color:#e9d5ff;">Servicio 05 · Programa intensivo</span>
-        <h2 style="margin: 12px 0 20px;">Programa Intensivo de Acompañamiento Familiar</h2>
-        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 16px;">Un acompañamiento estrecho, personalizado y sostenido en el tiempo para familias que necesitan más que un consejo. Trabajo directamente con los padres —y cuando la situación lo requiere, también con el hijo o la hija— para intervenir en el día a día real de la familia.</p>
-        <p style="margin-bottom: 24px;">Aprendo cómo funciona vuestra dinámica, identifico dónde está el bloqueo y os doy herramientas concretas para transformarlo. No es psicología ni terapia. Es orientación familiar intensiva: práctica, directa y con resultados visibles.</p>
+        <h2 style="margin: 12px 0 20px;">{{ .Params.s5.titulo | default "Programa Intensivo de Acompañamiento Familiar" }}</h2>
+        <p style="font-size: 1.05rem; color: var(--text-light); margin-bottom: 16px;">{{ .Params.s5.desc1 | default "Un acompañamiento estrecho, personalizado y sostenido en el tiempo para familias que necesitan más que un consejo. Trabajo directamente con los padres —y cuando la situación lo requiere, también con el hijo o la hija— para intervenir en el día a día real de la familia." }}</p>
+        <p style="margin-bottom: 24px;">{{ .Params.s5.desc2 | default "Aprendo cómo funciona vuestra dinámica, identifico dónde está el bloqueo y os doy herramientas concretas para transformarlo. No es psicología ni terapia. Es orientación familiar intensiva: práctica, directa y con resultados visibles." }}</p>
 
         <div style="background: #f5f0ff; border-radius: 12px; padding: 24px; margin-bottom: 28px;">
           <h4 style="font-size:0.9rem; color:var(--blue-dark); margin-bottom:16px; text-transform:uppercase; letter-spacing:0.05em;">Qué trabajamos juntos</h4>
@@ -227,8 +227,8 @@
           </div>
         </div>
 
-        <p style="font-size:0.9rem; color:var(--text-light); margin-bottom:24px;">Para familias con <strong>padres separados</strong>, adolescentes con malas influencias o conductas preocupantes, o cuando el diálogo se ha roto y nadie sabe cómo retomarlo.</p>
-        <a href="mailto:atrinxet@mcm.info" class="btn btn-primary" style="background:#9333ea; border-color:#9333ea;">Cuéntame vuestra situación</a>
+        <div style="font-size:0.9rem; color:var(--text-light); margin-bottom:24px;">{{ .Params.s5.nota | default "Para familias con **padres separados**, adolescentes con malas influencias o conductas preocupantes, o cuando el diálogo se ha roto y nadie sabe cómo retomarlo." | markdownify }}</div>
+        <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary" style="background:#9333ea; border-color:#9333ea;">Cuéntame vuestra situación</a>
       </div>
       <div>
         <img src="/img/madre-hijo-abrazo.jpg" alt="Programa de acompañamiento familiar intensivo para adolescentes" style="width:100%; border-radius:16px; box-shadow:0 16px 48px rgba(0,0,0,0.12); margin-bottom:20px;">
@@ -249,220 +249,37 @@
       <h2>Lo que más me preguntan las familias</h2>
     </div>
     <div style="display: flex; flex-direction: column; gap: 16px;">
-
+      {{ range .Params.faqs }}
       <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
         <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Desde qué edad se pueden hacer los tests?
+          {{ .pregunta }}
           <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
         </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Los tests pueden realizarse a partir de los 6 años, aunque los resultados empiezan a ser especialmente fiables y orientativos a medida que el niño crece. Cada prueba está adaptada a la edad y etapa de desarrollo del evaluado, desde la infancia hasta la edad adulta.</p>
+        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">{{ .respuesta }}</p>
       </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cuánto dura una sesión de orientación?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Cada sesión tiene una duración aproximada de una hora. Sin embargo, un proceso de orientación completo no suele limitarse a una sola sesión — especialmente cuando se realizan pruebas y tests. Lo habitual es trabajar en varias sesiones para obtener una visión completa y poder acompañar bien la toma de decisiones.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Los tests se hacen online o presencialmente?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Siempre que es posible optamos por la modalidad online. De esta forma el evaluado no tiene que desplazarse y puede realizar las pruebas desde un lugar cómodo y conocido, lo que favorece la concentración y la naturalidad en las respuestas. Algunos tests específicos requieren presencialidad, pero la mayoría se pueden hacer a distancia sin perder rigor ni calidad.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cuántas sesiones son necesarias?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">El número de sesiones varía entre 2 y 3, dependiendo de si el evaluado es un menor o un adulto, y de las pruebas y tests que se realicen. En procesos más completos o cuando el caso lo requiere, puede ampliarse. El objetivo siempre es llegar a conclusiones claras y útiles, no alargar el proceso innecesariamente.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Participan los padres en las sesiones?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Cuando el evaluado es un menor, sí. Los padres forman parte activa del proceso: son entrevistados y en algunas pruebas también son evaluados para obtener una visión completa del entorno familiar. La orientación de un menor no se entiende sin la implicación de la familia.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Se puede hacer la orientación en otro idioma?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Sí. Las sesiones de orientación pueden realizarse en otro idioma según las necesidades del evaluado y su familia.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Qué diferencia hay entre los tests profesionales y los que hay gratis en internet?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Los tests gratuitos de internet ofrecen respuestas genéricas basadas en categorías amplias. Los tests profesionales que utilizo están validados científicamente, adaptados a la edad y al perfil del evaluado, y lo más importante: son interpretados por una especialista con más de 35 años de experiencia. El valor no está solo en los resultados — está en saber leerlos, relacionarlos entre sí y traducirlos en orientaciones concretas y útiles para esa persona en particular.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿El test decide qué tiene que estudiar mi hijo?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">No. El test no decide nada — aporta información. La decisión siempre la toma la persona, y eso es fundamental. Lo que hace el proceso de orientación es dar a tu hijo la información sobre sí mismo que necesita para tomar esa decisión con criterio, en lugar de hacerlo a ciegas o por descarte. Al final de las sesiones, él sabe más sobre quién es y qué caminos encajan con su perfil. La decisión final es suya.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Qué pasa si mi hijo no sabe en absoluto qué quiere hacer?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Es exactamente el perfil con el que más trabajo. No saber qué se quiere no es un problema — es el punto de partida del proceso. El proceso de orientación está diseñado precisamente para eso: para que quien llega sin ideas claras salga con un mapa de quién es y qué opciones encajan con su forma de ser. En más de 35 años, no he conocido a ningún adolescente que no tuviera respuestas dentro. Solo necesitaba las preguntas correctas.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Y si mi hijo no está de acuerdo con los resultados?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Los resultados no son un veredicto — son el punto de partida de una conversación. Si algo no encaja con lo que el adolescente siente de sí mismo, lo exploramos juntos. A veces el desacuerdo inicial revela algo más profundo que merece atención. Nunca impongo una lectura de los resultados: los trabajamos juntos hasta que tienen sentido para la persona que los ha generado.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Trabajas en Barcelona, online o en ambos sitios?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">En ambos. Las sesiones presenciales se realizan en las oficinas de MCM Educational Consultants en Barcelona (C/ Calvet 5, 4º-2ª). Las sesiones online se hacen por videollamada, con la misma calidad y profundidad que las presenciales. Muchas familias de fuera de Barcelona — o que prefieren la comodidad de hacerlo desde casa — optan por la modalidad online sin ningún inconveniente.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cuándo es el mejor momento para hacer la orientación?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Antes de cualquier decisión importante: al acabar la ESO, al empezar el Bachillerato, antes de elegir carrera universitaria o FP. El verano es especialmente recomendable — hay calma, no hay presión de plazos y el adolescente está más receptivo. Dicho esto, nunca es demasiado tarde. He orientado a jóvenes que ya habían empezado una carrera equivocada y a adultos en pleno cambio profesional. El mejor momento siempre es antes de que la duda se convierta en error.</p>
-      </details>
-
+      {{ end }}
     </div>
   </div>
 </section>
 
 <!-- SCHEMA FAQ para Google -->
+{{ if .Params.faqs }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿Desde qué edad se pueden hacer los tests?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los tests pueden realizarse a partir de los 6 años, aunque los resultados empiezan a ser especialmente fiables y orientativos a medida que el niño crece. Cada prueba está adaptada a la edad y etapa de desarrollo del evaluado, desde la infancia hasta la edad adulta."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuánto dura una sesión de orientación?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cada sesión tiene una duración aproximada de una hora. Sin embargo, un proceso de orientación completo no suele limitarse a una sola sesión, especialmente cuando se realizan pruebas y tests. Lo habitual es trabajar en varias sesiones para obtener una visión completa y poder acompañar bien la toma de decisiones."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Los tests se hacen online o presencialmente?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Siempre que es posible optamos por la modalidad online. De esta forma el evaluado no tiene que desplazarse y puede realizar las pruebas desde un lugar cómodo y conocido, lo que favorece la concentración y la naturalidad en las respuestas. Algunos tests específicos requieren presencialidad, pero la mayoría se pueden hacer a distancia sin perder rigor ni calidad."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuántas sesiones son necesarias?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "El número de sesiones varía entre 2 y 3, dependiendo de si el evaluado es un menor o un adulto, y de las pruebas y tests que se realicen. En procesos más completos o cuando el caso lo requiere, puede ampliarse. El objetivo siempre es llegar a conclusiones claras y útiles, no alargar el proceso innecesariamente."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Participan los padres en las sesiones?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cuando el evaluado es un menor, sí. Los padres forman parte activa del proceso: son entrevistados y en algunas pruebas también son evaluados para obtener una visión completa del entorno familiar. La orientación de un menor no se entiende sin la implicación de la familia."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Se puede hacer la orientación en otro idioma?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sí. Las sesiones de orientación pueden realizarse en otro idioma según las necesidades del evaluado y su familia."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué diferencia hay entre los tests profesionales y los que hay gratis en internet?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los tests gratuitos de internet ofrecen respuestas genéricas basadas en categorías amplias. Los tests profesionales están validados científicamente, adaptados a la edad y al perfil del evaluado, e interpretados por una especialista con más de 35 años de experiencia. El valor no está solo en los resultados — está en saber leerlos y traducirlos en orientaciones concretas y útiles para esa persona en particular."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿El test decide qué tiene que estudiar mi hijo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No. El test no decide nada — aporta información. La decisión siempre la toma la persona. Lo que hace el proceso de orientación es dar a tu hijo la información sobre sí mismo que necesita para tomar esa decisión con criterio, en lugar de hacerlo a ciegas o por descarte."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué pasa si mi hijo no sabe en absoluto qué quiere hacer?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Es exactamente el perfil con el que más trabajo. No saber qué se quiere no es un problema — es el punto de partida del proceso. En más de 35 años, no he conocido a ningún adolescente que no tuviera respuestas dentro. Solo necesitaba las preguntas correctas."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Y si mi hijo no está de acuerdo con los resultados?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Los resultados no son un veredicto — son el punto de partida de una conversación. Si algo no encaja con lo que el adolescente siente de sí mismo, lo exploramos juntos. Nunca impongo una lectura de los resultados: los trabajamos juntos hasta que tienen sentido para la persona que los ha generado."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Trabajas en Barcelona, online o en ambos sitios?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "En ambos. Las sesiones presenciales se realizan en MCM Educational Consultants, C/ Calvet 5, 4º-2ª, Barcelona. Las sesiones online se hacen por videollamada con la misma calidad que las presenciales."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cuándo es el mejor momento para hacer la orientación?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Antes de cualquier decisión importante: al acabar la ESO, al empezar el Bachillerato, antes de elegir carrera universitaria o FP. El verano es especialmente recomendable. Dicho esto, nunca es demasiado tarde — he orientado a jóvenes que ya habían empezado una carrera equivocada y a adultos en pleno cambio profesional."
-      }
-    }
-  ]
+  "mainEntity": [{{ range $i, $faq := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $faq.pregunta | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $faq.respuesta | jsonify }}}}{{ end }}]
 }
 </script>
+{{ end }}
 
 <!-- CTA FINAL -->
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
-      <h2>¿No sabes por dónde empezar?</h2>
-      <p>Escríbeme. Primera consulta gratuita y sin compromiso.</p>
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Contactar ahora</a>
+      <h2>{{ .Params.cta_titulo | default "¿No sabes por dónde empezar?" }}</h2>
+      <p>{{ .Params.cta_texto | default "Escríbeme. Primera consulta gratuita y sin compromiso." }}</p>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn-white">Contactar ahora</a>
     </div>
   </div>
 </section>

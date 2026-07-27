@@ -5,9 +5,9 @@
   <div class="container">
     <div style="max-width: 720px; margin: 0 auto; text-align: center;">
       <p style="display:inline-block; background:rgba(255,255,255,0.15); border:1px solid rgba(255,255,255,0.25); border-radius:50px; padding:6px 20px; font-size:0.8rem; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; margin-bottom:24px;">Para padres</p>
-      <h1 style="color:white; font-size: clamp(2rem, 5vw, 3.2rem); margin-bottom: 24px;">¿Sabes realmente cómo es tu hijo?</h1>
-      <p style="color: rgba(255,255,255,0.85); font-size: 1.15rem; margin-bottom: 40px; line-height: 1.7;">No cómo le gustaría que fuera. No cómo era de pequeño. Cómo es ahora: qué le motiva, cómo aprende, qué le frena, qué potencial tiene que todavía no ha desarrollado.</p>
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Quiero conocer a mi hijo — escríbeme</a>
+      <h1 style="color:white; font-size: clamp(2rem, 5vw, 3.2rem); margin-bottom: 24px;">{{ .Params.hero_titulo | default "¿Sabes realmente cómo es tu hijo?" }}</h1>
+      <p style="color: rgba(255,255,255,0.85); font-size: 1.15rem; margin-bottom: 40px; line-height: 1.7;">{{ .Params.hero_subtitulo | default "No cómo le gustaría que fuera. No cómo era de pequeño. Cómo es ahora: qué le motiva, cómo aprende, qué le frena, qué potencial tiene que todavía no ha desarrollado." }}</p>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn-white">Quiero conocer a mi hijo — escríbeme</a>
     </div>
   </div>
 </section>
@@ -18,7 +18,7 @@
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center;">
       <div>
         <span class="section-label">Lo que me dicen los padres</span>
-        <h2 style="margin: 12px 0 24px;">"No sé cómo educar mejor a mi hijo, a veces tengo dudas"</h2>
+        <h2 style="margin: 12px 0 24px;">{{ .Params.problema_titulo | default "\"No sé cómo educar mejor a mi hijo, a veces tengo dudas\"" }}</h2>
         <p style="color: var(--text-light); margin-bottom: 20px; font-size: 1.05rem;">Es la frase que más escucho. Seguida de:</p>
         <ul style="color: var(--text-light); margin-bottom: 28px; padding-left: 0; list-style: none;">
           <li style="padding: 12px 0; border-bottom: 1px solid var(--border); display:flex; gap:12px;"><span style="color:var(--blue-mid); font-size:1.2rem;">—</span> "Tiene buenas notas pero no sé si está en el camino correcto"</li>
@@ -139,12 +139,13 @@
       </div>
     </div>
     <div style="text-align:center; margin-top:48px;">
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-primary" style="font-size:1.05rem; padding:16px 40px;">Reservar primera llamada gratuita</a>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn-primary" style="font-size:1.05rem; padding:16px 40px;">Reservar primera llamada gratuita</a>
     </div>
   </div>
 </section>
 
 <!-- FAQ PARA PADRES -->
+{{ if .Params.faqs }}
 <section style="padding: 80px 0;">
   <div class="container" style="max-width: 860px;">
     <div class="section-header">
@@ -152,39 +153,15 @@
       <h2>Lo que más me preguntan los padres</h2>
     </div>
     <div style="display: flex; flex-direction: column; gap: 16px;">
-
+      {{ range .Params.faqs }}
       <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
         <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿En qué puede ayudar la orientación educativa a unos padres?
+          {{ .pregunta }}
           <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
         </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Muchos padres creen que están educando bien mientras sus hijos están en la infancia. Cuando llegan a la adolescencia, se dan cuenta de que les cuesta seguir educando como lo hacían hasta entonces — y la razón es que en la infancia no siempre se pusieron las bases correctas. Saber educar no es algo que venga de serie. Es una habilidad que se desarrolla y que tiene un impacto enorme en el presente y en el futuro de los hijos. La orientación educativa ayuda a los padres a entender mejor a sus hijos, a actuar con más criterio y a adelantarse a los problemas antes de que aparezcan.</p>
+        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">{{ .respuesta }}</p>
       </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cómo aprendo a poner límites y normas a mis hijos?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Existen procesos y técnicas sencillas que ayudan a los padres a establecer rutinas y hábitos que consolidan pautas educativas desde la infancia. Estas pautas, bien trabajadas, serán muy útiles para los hijos en la adolescencia y en la edad adulta. No se trata de ser estrictos ni permisivos, sino de ser coherentes y consistentes. En las sesiones de orientación trabajamos exactamente eso: qué normas poner, cómo comunicarlas y cómo mantenerlas sin que se conviertan en fuente de conflicto.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Qué pasa si mi hijo hace pataletas?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Las pataletas son siempre la consecuencia de algún problema. Los niños hasta los 7 u 8 años no saben expresar lo que sienten con palabras, y la pataleta es su forma de comunicar malestar, frustración o inseguridad. Antes de reaccionar, hay que averiguar cuál es el problema real que hay detrás. En las sesiones de orientación ayudamos a los padres a identificar esa causa y a responder de forma efectiva, sin reforzar la conducta ni ignorar lo que el niño está intentando comunicar.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cómo sé si mi hijo tiene un problema de aprendizaje?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Existen pruebas y tests que evalúan las capacidades cognitivas de niños y adolescentes con precisión. Estas herramientas permiten identificar si hay alguna dificultad de aprendizaje y, lo más importante, ayudan a poner soluciones rápidas y eficaces para que el niño o adolescente pueda seguir su vida con normalidad. Detectarlo a tiempo marca una diferencia enorme en su desarrollo académico y personal.</p>
-      </details>
-
+      {{ end }}
     </div>
   </div>
 </section>
@@ -194,50 +171,18 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "¿En qué puede ayudar la orientación educativa a unos padres?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Muchos padres creen que están educando bien mientras sus hijos están en la infancia. Cuando llegan a la adolescencia, se dan cuenta de que les cuesta seguir educando como lo hacían hasta entonces. Saber educar no es algo que venga de serie. Es una habilidad que se desarrolla y que tiene un impacto enorme en el presente y en el futuro de los hijos. La orientación educativa ayuda a los padres a entender mejor a sus hijos, a actuar con más criterio y a adelantarse a los problemas antes de que aparezcan."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo aprendo a poner límites y normas a mis hijos?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Existen procesos y técnicas sencillas que ayudan a los padres a establecer rutinas y hábitos que consolidan pautas educativas desde la infancia. Estas pautas, bien trabajadas, serán muy útiles para los hijos en la adolescencia y en la edad adulta. No se trata de ser estrictos ni permisivos, sino de ser coherentes y consistentes."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Qué pasa si mi hijo hace pataletas?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Las pataletas son siempre la consecuencia de algún problema. Los niños hasta los 7 u 8 años no saben expresar lo que sienten con palabras, y la pataleta es su forma de comunicar malestar, frustración o inseguridad. Antes de reaccionar, hay que averiguar cuál es el problema real que hay detrás."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo sé si mi hijo tiene un problema de aprendizaje?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Existen pruebas y tests que evalúan las capacidades cognitivas de niños y adolescentes con precisión. Estas herramientas permiten identificar si hay alguna dificultad de aprendizaje y ayudan a poner soluciones rápidas y eficaces para que el niño o adolescente pueda seguir su vida con normalidad. Detectarlo a tiempo marca una diferencia enorme en su desarrollo académico y personal."
-      }
-    }
-  ]
+  "mainEntity": [{{ range $i, $faq := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $faq.pregunta | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $faq.respuesta | jsonify }}}}{{ end }}]
 }
 </script>
+{{ end }}
 
 <!-- CTA FINAL -->
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
-      <h2>Tu hijo tiene un potencial único. Ayúdale a descubrirlo.</h2>
-      <p>Primera llamada gratuita. Sin compromiso. Escríbeme hoy.</p>
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Contactar a Ana</a>
+      <h2>{{ .Params.cta_titulo | default "Tu hijo tiene un potencial único. Ayúdale a descubrirlo." }}</h2>
+      <p>{{ .Params.cta_texto | default "Primera llamada gratuita. Sin compromiso. Escríbeme hoy." }}</p>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn-white">Contactar a Ana</a>
     </div>
   </div>
 </section>

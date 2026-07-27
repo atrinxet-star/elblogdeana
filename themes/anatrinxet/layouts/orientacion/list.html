@@ -3,8 +3,8 @@
 <!-- HERO ORIENTACIÓN -->
 <section class="page-hero">
   <div class="container">
-    <h1>¿Qué es la orientación educativa?</h1>
-    <p class="page-desc">Orientar no es decidir por alguien. Es acompañarle a descubrir quién es y qué camino le corresponde.</p>
+    <h1>{{ .Params.hero_titulo | default "¿Qué es la orientación educativa?" }}</h1>
+    <p class="page-desc">{{ .Params.hero_subtitulo | default "Orientar no es decidir por alguien. Es acompañarle a descubrir quién es y qué camino le corresponde." }}</p>
   </div>
 </section>
 
@@ -14,10 +14,10 @@
     <div style="display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:center;">
       <div>
         <span class="section-label">Mi enfoque</span>
-        <h2 style="margin:12px 0 20px;">La orientación que cambia decisiones</h2>
-        <p style="font-size:1.05rem; color:var(--text-light); margin-bottom:20px;">La orientación educativa y profesional es un proceso de acompañamiento personalizado que ayuda a las personas — y a sus familias — a tomar decisiones importantes con criterio, información y autoconocimiento.</p>
-        <p style="margin-bottom:20px;">No es terapia. No es consejo de amigos. Es una herramienta profesional que combina la escucha, el análisis y los tests validados para revelar quién es realmente una persona y qué camino encaja mejor con ella.</p>
-        <p style="margin-bottom:32px; font-weight:600; color:var(--blue-dark);">Llevo más de 35 años haciendo esto. Y sigo fascinada cada vez que un test abre una conversación que cambia el futuro de alguien.</p>
+        <h2 style="margin:12px 0 20px;">{{ .Params.intro_titulo | default "La orientación que cambia decisiones" }}</h2>
+        <p style="font-size:1.05rem; color:var(--text-light); margin-bottom:20px;">{{ .Params.intro_desc1 | default "La orientación educativa y profesional es un proceso de acompañamiento personalizado que ayuda a las personas — y a sus familias — a tomar decisiones importantes con criterio, información y autoconocimiento." }}</p>
+        <p style="margin-bottom:20px;">{{ .Params.intro_desc2 | default "No es terapia. No es consejo de amigos. Es una herramienta profesional que combina la escucha, el análisis y los tests validados para revelar quién es realmente una persona y qué camino encaja mejor con ella." }}</p>
+        <p style="margin-bottom:32px; font-weight:600; color:var(--blue-dark);">{{ .Params.intro_cita | default "Llevo más de 35 años haciendo esto. Y sigo fascinada cada vez que un test abre una conversación que cambia el futuro de alguien." }}</p>
         <a href="/servicios/" class="btn btn-primary">Ver mis servicios</a>
       </div>
       <div>
@@ -34,7 +34,9 @@
     <a href="/servicios/" class="btn btn-primary">Ver todos los servicios</a>
   </div>
 </section>
+
 <!-- FAQ ORIENTACIÓN ACADÉMICA -->
+{{ if .Params.faqs }}
 <section style="padding: 80px 0; background: var(--off-white);">
   <div class="container" style="max-width: 860px;">
     <div class="section-header">
@@ -42,31 +44,15 @@
       <h2>Lo que más me preguntan sobre orientación académica</h2>
     </div>
     <div style="display: flex; flex-direction: column; gap: 16px;">
-
+      {{ range .Params.faqs }}
       <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
         <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          No sé qué estudiar, ¿qué hago?
+          {{ .pregunta }}
           <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
         </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Lo primero es hacer una evaluación de intereses y habilidades. Muchas veces confundimos lo que nos gusta con lo que se nos da bien — y son cosas diferentes. Puedes disfrutar de la música sin tener aptitudes para ser músico profesional, o tener una habilidad extraordinaria para las matemáticas sin que te resulten apasionantes. La evaluación ayuda a cruzar ambas cosas y dar en la diana: qué estudiar basándose en quién eres realmente, no en lo que está de moda o en lo que eligen tus amigos.</p>
+        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">{{ .respuesta }}</p>
       </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Cómo consigo tener un currículum ganador?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">Un currículum ganador no se construye acumulando títulos — se construye conociendo tus fortalezas y sabiendo cómo presentarlas. El primer paso es identificar qué habilidades, experiencias y logros te diferencian de los demás. A partir de ahí, el CV se adapta a cada posición o universidad, destacando exactamente lo que ese contexto valora. La orientación profesional ayuda precisamente en eso: a descubrir qué tienes de valioso y a comunicarlo de forma que abra puertas.</p>
-      </details>
-
-      <details style="background: white; border-radius: 14px; border: 1px solid var(--border); overflow: hidden;">
-        <summary style="padding: 22px 28px; font-weight: 600; color: var(--blue-dark); cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center;">
-          ¿Bachillerato o FP — cómo elijo?
-          <span style="color: var(--blue-mid); font-size: 1.4rem; flex-shrink:0;">+</span>
-        </summary>
-        <p style="padding: 0 28px 22px; color: var(--text-light); line-height: 1.7;">No hay una respuesta universal — hay una respuesta para cada persona. Bachillerato es más adecuado para quienes disfrutan del aprendizaje teórico y tienen claro que quieren ir a la universidad. La FP es una excelente opción para quienes aprenden mejor haciendo, quieren entrar pronto al mercado laboral o tienen un sector profesional claro. Ninguna es mejor que la otra: la mejor es la que encaja con quién eres tú. Un proceso de orientación ayuda a saberlo con seguridad.</p>
-      </details>
-
+      {{ end }}
     </div>
   </div>
 </section>
@@ -76,41 +62,17 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "No sé qué estudiar, ¿qué hago?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Lo primero es hacer una evaluación de intereses y habilidades. Muchas veces confundimos lo que nos gusta con lo que se nos da bien — y son cosas diferentes. La evaluación ayuda a cruzar ambas cosas y dar en la diana: qué estudiar basándose en quién eres realmente, no en lo que está de moda o en lo que eligen tus amigos."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Cómo consigo tener un currículum ganador?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Un currículum ganador no se construye acumulando títulos — se construye conociendo tus fortalezas y sabiendo cómo presentarlas. El primer paso es identificar qué habilidades, experiencias y logros te diferencian. A partir de ahí, el CV se adapta a cada posición o universidad, destacando exactamente lo que ese contexto valora."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "¿Bachillerato o FP — cómo elijo?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "No hay una respuesta universal — hay una respuesta para cada persona. Bachillerato es más adecuado para quienes disfrutan del aprendizaje teórico y quieren ir a la universidad. La FP es excelente para quienes aprenden mejor haciendo y tienen un sector profesional claro. La mejor opción es la que encaja con quién eres tú."
-      }
-    }
-  ]
+  "mainEntity": [{{ range $i, $faq := .Params.faqs }}{{ if $i }},{{ end }}{"@type":"Question","name":{{ $faq.pregunta | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ $faq.respuesta | jsonify }}}}{{ end }}]
 }
 </script>
+{{ end }}
 
 <section class="cta-banner">
   <div class="container">
     <div class="cta-content">
-      <h2>¿Tienes una decisión importante por delante?</h2>
-      <p>Escríbeme. Primera consulta gratuita y sin compromiso.</p>
-      <a href="mailto:atrinxet@mcm.info" class="btn btn-white">Contactar a Ana</a>
+      <h2>{{ .Params.cta_titulo | default "¿Tienes una decisión importante por delante?" }}</h2>
+      <p>{{ .Params.cta_texto | default "Escríbeme. Primera consulta gratuita y sin compromiso." }}</p>
+      <a href="mailto:{{ .Site.Params.email }}" class="btn btn-white">Contactar a Ana</a>
     </div>
   </div>
 </section>

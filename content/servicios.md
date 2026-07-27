@@ -1,107 +1,63 @@
 ---
-title: "Mis servicios de orientación"
-description: "Tests vocacionales, orientación académica y profesional personalizados. Más de 35 años de experiencia como pedagoga y neuroeducadora en Barcelona."
+title: "Servicios de orientación — Ana Trinxet"
+description: "Tests vocacionales, orientación educativa, académica y profesional personalizados. Más de 35 años de experiencia como pedagoga y neuroeducadora en Barcelona."
+hero_titulo: "Servicios de orientación"
+hero_subtitulo: "Más de 35 años ayudando a familias, estudiantes y profesionales a tomar las decisiones correctas."
+s1:
+  titulo: "Orientación educativa: cómo educar a tu hijo"
+  desc1: "Trabajo con padres de hijos de cualquier edad — desde los primeros años hasta la adolescencia — cuando algo en la convivencia, el comportamiento o el desarrollo del hijo les preocupa y no saben cómo actuar."
+  desc2: "La orientación educativa para padres no es psicología ni terapia. Es un acompañamiento práctico y personalizado para entender mejor a tu hijo y actuar con coherencia, afecto y criterio."
+  edades: "Para hijos de **todas las edades**: primera infancia (2-5 años), primaria (6-11), preadolescencia (11-13) y adolescencia (14-18)."
+s2:
+  titulo: "Orientación académica: qué estudiar, qué estudios elegir"
+  desc1: "¿Bachillerato o FP? ¿Qué carrera? ¿Universidad en España o en el extranjero? Preguntas que pueden definir una vida — y que muchas familias responden con prisas, por descarte o siguiendo la moda."
+  desc2: "Con una orientación académica bien hecha, la decisión se toma con información real sobre quién es el estudiante, qué opciones existen y qué camino encaja mejor con su perfil."
+  bullet1: "Análisis del perfil académico y personal"
+  bullet2: "Información sobre opciones en España e internacional"
+  bullet3: "Acompañamiento en la toma de decisión"
+  bullet4: "Seguimiento durante el proceso"
+s3:
+  titulo: "Orientación profesional: futuro laboral"
+  desc1: "La orientación profesional no es solo para jóvenes. Trabajo con adultos que quieren cambiar de carrera, explorar nuevas salidas con sus estudios actuales o simplemente entender qué tipo de trabajo les haría sentirse realizados."
+  desc2: "Si algo en tu trayectoria profesional no encaja, no es un fracaso. Es información. Y con esa información se puede construir un plan nuevo."
+  bullet1: "Análisis del perfil profesional actual"
+  bullet2: "Exploración de salidas con tus estudios"
+  bullet3: "Plan de acción personalizado"
+  bullet4: "Sesiones de seguimiento"
+s4:
+  titulo: "Tests de orientación y personalidad y aptitudes"
+  desc1: "Los tests que utilizo son herramientas profesionales validadas, adaptadas a cada franja de edad. No son cuestionarios de internet: son instrumentos que revelan el perfil real de la persona — sus fortalezas, su forma de aprender, sus motivaciones."
+  desc2: "El resultado no es una etiqueta. Es un mapa para entenderse mejor y tomar mejores decisiones."
+s5:
+  titulo: "Programa Intensivo de Acompañamiento Familiar"
+  desc1: "Un acompañamiento estrecho, personalizado y sostenido en el tiempo para familias que necesitan más que un consejo. Trabajo directamente con los padres —y cuando la situación lo requiere, también con el hijo o la hija— para intervenir en el día a día real de la familia."
+  desc2: "Aprendo cómo funciona vuestra dinámica, identifico dónde está el bloqueo y os doy herramientas concretas para transformarlo. No es psicología ni terapia. Es orientación familiar intensiva: práctica, directa y con resultados visibles."
+  nota: "Para familias con **padres separados**, adolescentes con malas influencias o conductas preocupantes, o cuando el diálogo se ha roto y nadie sabe cómo retomarlo."
+cta_titulo: "¿No sabes por dónde empezar?"
+cta_texto: "Escríbeme. Primera consulta gratuita y sin compromiso."
+faqs:
+  - pregunta: "¿Desde qué edad se pueden hacer los tests?"
+    respuesta: "Los tests pueden realizarse a partir de los 6 años, aunque los resultados empiezan a ser especialmente fiables y orientativos a medida que el niño crece. Cada prueba está adaptada a la edad y etapa de desarrollo del evaluado, desde la infancia hasta la edad adulta."
+  - pregunta: "¿Cuánto dura una sesión de orientación?"
+    respuesta: "Cada sesión tiene una duración aproximada de una hora. Sin embargo, un proceso de orientación completo no suele limitarse a una sola sesión — especialmente cuando se realizan pruebas y tests. Lo habitual es trabajar en varias sesiones para obtener una visión completa y poder acompañar bien la toma de decisiones."
+  - pregunta: "¿Los tests se hacen online o presencialmente?"
+    respuesta: "Siempre que es posible optamos por la modalidad online. De esta forma el evaluado no tiene que desplazarse y puede realizar las pruebas desde un lugar cómodo y conocido, lo que favorece la concentración y la naturalidad en las respuestas. Algunos tests específicos requieren presencialidad, pero la mayoría se pueden hacer a distancia sin perder rigor ni calidad."
+  - pregunta: "¿Cuántas sesiones son necesarias?"
+    respuesta: "El número de sesiones varía entre 2 y 3, dependiendo de si el evaluado es un menor o un adulto, y de las pruebas y tests que se realicen. En procesos más completos o cuando el caso lo requiere, puede ampliarse. El objetivo siempre es llegar a conclusiones claras y útiles, no alargar el proceso innecesariamente."
+  - pregunta: "¿Participan los padres en las sesiones?"
+    respuesta: "Cuando el evaluado es un menor, sí. Los padres forman parte activa del proceso: son entrevistados y en algunas pruebas también son evaluados para obtener una visión completa del entorno familiar. La orientación de un menor no se entiende sin la implicación de la familia."
+  - pregunta: "¿Se puede hacer la orientación en otro idioma?"
+    respuesta: "Sí. Las sesiones de orientación pueden realizarse en otro idioma según las necesidades del evaluado y su familia."
+  - pregunta: "¿Qué diferencia hay entre los tests profesionales y los que hay gratis en internet?"
+    respuesta: "Los tests gratuitos de internet ofrecen respuestas genéricas basadas en categorías amplias. Los tests profesionales que utilizo están validados científicamente, adaptados a la edad y al perfil del evaluado, y lo más importante: son interpretados por una especialista con más de 35 años de experiencia. El valor no está solo en los resultados — está en saber leerlos, relacionarlos entre sí y traducirlos en orientaciones concretas y útiles para esa persona en particular."
+  - pregunta: "¿El test decide qué tiene que estudiar mi hijo?"
+    respuesta: "No. El test no decide nada — aporta información. La decisión siempre la toma la persona, y eso es fundamental. Lo que hace el proceso de orientación es dar a tu hijo la información sobre sí mismo que necesita para tomar esa decisión con criterio, en lugar de hacerlo a ciegas o por descarte. Al final de las sesiones, él sabe más sobre quién es y qué caminos encajan con su perfil. La decisión final es suya."
+  - pregunta: "¿Qué pasa si mi hijo no sabe en absoluto qué quiere hacer?"
+    respuesta: "Es exactamente el perfil con el que más trabajo. No saber qué se quiere no es un problema — es el punto de partida del proceso. El proceso de orientación está diseñado precisamente para eso: para que quien llega sin ideas claras salga con un mapa de quién es y qué opciones encajan con su forma de ser. En más de 35 años, no he conocido a ningún adolescente que no tuviera respuestas dentro. Solo necesitaba las preguntas correctas."
+  - pregunta: "¿Y si mi hijo no está de acuerdo con los resultados?"
+    respuesta: "Los resultados no son un veredicto — son el punto de partida de una conversación. Si algo no encaja con lo que el adolescente siente de sí mismo, lo exploramos juntos. A veces el desacuerdo inicial revela algo más profundo que merece atención. Nunca impongo una lectura de los resultados: los trabajamos juntos hasta que tienen sentido para la persona que los ha generado."
+  - pregunta: "¿Trabajas en Barcelona, online o en ambos sitios?"
+    respuesta: "En ambos. Las sesiones presenciales se realizan en las oficinas de MCM Educational Consultants en Barcelona (C/ Calvet 5, 4º-2ª). Las sesiones online se hacen por videollamada, con la misma calidad y profundidad que las presenciales. Muchas familias de fuera de Barcelona — o que prefieren la comodidad de hacerlo desde casa — optan por la modalidad online sin ningún inconveniente."
+  - pregunta: "¿Cuándo es el mejor momento para hacer la orientación?"
+    respuesta: "Antes de cualquier decisión importante: al acabar la ESO, al empezar el Bachillerato, antes de elegir carrera universitaria o FP. El verano es especialmente recomendable — hay calma, no hay presión de plazos y el adolescente está más receptivo. Dicho esto, nunca es demasiado tarde. He orientado a jóvenes que ya habían empezado una carrera equivocada y a adultos en pleno cambio profesional. El mejor momento siempre es antes de que la duda se convierta en error."
 ---
-
-Después de más de 35 años orientando familias y adolescentes, sé que cada persona es diferente. No existen respuestas genéricas. Existen respuestas para cada uno.
-
-Estos son los servicios con los que puedo ayudarte:
-
----
-
-## Test vocacional + sesión de interpretación
-
-El servicio más solicitado. Y el que más cambia perspectivas.
-
-Aplico tests profesionales de personalidad y aptitudes — no cuestionarios de internet — y dedico una sesión completa a interpretar los resultados contigo o con tu hijo/a. Al terminar, tienes una imagen clara de cómo funciona esa persona, qué entornos le van mejor y qué caminos académicos o profesionales encajan con quién es de verdad.
-
-**¿Para quién es?**
-Adolescentes de 14 a 18 años que no saben qué estudiar, o que quieren tomar la decisión con criterio en lugar de a ciegas.
-
-**¿Qué incluye?**
-- Tests profesionales de personalidad y aptitudes
-- Sesión de interpretación personalizada (90 minutos)
-- Informe escrito con orientaciones concretas
-- Reunión con la familia para resolver dudas
-
-**¿Cómo contactarme?**
-Escríbeme a [atrinxet@mcm.info](mailto:atrinxet@mcm.info) y concertamos una primera llamada gratuita.
-
----
-
-## Orientación académica
-
-Para familias que están ante una decisión concreta y necesitan claridad.
-
-¿Bachillerato científico o humanidades? ¿FP o universidad? ¿Qué carrera encaja mejor con el perfil de tu hijo? ¿Estudiar en España o en el extranjero?
-
-Analizo el perfil académico, personal y vocacional del alumno y doy una orientación fundamentada, no una opinión. Con datos, con experiencia y con conocimiento del sistema educativo español e internacional.
-
-**¿Para quién es?**
-Alumnos de ESO, Bachillerato o en transición hacia la universidad o el mercado laboral.
-
----
-
-## Orientación profesional para adultos
-
-No solo los adolescentes necesitan orientación. Los adultos también.
-
-Si estás en un momento de cambio — cambio de trabajo, de sector, de país — o sientes que lo que estudias o haces ya no te representa, puedo ayudarte a encontrar claridad.
-
-Aplicamos tests de personalidad y aptitudes adaptados al perfil adulto y trabajamos juntos la toma de decisiones desde un enfoque fundamentado en neuroeducación y pedagogía.
-
-**¿Para quién es?**
-Adultos en transición profesional o académica que quieren tomar decisiones con criterio.
-
----
-
-## Asesoramiento a familias
-
-A veces el problema no es solo del adolescente. Es de la comunicación entre padres e hijos sobre el futuro.
-
-Trabajo con familias para ayudarles a entender mejor el perfil de su hijo, gestionar las expectativas y acompañar el proceso de decisión sin presión ni conflicto.
-
-**¿Para quién es?**
-Padres y madres que sienten que su hijo está bloqueado, desmotivado o que no saben cómo ayudarle a decidir.
-
----
-
-## Programa Intensivo de Acompañamiento Familiar
-
-Un acompañamiento estrecho, personalizado y sostenido en el tiempo para familias que necesitan más que un consejo suelto.
-
-Trabajo directamente con los padres —y cuando la situación lo requiere, también con el hijo o la hija— para intervenir en el día a día real de la familia. Aprendo cómo funciona vuestra dinámica, identifico dónde está el bloqueo y os doy herramientas concretas para transformarlo.
-
-**¿En qué consiste?**
-- Enseñar a los padres cómo educar en el día a día: cómo hablar, cómo escuchar, cómo poner límites sin que acabe en conflicto.
-- Acompañamiento directo con el adolescente en los casos que lo necesitan.
-- Pautas para reaprender a educar desde la calma y la firmeza.
-- Refuerzo del vínculo entre padres e hijos cuando se ha deteriorado.
-- Soporte y orientación al hijo o hija durante el proceso.
-
-**¿Para quién es?**
-Familias con un adolescente en un momento difícil: padres separados que no saben cómo manejar la situación solos, hijos con malas influencias o conductas preocupantes, familias donde el diálogo se ha roto y nadie sabe cómo retomarlo.
-
-**¿Cómo contactarme?**
-Escríbeme a [atrinxet@mcm.info](mailto:atrinxet@mcm.info) y cuéntame vuestra situación. La primera llamada es gratuita.
-
----
-
-## ¿Cómo funciona?
-
-1. **Primera llamada gratuita** — Me cuentas la situación y vemos qué servicio encaja mejor.
-2. **Sesión de tests** — Aplicamos los tests profesionales con calma y sin presión.
-3. **Sesión de interpretación** — Analizamos juntos los resultados y extraemos conclusiones claras.
-4. **Informe y seguimiento** — Recibes un informe escrito y, si lo necesitas, hacemos seguimiento.
-
-Todo ello en Barcelona o en formato online.
-
----
-
-## Contáctame
-
-📩 [atrinxet@mcm.info](mailto:atrinxet@mcm.info)
-📞 +34 934 144 422
-🌐 [mcm.info](https://mcm.info)
-
-No hay compromiso en la primera llamada. Cuéntame tu caso y vemos cómo puedo ayudarte.
