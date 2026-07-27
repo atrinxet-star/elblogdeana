@@ -9,7 +9,7 @@ cta_titulo: Una decisión importante merece orientación profesional
 cta_texto: Primera consulta gratuita. Sin compromiso. Escríbeme.
 description: Orientadora educativa y profesional. Te ayudo a encontrar el mejor
   camino académico y profesional para ti y tu familia.
-hero_titulo: ¿Sabes de verdad cómo crear es el camino de tu hijo — o el tuyo?
+hero_titulo: ¿Sabes de verdad cómo crear es mejor camino de tu hijo — o el tuyo?
 hero_texto: La orientación educativa, académica y profesional da claridad, marca
   el camino y ayuda a tomar las decisiones más importantes con criterio.
 ---
