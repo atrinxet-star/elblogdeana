@@ -44,9 +44,13 @@ disableKinds = ["taxonomy", "term"]
     url = "/orientacion/"
     weight = 2
   [[menu.main]]
+    name = "Conoce a tu hijo"
+    url = "/conoce-a-tu-hijo/"
+    weight = 3
+  [[menu.main]]
     name = "Servicios"
     url = "/servicios/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
