@@ -53,7 +53,7 @@ s1:
   edades: "Para hijos de **todas las edades**: primera infancia (2-5 años),
     primaria (6-11), preadolescencia (11-13) y adolescencia (14-18)."
 s2:
-  titulo: "Orientación académica: qué estudiar yu cómo elegir el mejor recorrido
+  titulo: "Orientación académica: qué estudiar y cómo elegir el mejor recorrido
     académico en cada momento"
   desc1: ¿Bachillerato o FP? ¿Qué carrera? ¿Universidad en España o en el
     extranjero? Preguntas que pueden definir una vida — y que muchas familias
