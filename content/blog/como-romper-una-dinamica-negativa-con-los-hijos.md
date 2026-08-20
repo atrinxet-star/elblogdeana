@@ -10,7 +10,7 @@ tags:
   - adolescentes
   - conflictos
   - hábitos
-image: /img/pexels-august-de-richelieu-4260097.jpg
+image: /img/padre-hijo-tension.png
 ---
 
 Hay familias que llevan meses —a veces años— discutiendo exactamente lo mismo. Los deberes, el orden, el móvil, el tono de voz. Cambia el día, cambia el motivo concreto, pero la escena se repite: el mismo disparo, la misma escalada, el mismo final de puertas cerradas y silencios.
