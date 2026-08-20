@@ -1,15 +1,17 @@
 ---
 title: "Cómo educar a un niño de 3 años: límites, autonomía y juego"
 date: 2026-08-20
-description: "A los 3 años los niños empiezan a decir 'no' a todo y a querer hacerlo todo solos. Te explico cómo acompañar esta etapa sin perder la calma y sin frenar su desarrollo."
-category: "Educación por edades"
+description: A los 3 años los niños empiezan a decir 'no' a todo y a querer
+  hacerlo todo solos. Te explico cómo acompañar esta etapa sin perder la calma y
+  sin frenar su desarrollo.
+category: Educación por edades
 tags:
   - niños
   - 3 años
   - límites
   - autonomía
   - educación infantil
-image: "/img/madre-hijo-abrazo-campo.png"
+image: /img/1718708584598.jpg
 ---
 
 Los tres años son una explosión. Tu hijo ya habla, ya corre, ya tiene opiniones propias... y te las hace saber con mucha energía. El "no" se convierte en su palabra favorita, quiere hacer las cosas a su manera y los berrinches pueden aparecer en cualquier momento.

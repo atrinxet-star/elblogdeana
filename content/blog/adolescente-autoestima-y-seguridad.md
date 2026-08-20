@@ -1,14 +1,16 @@
 ---
-title: "Cómo educar a tu hijo adolescente en la autoestima y la seguridad personal"
+title: Cómo educar a tu hijo adolescente en la autoestima y la seguridad personal
 date: 2024-03-05
-description: "La adolescencia es una etapa intensa, pero también puede ser muy divertida. Te comparto cómo acompañar a tu hijo adolescente para que crezca con autoestima sana y seguridad en sí mismo."
+description: La adolescencia es una etapa intensa, pero también puede ser muy
+  divertida. Te comparto cómo acompañar a tu hijo adolescente para que crezca
+  con autoestima sana y seguridad en sí mismo.
 category: Adolescencia
 tags:
   - adolescentes
   - autoestima
   - seguridad
   - educación
-image: "/img/adolescente-confianza-autoestima.png"
+image: /img/chatgpt-image-26-ene-2026-18_59_35.png
 ---
 
 La adolescencia es una edad complicada, sin duda. Pero también puede ser una de las más divertidas y ricas si sabemos cómo acompañarla.

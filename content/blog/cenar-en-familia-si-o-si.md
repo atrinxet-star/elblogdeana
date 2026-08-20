@@ -1,10 +1,16 @@
 ---
-image: "/img/cenar-familia.jpg"
 title: "Cenar en familia: sí o sí"
 date: 2026-03-25
-description: "Numerosos estudios confirman lo beneficioso que es cenar o comer en familia, especialmente para los adolescentes. Cuatro claves para que esta rutina funcione de verdad."
-category: "Pedagogía para padres"
-tags: ["familia", "rutinas", "comunicación", "vínculo"]
+description: Numerosos estudios confirman lo beneficioso que es cenar o comer en
+  familia, especialmente para los adolescentes. Cuatro claves para que esta
+  rutina funcione de verdad.
+category: Pedagogía para padres
+tags:
+  - familia
+  - rutinas
+  - comunicación
+  - vínculo
+image: /img/pexels-elina-fairytale-3807561.jpg
 ---
 
 Numerosos estudios confirman lo beneficioso que es cenar o comer en familia, una rutina tan sencilla como enriquecedora, sobre todo para los adolescentes. Hay algunos puntos que conviene tener en cuenta para que funcione de verdad.
