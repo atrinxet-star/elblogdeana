@@ -9,7 +9,7 @@ tags:
   - límites
   - autonomía
   - educación infantil
-image: "/img/niña-abrazo.jpg"
+image: "/img/madre-hijo-abrazo-campo.png"
 ---
 
 Los tres años son una explosión. Tu hijo ya habla, ya corre, ya tiene opiniones propias... y te las hace saber con mucha energía. El "no" se convierte en su palabra favorita, quiere hacer las cosas a su manera y los berrinches pueden aparecer en cualquier momento.

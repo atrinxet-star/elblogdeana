@@ -9,7 +9,7 @@ tags:
   - gestión emocional
   - límites
   - calma
-image: "/img/madre-hija-hero.jpg"
+image: "/img/madre-hijo-riendo.png"
 ---
 
 Tu hijo se tira al suelo en el supermercado. Llora, grita, patalea. La gente mira. Tú no sabes si gritar, consolarlo, ignorarlo o salir corriendo. Y cuando por fin termina, estás agotado.

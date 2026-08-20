@@ -9,7 +9,7 @@ tags:
   - sensibilidad
   - niños
   - gestión emocional
-image: "/img/jovenes-clase.jpg"
+image: "/img/madre-hijo-consolando.png"
 ---
 
 "Llora por cualquier cosa." "No soporta la frustración." "Un pequeño contratiempo y se derrumba." Si describes así a tu hijo, probablemente llevas tiempo preguntándote si es normal o si estás haciendo algo mal.

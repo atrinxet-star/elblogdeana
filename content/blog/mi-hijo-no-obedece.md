@@ -9,7 +9,7 @@ tags:
   - niños
   - adolescentes
   - obediencia
-image: "/img/madre-hijo-abrazo.jpg"
+image: "/img/padre-hijo-tension.png"
 ---
 
 "He dicho que no veinte veces y sigue sin hacerme caso." "Todo se convierte en una negociación." "Si no le grito no me escucha." Si te reconoces en alguna de estas frases, este artículo es para ti.

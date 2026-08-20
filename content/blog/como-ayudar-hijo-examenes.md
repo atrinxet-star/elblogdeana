@@ -9,7 +9,7 @@ tags:
   - técnicas de estudio
   - hábitos
   - padres
-image: "/img/pexels-cottonbro-studio-4769464.jpg"
+image: "/img/deberes.png"
 ---
 
 "¿Le ayudo o le dejo que lo haga solo?" Es una de las preguntas más frecuentes de los padres cuando llegan los exámenes. Y la respuesta no es "siempre ayuda" ni "nunca te metas". Es más matizada que eso.
