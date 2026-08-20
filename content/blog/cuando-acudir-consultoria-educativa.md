@@ -1,24 +1,42 @@
 ---
-title: "Cuándo acudir a una orientadora educativa y cómo elegir la adecuada para tu familia"
+title: Cuándo acudir a una orientadora educativa y cómo elegir la adecuada para
+  tu familia
 date: 2026-08-19
-description: "Muchas familias esperan a que el problema sea grave para buscar orientación educativa. Te explico en qué momentos tiene más sentido pedir ayuda y qué debes buscar en una buena orientadora."
-category: "Orientación educativa"
+description: Muchas familias esperan a que el problema sea grave para buscar
+  orientación educativa. Te explico en qué momentos tiene más sentido pedir
+  ayuda y qué debes buscar en una buena orientadora.
+category: Orientación educativa
 tags:
   - orientadora educativa
   - consultoría educativa
   - orientación académica
   - decisiones educativas
   - familias
-image: "/img/neuro-educacion.jpg"
+image: /img/captura-de-pantalla-2026-01-26-a-las-18.22.14.png
 faq:
-  - question: "¿Cuándo debo acudir a una orientadora educativa?"
-    answer: "Hay seis señales clave: pérdida de motivación escolar, incertidumbre ante decisiones educativas importantes, transiciones entre etapas (primaria a secundaria, ESO a bachillerato), dificultades emocionales que afectan al rendimiento, interés en estudiar en el extranjero, o sospechar que tu hijo tiene capacidades por encima de la media. En todos estos casos, actuar pronto es mejor que esperar a que el problema crezca."
-  - question: "¿Es necesario que haya un problema grave para consultar a una orientadora?"
-    answer: "No. De hecho, los mejores resultados se obtienen cuando se actúa de forma preventiva, antes de que se desarrollen problemas graves. La orientación educativa es igual de útil para trazar un buen itinerario que para reconducir una situación difícil."
-  - question: "¿Cómo sé si una orientadora educativa es la adecuada para mi familia?"
-    answer: "Busca a alguien con experiencia real en el sistema educativo, no solo teórica. Que escuche antes de dar respuestas. Que sea capaz de elaborar un plan concreto y realista, no solo recomendaciones genéricas. Y que genere confianza en el estudiante, no solo en los padres."
-  - question: "¿Qué diferencia hay entre una orientadora del colegio y una orientadora educativa independiente?"
-    answer: "El orientador del colegio trabaja dentro del sistema escolar con recursos y tiempo limitados. Una orientadora independiente puede dedicar más tiempo, conocer opciones más allá del centro educativo concreto, y acompañar a la familia de forma continua a lo largo de diferentes etapas."
+  - question: ¿Cuándo debo acudir a una orientadora educativa?
+    answer: "Hay seis señales clave: pérdida de motivación escolar, incertidumbre
+      ante decisiones educativas importantes, transiciones entre etapas
+      (primaria a secundaria, ESO a bachillerato), dificultades emocionales que
+      afectan al rendimiento, interés en estudiar en el extranjero, o sospechar
+      que tu hijo tiene capacidades por encima de la media. En todos estos
+      casos, actuar pronto es mejor que esperar a que el problema crezca."
+  - question: ¿Es necesario que haya un problema grave para consultar a una orientadora?
+    answer: No. De hecho, los mejores resultados se obtienen cuando se actúa de
+      forma preventiva, antes de que se desarrollen problemas graves. La
+      orientación educativa es igual de útil para trazar un buen itinerario que
+      para reconducir una situación difícil.
+  - question: ¿Cómo sé si una orientadora educativa es la adecuada para mi familia?
+    answer: Busca a alguien con experiencia real en el sistema educativo, no solo
+      teórica. Que escuche antes de dar respuestas. Que sea capaz de elaborar un
+      plan concreto y realista, no solo recomendaciones genéricas. Y que genere
+      confianza en el estudiante, no solo en los padres.
+  - question: ¿Qué diferencia hay entre una orientadora del colegio y una
+      orientadora educativa independiente?
+    answer: El orientador del colegio trabaja dentro del sistema escolar con
+      recursos y tiempo limitados. Una orientadora independiente puede dedicar
+      más tiempo, conocer opciones más allá del centro educativo concreto, y
+      acompañar a la familia de forma continua a lo largo de diferentes etapas.
 ---
 
 La mayoría de las familias esperan. Esperan a que los suspensos se acumulen. Esperan a que la desmotivación sea ya evidente. Esperan a que su hijo llegue a Bachillerato sin saber qué quiere estudiar y con el tiempo justo para decidirlo.
