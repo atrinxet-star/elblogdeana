@@ -1,5 +1,5 @@
 ---
-image: "/img/jovenes-colegio.jpg"
+image: "/img/redes-jovenes.png"
 title: "¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los jóvenes de 13 a 17 años"
 date: 2024-05-05
 description: "La popularidad obsesiona a muchos adolescentes. Descubre qué piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el liderazgo y la presión social."

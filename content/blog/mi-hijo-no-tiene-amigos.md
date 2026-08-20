@@ -9,7 +9,7 @@ tags:
   - soledad
   - niños
   - adolescentes
-image: "/img/adolescente-estudia.jpg"
+image: "/img/jovenes-redes-sociales.jpg"
 ---
 
 Hay pocas cosas que duelan más a un padre o una madre que ver a su hijo solo. Sin nadie que le llame, sin planes el fin de semana, sin ese grupo de amigos que parece que todos los demás tienen.
