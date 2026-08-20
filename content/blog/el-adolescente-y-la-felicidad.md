@@ -1,10 +1,17 @@
 ---
 title: "El adolescente y la felicidad: qué la construye y qué la destruye"
 date: 2025-06-02
-description: "La felicidad en la adolescencia no se compra ni se regala. Se construye con pequeñas cosas que a veces los adultos pasamos por alto. Te cuento qué funciona de verdad."
-category: "Adolescencia"
-tags: ["adolescentes", "felicidad", "bienestar", "autoestima", "familia"]
-image: "/img/adolescente-musica.jpg"
+description: La felicidad en la adolescencia no se compra ni se regala. Se
+  construye con pequeñas cosas que a veces los adultos pasamos por alto. Te
+  cuento qué funciona de verdad.
+category: Adolescencia
+tags:
+  - adolescentes
+  - felicidad
+  - bienestar
+  - autoestima
+  - familia
+image: /img/hands-423794_1280.jpg
 ---
 
 Una de las preguntas que más me hacen los padres cuando vienen a verme es esta: "¿Por qué mi hijo parece tan poco feliz si tiene todo lo que necesita?"
