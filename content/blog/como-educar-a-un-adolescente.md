@@ -1,10 +1,15 @@
 ---
-image: "/img/padre-hijo-adolescente.jpg"
 title: "Cómo educar a un adolescente: claves para entender esta etapa"
 date: 2024-01-30
-description: "Los adolescentes se parecen más a los bebés de lo que creemos. Te explico por qué y cómo entender sus reacciones para educarles desde la comprensión y no desde el conflicto."
-category: "Adolescencia"
-tags: ["adolescentes", "educación", "crianza"]
+description: Los adolescentes se parecen más a los bebés de lo que creemos. Te
+  explico por qué y cómo entender sus reacciones para educarles desde la
+  comprensión y no desde el conflicto.
+category: Adolescencia
+tags:
+  - adolescentes
+  - educación
+  - crianza
+image: /img/pexels-kindel-media-8550827.jpg
 ---
 
 Llegamos a casa y nos encontramos a nuestro adolescente que pasa del 1,70 "tirado" en el sillón del salón.
