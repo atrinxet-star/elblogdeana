@@ -1,15 +1,18 @@
 ---
-title: "Cómo ayudar a tu hijo a estudiar para los exámenes (sin hacer los deberes por él)"
+title: Cómo ayudar a tu hijo a estudiar para los exámenes (sin hacer los deberes
+  por él)
 date: 2026-08-20
-description: "Ayudar a tu hijo con los estudios sin sustituirle es uno de los equilibrios más difíciles para los padres. Te doy pautas concretas para acompañar sin crear dependencia."
-category: "Orientación educativa"
+description: Ayudar a tu hijo con los estudios sin sustituirle es uno de los
+  equilibrios más difíciles para los padres. Te doy pautas concretas para
+  acompañar sin crear dependencia.
+category: Orientación educativa
 tags:
   - exámenes
   - estudiar
   - técnicas de estudio
   - hábitos
   - padres
-image: "/img/deberes.png"
+image: /img/adolescente-estudia.jpg
 ---
 
 "¿Le ayudo o le dejo que lo haga solo?" Es una de las preguntas más frecuentes de los padres cuando llegan los exámenes. Y la respuesta no es "siempre ayuda" ni "nunca te metas". Es más matizada que eso.
