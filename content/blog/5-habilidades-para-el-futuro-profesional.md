@@ -1,10 +1,16 @@
 ---
-image: "/img/trabajo-equipo.jpg"
-title: "5 habilidades que tu hijo necesita para el mercado laboral del futuro"
+title: 5 habilidades que tu hijo necesita para el mercado laboral del futuro
 date: 2025-01-15
-description: "El mundo laboral cambia más rápido que nunca. Estas son las 5 habilidades clave que preparan a tus hijos para un futuro que todavía no existe."
-category: "Orientación"
-tags: ["habilidades", "futuro profesional", "educación", "jóvenes"]
+description: El mundo laboral cambia más rápido que nunca. Estas son las 5
+  habilidades clave que preparan a tus hijos para un futuro que todavía no
+  existe.
+category: Orientación
+tags:
+  - habilidades
+  - futuro profesional
+  - educación
+  - jóvenes
+image: /img/adolescente-confianza-autoestima.png
 ---
 
 El mercado laboral de 2030 ya no se parece al de 2010. Y el de 2040 será irreconocible. Entonces, ¿para qué mundo estamos preparando a nuestros hijos?
