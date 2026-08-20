@@ -1,10 +1,16 @@
 ---
-title: "Cómo romper una dinámica negativa con tus hijos"
+title: Cómo romper una dinámica negativa con tus hijos
 date: 2025-11-25
-description: "Cuando las discusiones se repiten siempre igual, el problema no es el tema de la discusión: es la dinámica. Te explico cómo salir de ese bucle."
-category: "Familia"
-tags: ["familia", "comunicación", "adolescentes", "conflictos", "hábitos"]
-image: "/img/madre-hijo-salon.jpg"
+description: "Cuando las discusiones se repiten siempre igual, el problema no es
+  el tema de la discusión: es la dinámica. Te explico cómo salir de ese bucle."
+category: Familia
+tags:
+  - familia
+  - comunicación
+  - adolescentes
+  - conflictos
+  - hábitos
+image: /img/captura-de-pantalla-2026-01-26-a-las-15.16.03.png
 ---
 
 Hay familias que llevan meses —a veces años— discutiendo exactamente lo mismo. Los deberes, el orden, el móvil, el tono de voz. Cambia el día, cambia el motivo concreto, pero la escena se repite: el mismo disparo, la misma escalada, el mismo final de puertas cerradas y silencios.
