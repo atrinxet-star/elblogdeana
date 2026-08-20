@@ -9,7 +9,7 @@ tags:
   - niños
   - adolescentes
   - límites
-image: "/img/nino-pensativo.jpg"
+image: "/img/familia-risa-humor.jpg"
 ---
 
 Descubrir que tu hijo te ha mentido duele. No solo por la mentira en sí, sino por lo que implica: ¿me oculta más cosas? ¿No confía en mí? ¿He fallado en algo?

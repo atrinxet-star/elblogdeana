@@ -9,7 +9,7 @@ tags:
   - hábitos de estudio
   - responsabilidad
   - educación primaria
-image: "/img/familia-desayuno.jpg"
+image: "/img/hijo-ordenado.jpg"
 ---
 
 A los 8 años el niño ya no es un niño pequeño, pero tampoco es un adolescente. Es una etapa de relativa calma: es capaz de razonar, de entender las consecuencias de sus actos, de asumir responsabilidades reales y de mantener compromisos.
