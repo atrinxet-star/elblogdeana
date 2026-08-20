@@ -1,10 +1,16 @@
 ---
-image: "/img/frases-educacion.jpg"
-title: "Diez frases que resumen lo que significa educar"
+title: Diez frases que resumen lo que significa educar
 date: 2025-08-12
-description: "A lo largo de la historia, grandes pensadores y educadores han reflexionado sobre la educación. Estas son diez citas que vuelvo a leer cada vez que necesito recordar el porqué de mi trabajo."
-category: "Educación"
-tags: ["educación", "citas", "aprendizaje", "inspiración"]
+description: A lo largo de la historia, grandes pensadores y educadores han
+  reflexionado sobre la educación. Estas son diez citas que vuelvo a leer cada
+  vez que necesito recordar el porqué de mi trabajo.
+category: Educación
+tags:
+  - educación
+  - citas
+  - aprendizaje
+  - inspiración
+image: /img/vista-superior-estatuilla-madera-gorra-academica-espacio-copia.jpg
 ---
 
 A lo largo de la historia, grandes pensadores, educadores y filósofos han reflexionado sobre qué significa realmente educar. Cada vez que necesito recordar el porqué de mi trabajo, vuelvo a alguna de estas diez citas. Las comparto con un pequeño comentario mío, porque una cita sin contexto es solo una frase bonita.
