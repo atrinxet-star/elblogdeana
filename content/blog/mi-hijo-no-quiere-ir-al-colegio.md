@@ -9,7 +9,7 @@ tags:
   - ansiedad
   - motivación
   - niños
-image: "/img/jovenes-clase.jpg"
+image: "/img/hijo-suspende.jpg"
 ---
 
 "No quiero ir al colegio." Puede ser una frase de un lunes o puede ser una señal de algo que merece atención. La diferencia está en la frecuencia, la intensidad y lo que hay detrás.

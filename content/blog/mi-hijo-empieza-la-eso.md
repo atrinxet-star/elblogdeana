@@ -9,7 +9,7 @@ tags:
   - transición escolar
   - hábitos de estudio
   - adolescentes
-image: "/img/clase-alumnos.jpg"
+image: "/img/consejos-padre-preuniversitario.jpg"
 ---
 
 El verano antes de entrar en la ESO debería ser más que una pausa. Es una ventana de preparación que muchas familias dejan pasar sin aprovechar, y que luego se echa de menos en octubre.
