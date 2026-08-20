@@ -1,10 +1,16 @@
 ---
-image: "/img/madre-hija-abrazo.jpg"
 title: "Dejemos que vuelen: cómo confiar cuando nuestros hijos estudian lejos de casa"
 date: 2024-09-28
-description: "Medianoche, una madre pasándolo mal porque su hija no está con ella. Lo que aprendemos —padres e hijos— cuando nos atrevemos a soltar."
-category: "Orientación"
-tags: ["independencia", "hijos", "extranjero", "crianza", "padres"]
+description: Medianoche, una madre pasándolo mal porque su hija no está con
+  ella. Lo que aprendemos —padres e hijos— cuando nos atrevemos a soltar.
+category: Orientación
+tags:
+  - independencia
+  - hijos
+  - extranjero
+  - crianza
+  - padres
+image: /img/nino-pensativo.jpg
 ---
 
 Noche antes de un festivo, medianoche. Una madre me escribe pasándolo mal. No porque su hija esté mal —está bien. Sino porque su hija no está con ella.
