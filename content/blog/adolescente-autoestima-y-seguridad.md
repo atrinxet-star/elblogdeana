@@ -10,7 +10,7 @@ tags:
   - autoestima
   - seguridad
   - educación
-image: /img/chatgpt-image-26-ene-2026-18_59_35.png
+image: /img/autoestima-adolescente.png
 ---
 
 La adolescencia es una edad complicada, sin duda. Pero también puede ser una de las más divertidas y ricas si sabemos cómo acompañarla.

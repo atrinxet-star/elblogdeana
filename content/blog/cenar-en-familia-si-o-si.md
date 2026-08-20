@@ -10,7 +10,7 @@ tags:
   - rutinas
   - comunicación
   - vínculo
-image: /img/pexels-elina-fairytale-3807561.jpg
+image: /img/familia-mesa-cena.jpg
 ---
 
 Numerosos estudios confirman lo beneficioso que es cenar o comer en familia, una rutina tan sencilla como enriquecedora, sobre todo para los adolescentes. Hay algunos puntos que conviene tener en cuenta para que funcione de verdad.
