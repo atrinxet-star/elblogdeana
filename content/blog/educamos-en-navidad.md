@@ -1,10 +1,16 @@
 ---
-image: "/img/educamos-navidad.jpg"
-title: "¿Educamos en Navidad?"
+title: ¿Educamos en Navidad?
 date: 2025-12-12
-description: "La Navidad no es solo regalos y celebraciones: es un momento pedagógico que no deberíamos desperdiciar. Seis estrategias para aprovecharlo de verdad."
-category: "Pedagogía para padres"
-tags: ["navidad", "familia", "vínculo", "hijos"]
+description: "La Navidad no es solo regalos y celebraciones: es un momento
+  pedagógico que no deberíamos desperdiciar. Seis estrategias para aprovecharlo
+  de verdad."
+category: Pedagogía para padres
+tags:
+  - navidad
+  - familia
+  - vínculo
+  - hijos
+image: /img/captura-de-pantalla-2026-08-20-a-las-17.41.55.png
 ---
 
 Cada familia tiene sus propias costumbres en Navidad, pero en cualquiera de los casos estas fechas representan un momento pedagógico precioso que no deberíamos desperdiciar. Durante estas semanas se dan tres condiciones que rara vez coinciden el resto del año: nuestros hijos están más receptivos, nosotros estamos más tranquilos y disponibles, y el ambiente festivo crea el contexto perfecto para la conexión emocional.
