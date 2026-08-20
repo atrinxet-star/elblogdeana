@@ -1,10 +1,15 @@
 ---
-image: "/img/padres-hijos-salon.jpg"
-title: "Diferencias entre educacion de los padres vs madres"
+title: Diferencias entre educacion de los padres vs madres
 date: 2024-11-20
-description: "En varias ocasiones he oído quejarse a madres o padres de que no coinciden en cómo educar a los hijos/as."
-category: "Pedagogía para padres"
-tags: ["padres", "madres", "educación", "familias"]
+description: En varias ocasiones he oído quejarse a madres o padres de que no
+  coinciden en cómo educar a los hijos/as.
+category: Pedagogía para padres
+tags:
+  - padres
+  - madres
+  - educación
+  - familias
+image: /img/padre-vs-madre.png
 ---
 
 En varias ocasiones he oído quejarse a madres o padres de que no coinciden en cómo educar a los hijos/as.
