@@ -1,15 +1,17 @@
 ---
 title: "Cómo educar a un niño de 8 años: responsabilidad, hábitos y autonomía"
 date: 2026-08-20
-description: "A los 8 años los niños ya razonan, entienden las consecuencias y pueden asumir mucha más responsabilidad. Es el momento de trabajar hábitos de estudio, autonomía y gestión emocional."
-category: "Educación por edades"
+description: A los 8 años los niños ya razonan, entienden las consecuencias y
+  pueden asumir mucha más responsabilidad. Es el momento de trabajar hábitos de
+  estudio, autonomía y gestión emocional.
+category: Educación por edades
 tags:
   - niños
   - 8 años
   - hábitos de estudio
   - responsabilidad
   - educación primaria
-image: "/img/familia-desayuno.jpg"
+image: /img/habito-lectura-2.jpg
 ---
 
 A los 8 años el niño ya no es un niño pequeño, pero tampoco es un adolescente. Es una etapa de relativa calma: es capaz de razonar, de entender las consecuencias de sus actos, de asumir responsabilidades reales y de mantener compromisos.
