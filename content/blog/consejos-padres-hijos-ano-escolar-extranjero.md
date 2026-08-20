@@ -1,5 +1,5 @@
 ---
-image: "/img/tourist-4400871_1280.jpg"
+image: "/img/chica-maleta-viaje.jpg"
 title: "Consejos para padres con hijos cursando un año académico en el extranjero"
 date: 2024-08-15
 description: "Mandar a un hijo a estudiar un año fuera es una decisión importante. Estos son los consejos que doy a las familias después de 35 años acompañando programas en el extranjero."

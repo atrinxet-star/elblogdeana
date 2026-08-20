@@ -9,7 +9,7 @@ tags:
   - conflictos
   - familia
   - convivencia
-image: "/img/problemas-comportamiento-tips.jpg"
+image: "/img/hermanos-familia.png"
 ---
 
 Si tienes más de un hijo en casa, probablemente conoces bien este sonido: "¡Es mío!", "¡Me ha pegado!", "¡No es justo!", seguido de llanto o de un portazo. Y así varias veces al día.
