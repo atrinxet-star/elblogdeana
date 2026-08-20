@@ -1,24 +1,42 @@
 ---
-title: "¿Qué es una consultoría educativa y cómo puede cambiar el futuro de tu hijo?"
+title: ¿Qué es una consultoría educativa y cómo puede cambiar el futuro de tu hijo?
 date: 2026-08-19
-description: "Muchas familias se enfrentan solas a decisiones educativas enormes. Una consultoría educativa es el acompañamiento experto que marca la diferencia entre acertar y equivocarse con el itinerario de tu hijo."
-category: "Orientación educativa"
+description: Muchas familias se enfrentan solas a decisiones educativas enormes.
+  Una consultoría educativa es el acompañamiento experto que marca la diferencia
+  entre acertar y equivocarse con el itinerario de tu hijo.
+category: Orientación educativa
 tags:
   - consultoría educativa
   - orientación académica
   - itinerario académico
   - familias
   - toma de decisiones
-image: "/img/familia-estudio.jpg"
+image: /img/captura-de-pantalla-2025-09-16-a-las-18.49.55.png
 faq:
-  - question: "¿Qué es una consultoría educativa?"
-    answer: "Una consultoría educativa es un proceso de orientación personalizada en el que una profesional analiza el perfil del estudiante —sus fortalezas, su estilo de aprendizaje, su contexto emocional y familiar— y ayuda a construir un itinerario académico con sentido. No es una academia ni un refuerzo escolar: es una guía experta para tomar las decisiones correctas en cada etapa."
-  - question: "¿Para qué familias está pensada la consultoría educativa?"
-    answer: "Para cualquier familia que se enfrente a una decisión educativa importante: cambio de colegio, elección de bachillerato o FP, problemas académicos reiterados, desmotivación, dudas sobre estudiar en el extranjero o simplemente la sensación de que algo no funciona y no se sabe bien qué."
-  - question: "¿Cuándo es el mejor momento para consultar a una orientadora educativa?"
-    answer: "Idealmente, antes de que el problema se agrave. Actuar en el momento en que aparecen las primeras señales —bajada de rendimiento, desmotivación, conflictos en casa relacionados con el colegio— permite tomar decisiones con tiempo y sin urgencia."
-  - question: "¿En qué se diferencia una consultoría educativa de ir al psicólogo?"
-    answer: "La consultoría educativa se centra en el itinerario académico y en las decisiones formativas. No es terapia, aunque sí tiene en cuenta el estado emocional del estudiante porque es inseparable de su rendimiento. Un orientador educativo trabaja con el contexto escolar, familiar y personal para construir un plan académico realista."
+  - question: ¿Qué es una consultoría educativa?
+    answer: "Una consultoría educativa es un proceso de orientación personalizada en
+      el que una profesional analiza el perfil del estudiante —sus fortalezas,
+      su estilo de aprendizaje, su contexto emocional y familiar— y ayuda a
+      construir un itinerario académico con sentido. No es una academia ni un
+      refuerzo escolar: es una guía experta para tomar las decisiones correctas
+      en cada etapa."
+  - question: ¿Para qué familias está pensada la consultoría educativa?
+    answer: "Para cualquier familia que se enfrente a una decisión educativa
+      importante: cambio de colegio, elección de bachillerato o FP, problemas
+      académicos reiterados, desmotivación, dudas sobre estudiar en el
+      extranjero o simplemente la sensación de que algo no funciona y no se sabe
+      bien qué."
+  - question: ¿Cuándo es el mejor momento para consultar a una orientadora educativa?
+    answer: Idealmente, antes de que el problema se agrave. Actuar en el momento en
+      que aparecen las primeras señales —bajada de rendimiento, desmotivación,
+      conflictos en casa relacionados con el colegio— permite tomar decisiones
+      con tiempo y sin urgencia.
+  - question: ¿En qué se diferencia una consultoría educativa de ir al psicólogo?
+    answer: La consultoría educativa se centra en el itinerario académico y en las
+      decisiones formativas. No es terapia, aunque sí tiene en cuenta el estado
+      emocional del estudiante porque es inseparable de su rendimiento. Un
+      orientador educativo trabaja con el contexto escolar, familiar y personal
+      para construir un plan académico realista.
 ---
 
 Elegir el camino educativo de un hijo puede ser emocionante y, al mismo tiempo, abrumador. Las preguntas se acumulan: ¿qué colegio le irá mejor?, ¿bachillerato o FP?, ¿y si no le va bien y lo dejamos pasar demasiado tiempo?
