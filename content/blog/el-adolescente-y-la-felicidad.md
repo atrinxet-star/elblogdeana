@@ -11,7 +11,7 @@ tags:
   - bienestar
   - autoestima
   - familia
-image: /img/hands-423794_1280.jpg
+image: /img/captura-de-pantalla-2023-03-20-a-las-13.51.21.png
 ---
 
 Una de las preguntas que más me hacen los padres cuando vienen a verme es esta: "¿Por qué mi hijo parece tan poco feliz si tiene todo lo que necesita?"
