@@ -1,10 +1,16 @@
 ---
-image: "/img/nino-ordenado-habitacion.jpg"
-title: "Cómo conseguir que tu hijo sea ordenado"
+title: Cómo conseguir que tu hijo sea ordenado
 date: 2025-12-22
-description: "Sí es posible que tu hijo aprenda a ser ordenado, pero no sucede de la noche a la mañana. Seis estrategias que sí funcionan, etapa por etapa."
-category: "Infancia"
-tags: ["orden", "hábitos", "infancia", "autonomía", "rutinas"]
+description: Sí es posible que tu hijo aprenda a ser ordenado, pero no sucede de
+  la noche a la mañana. Seis estrategias que sí funcionan, etapa por etapa.
+category: Infancia
+tags:
+  - orden
+  - hábitos
+  - infancia
+  - autonomía
+  - rutinas
+image: /img/ordenar.png
 ---
 
 "¿Cómo consigo que mi hijo sea ordenado?" Es una de las preguntas que más me hacen los padres en consulta. Lo intentamos una y mil veces, pero, ¿lo conseguimos realmente?
