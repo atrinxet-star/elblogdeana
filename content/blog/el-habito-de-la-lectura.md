@@ -1,10 +1,17 @@
 ---
-image: "/img/padre-hija-lectura.jpg"
-title: "Guía completa para fomentar el hábito de la lectura en tus hijos"
+title: Guía completa para fomentar el hábito de la lectura en tus hijos
 date: 2024-02-28
-description: "A todo el mundo le puede gustar leer, solo hay que ayudarles a descubrir ese mundo. Los cinco pasos que recomiendo para crear el hábito de lectura, de los 4 a los 16 años."
-category: "Infancia"
-tags: ["lectura", "hábitos", "infancia", "educación", "aprendizaje"]
+description: A todo el mundo le puede gustar leer, solo hay que ayudarles a
+  descubrir ese mundo. Los cinco pasos que recomiendo para crear el hábito de
+  lectura, de los 4 a los 16 años.
+category: Infancia
+tags:
+  - lectura
+  - hábitos
+  - infancia
+  - educación
+  - aprendizaje
+image: /img/captura-de-pantalla-2026-08-20-a-las-17.37.00.png
 ---
 
 Cuántas veces hemos oído la frase: "qué suerte que a tu hijo le guste leer, al mío no le gusta nada". Pues bien, a todo el mundo le puede gustar leer. Solo hay que ayudarles a descubrir ese mundo de la forma adecuada.
