@@ -1,10 +1,17 @@
 ---
-image: "/img/que-hacer-movil.jpg"
-title: "Cuándo darle a tu hijo su primer móvil, y cómo hacerlo bien"
+title: Cuándo darle a tu hijo su primer móvil, y cómo hacerlo bien
 date: 2026-01-25
-description: "'¡Mamá, necesito un móvil, todos mis amigos tienen!' Te explico a qué edad tiene sentido dar el primer teléfono, qué normas poner desde el primer día y cómo evitar que se convierta en un foco de conflicto."
-category: "Adolescencia"
-tags: ["móvil", "tecnología", "adolescentes", "normas", "pantallas"]
+description: "'¡Mamá, necesito un móvil, todos mis amigos tienen!' Te explico a
+  qué edad tiene sentido dar el primer teléfono, qué normas poner desde el
+  primer día y cómo evitar que se convierta en un foco de conflicto."
+category: Adolescencia
+tags:
+  - móvil
+  - tecnología
+  - adolescentes
+  - normas
+  - pantallas
+image: /img/adolescente-movil.jpg
 ---
 
 "¡Mamá, necesito un móvil! ¿Para qué? ¡Todos mis amigos tienen!" Es una conversación que tarde o temprano llega a todas las casas. Mi consejo siempre es el mismo: no te dejes llevar por la presión social ni por lo que hacen los demás. Haz lo que creas que se adapta a la madurez real de tu hijo, no a su edad en el calendario.
