@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo tiene rabietas: cómo gestionarlas sin perder la calma"
 date: 2026-08-20
-description: "Las rabietas son normales en niños de 1 a 6 años, pero gestionarlas bien marca la diferencia. Te explico qué ocurre en el cerebro de tu hijo durante una rabieta y cómo actuar."
-category: "Pedagogía para padres"
+description: Las rabietas son normales en niños de 1 a 6 años, pero gestionarlas
+  bien marca la diferencia. Te explico qué ocurre en el cerebro de tu hijo
+  durante una rabieta y cómo actuar.
+category: Pedagogía para padres
 tags:
   - rabietas
   - niños pequeños
   - gestión emocional
   - límites
   - calma
-image: "/img/madre-hijo-riendo.png"
+image: /img/captura-de-pantalla-2026-08-21-a-las-10.47.31.png
 ---
 
 Tu hijo se tira al suelo en el supermercado. Llora, grita, patalea. La gente mira. Tú no sabes si gritar, consolarlo, ignorarlo o salir corriendo. Y cuando por fin termina, estás agotado.
