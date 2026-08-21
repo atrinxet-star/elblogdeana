@@ -1,14 +1,16 @@
 ---
 title: 6 claves para gestionar los problemas de comportamiento de tus hijos
 date: 2025-02-05
-description: ¿Digo demasiadas veces que no? ¿O le digo que sí a todo? Seis claves prácticas para encontrar el equilibrio cuando el comportamiento de tu hijo te desborda.
+description: ¿Digo demasiadas veces que no? ¿O le digo que sí a todo? Seis
+  claves prácticas para encontrar el equilibrio cuando el comportamiento de tu
+  hijo te desborda.
 category: Pedagogía para padres
 tags:
   - comportamiento
   - límites
   - crianza
   - hijos
-image: "/img/madre-adolescente-apoyo.jpg"
+image: /img/captura-de-pantalla-2026-08-12-a-las-18.02.42.png
 ---
 
 ¿Le digo "no" a mi hijo demasiadas veces? ¿Lo malcrío diciéndole "sí" a todo? Educar es, probablemente, una de las tareas más complicadas que existen, y hay momentos en los que las situaciones nos superan y no sabemos muy bien qué hacer.
