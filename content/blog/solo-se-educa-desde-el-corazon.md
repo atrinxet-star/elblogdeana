@@ -1,10 +1,16 @@
 ---
-image: "/img/educar-corazon.jpg"
-title: "Solo se educa desde el corazón"
+title: Solo se educa desde el corazón
 date: 2025-07-22
-description: "Educar viene de 'ducere', conducir. Si quieres que tu hijo te escuche, primero tienes que escucharle tú. Seis reglas de oro para educar desde la empatía."
-category: "Pedagogía para padres"
-tags: ["empatía", "comunicación", "crianza", "hijos"]
+description: Educar viene de 'ducere', conducir. Si quieres que tu hijo te
+  escuche, primero tienes que escucharle tú. Seis reglas de oro para educar
+  desde la empatía.
+category: Pedagogía para padres
+tags:
+  - empatía
+  - comunicación
+  - crianza
+  - hijos
+image: /img/madre-adolescente-apoyo.jpg
 ---
 
 Con cualquiera que nos hable desde los sentimientos que hemos vivido sentimos afinidad y empatía de forma casi automática. Educar, en el fondo, también es eso: cuando educamos, le estamos "vendiendo" a nuestro hijo una idea, y a la larga, queremos que esa idea se convierta en suya propia.
