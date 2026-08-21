@@ -1,10 +1,16 @@
 ---
-image: "/img/adolescente-test.jpg"
-title: "¿Qué estudiar? La pregunta más importante que nadie enseña a responder"
+title: ¿Qué estudiar? La pregunta más importante que nadie enseña a responder
 date: 2025-09-05
-description: "Cada año miles de jóvenes eligen carrera por descarte, por nota de corte o por presión familiar. Hay una forma mejor de hacerlo."
-category: "Orientación"
-tags: ["orientación académica", "qué estudiar", "universidad", "bachillerato", "decisión"]
+description: Cada año miles de jóvenes eligen carrera por descarte, por nota de
+  corte o por presión familiar. Hay una forma mejor de hacerlo.
+category: Orientación
+tags:
+  - orientación académica
+  - qué estudiar
+  - universidad
+  - bachillerato
+  - decisión
+image: /img/captura-de-pantalla-2025-12-16-a-las-11.38.41.png
 ---
 
 Hace unas semanas una madre me llamó llorando. Su hijo había terminado primero de Medicina. Un expediente brillante. Pero se quería ir.
