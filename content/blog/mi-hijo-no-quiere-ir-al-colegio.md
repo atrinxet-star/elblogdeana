@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo no quiere ir al colegio: causas reales y cómo actuar"
 date: 2026-08-20
-description: "El rechazo al colegio puede ser puntual o señal de algo más profundo. Entender la causa es el primer paso para actuar bien. Te explico qué hay detrás y qué hacer en cada caso."
-category: "Pedagogía para padres"
+description: El rechazo al colegio puede ser puntual o señal de algo más
+  profundo. Entender la causa es el primer paso para actuar bien. Te explico qué
+  hay detrás y qué hacer en cada caso.
+category: Pedagogía para padres
 tags:
   - colegio
   - rechazo escolar
   - ansiedad
   - motivación
   - niños
-image: "/img/hijo-suspende.jpg"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.14.12.png
 ---
 
 "No quiero ir al colegio." Puede ser una frase de un lunes o puede ser una señal de algo que merece atención. La diferencia está en la frecuencia, la intensidad y lo que hay detrás.
