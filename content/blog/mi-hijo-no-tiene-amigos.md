@@ -1,15 +1,16 @@
 ---
 title: "Mi hijo no tiene amigos: cómo ayudarle sin agobiarle"
 date: 2026-08-20
-description: "Ver que tu hijo está solo duele. Antes de actuar, es importante entender por qué no tiene amigos y qué tipo de ayuda necesita realmente."
-category: "Pedagogía para padres"
+description: Ver que tu hijo está solo duele. Antes de actuar, es importante
+  entender por qué no tiene amigos y qué tipo de ayuda necesita realmente.
+category: Pedagogía para padres
 tags:
   - amigos
   - habilidades sociales
   - soledad
   - niños
   - adolescentes
-image: "/img/jovenes-redes-sociales.jpg"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.16.03.png
 ---
 
 Hay pocas cosas que duelan más a un padre o una madre que ver a su hijo solo. Sin nadie que le llame, sin planes el fin de semana, sin ese grupo de amigos que parece que todos los demás tienen.
