@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo está enganchado al móvil: cómo recuperar el control sin conflictos"
 date: 2026-08-20
-description: "Si sientes que el móvil ha tomado el control de tu hijo y de la dinámica familiar, no estás solo. Te explico qué está pasando y cómo actuar de forma efectiva."
-category: "Pedagogía para padres"
+description: Si sientes que el móvil ha tomado el control de tu hijo y de la
+  dinámica familiar, no estás solo. Te explico qué está pasando y cómo actuar de
+  forma efectiva.
+category: Pedagogía para padres
 tags:
   - móvil
   - pantallas
   - adolescentes
   - límites
   - tecnología
-image: "/img/adolescente-movil.jpg"
+image: /img/pexels-karolina-grabowska-6957255.jpg
 ---
 
 "Se pasa el día con el móvil." "Si se lo quito, se vuelve loco." "Ya no hace nada más." Si estas frases te resultan familiares, este artículo es para ti.
