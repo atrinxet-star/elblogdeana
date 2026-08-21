@@ -1,10 +1,17 @@
 ---
-image: "/img/joven-profesional-carrera.png"
-title: "Cambio de carrera profesional: cómo saber si es el momento y por dónde empezar"
+title: "Cambio de carrera profesional: cómo saber si es el momento y por dónde
+  empezar"
 date: 2025-11-10
-description: "Tienes trabajo, tienes experiencia. Pero algo no encaja. ¿Es el momento de cambiar? ¿Cómo se hace sin tirar todo por la borda?"
-category: "Orientación"
-tags: ["orientación profesional", "cambio de carrera", "adultos", "tests", "profesionales"]
+description: Tienes trabajo, tienes experiencia. Pero algo no encaja. ¿Es el
+  momento de cambiar? ¿Cómo se hace sin tirar todo por la borda?
+category: Orientación
+tags:
+  - orientación profesional
+  - cambio de carrera
+  - adultos
+  - tests
+  - profesionales
+image: /img/captura-de-pantalla-2026-01-26-a-las-15.17.29.png
 ---
 
 La pregunta me llega en dos versiones.
