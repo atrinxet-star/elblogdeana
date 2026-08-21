@@ -1,10 +1,16 @@
 ---
-image: "/img/adolescente-online.jpg"
 title: "Móvil en la infancia: señales de enganche y cómo gestionar las pantallas"
 date: 2024-10-05
-description: "¿Cómo saber si tu hijo está enganchado al móvil? Señales claras de alarma y estrategias prácticas para gestionar el uso de las pantallas en la infancia."
-category: "Infancia"
-tags: ["móvil", "tecnología", "infancia", "pantallas"]
+description: ¿Cómo saber si tu hijo está enganchado al móvil? Señales claras de
+  alarma y estrategias prácticas para gestionar el uso de las pantallas en la
+  infancia.
+category: Infancia
+tags:
+  - móvil
+  - tecnología
+  - infancia
+  - pantallas
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.18.57.png
 ---
 
 Antes de que existieran los móviles, los niños se aburrían igual. Molestaban igual. Necesitaban atención igual. Y aprendían a gestionar ese aburrimiento porque no había otra opción.
