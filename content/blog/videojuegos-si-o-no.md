@@ -1,10 +1,16 @@
 ---
-image: "/img/videojuegos.jpg"
-title: "Videojuegos, ¿sí o no?"
+title: Videojuegos, ¿sí o no?
 date: 2026-03-08
-description: "La ciencia dice que los videojuegos de acción entrenan la atención y la toma de decisiones. Te explico qué dice la investigación y cómo sacarles partido sin que se conviertan en un problema."
-category: "Pedagogía para padres"
-tags: ["videojuegos", "pantallas", "tecnología", "ocio"]
+description: La ciencia dice que los videojuegos de acción entrenan la atención
+  y la toma de decisiones. Te explico qué dice la investigación y cómo sacarles
+  partido sin que se conviertan en un problema.
+category: Pedagogía para padres
+tags:
+  - videojuegos
+  - pantallas
+  - tecnología
+  - ocio
+image: /img/pexels-jéshoots-21067.jpg
 ---
 
 ¿Cuántas veces nos hemos preguntado, como padres, si los videojuegos son buenos o malos para nuestros hijos? La respuesta honesta es: depende de cuáles, de cuánto tiempo y de cómo se juegan. Y la investigación científica tiene cosas interesantes que decir al respecto.
