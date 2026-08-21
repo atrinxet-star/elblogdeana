@@ -1,15 +1,17 @@
 ---
 title: "Mis hijos se pelean todo el día: qué hacer (y qué no hacer)"
 date: 2026-08-20
-description: "Los conflictos entre hermanos son normales, pero cuando son constantes agotan a cualquier familia. Te explico por qué ocurren y cómo intervenir de forma que realmente ayude."
-category: "Pedagogía para padres"
+description: Los conflictos entre hermanos son normales, pero cuando son
+  constantes agotan a cualquier familia. Te explico por qué ocurren y cómo
+  intervenir de forma que realmente ayude.
+category: Pedagogía para padres
 tags:
   - hermanos
   - celos
   - conflictos
   - familia
   - convivencia
-image: "/img/hermanos-familia.png"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.17.10.png
 ---
 
 Si tienes más de un hijo en casa, probablemente conoces bien este sonido: "¡Es mío!", "¡Me ha pegado!", "¡No es justo!", seguido de llanto o de un portazo. Y así varias veces al día.
