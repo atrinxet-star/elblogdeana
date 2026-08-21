@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo llora por todo: ¿es normal o hay algo más?"
 date: 2026-08-20
-description: "Hay niños que lloran con mucha facilidad y frecuencia. A veces es su temperamento, a veces hay algo más. Te explico cómo distinguirlo y qué hacer en cada caso."
-category: "Pedagogía para padres"
+description: Hay niños que lloran con mucha facilidad y frecuencia. A veces es
+  su temperamento, a veces hay algo más. Te explico cómo distinguirlo y qué
+  hacer en cada caso.
+category: Pedagogía para padres
 tags:
   - llanto
   - emociones
   - sensibilidad
   - niños
   - gestión emocional
-image: "/img/madre-hijo-consolando.png"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.07.21.png
 ---
 
 "Llora por cualquier cosa." "No soporta la frustración." "Un pequeño contratiempo y se derrumba." Si describes así a tu hijo, probablemente llevas tiempo preguntándote si es normal o si estás haciendo algo mal.
