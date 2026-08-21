@@ -1,7 +1,10 @@
 ---
-title: "Por qué los padres sobreprotegen más cuando mandan a sus hijos a estudiar al extranjero"
+title: Por qué los padres sobreprotegen más cuando mandan a sus hijos a estudiar
+  al extranjero
 date: 2024-07-08
-description: "Cada año veo el mismo patrón: padres que sufren más de lo necesario cuando mandan a sus hijos fuera. Te explico por qué ocurre y cómo gestionarlo."
+description: "Cada año veo el mismo patrón: padres que sufren más de lo
+  necesario cuando mandan a sus hijos fuera. Te explico por qué ocurre y cómo
+  gestionarlo."
 category: Orientación
 tags:
   - sobreprotección
@@ -9,7 +12,7 @@ tags:
   - año escolar
   - padres
   - independencia
-image: "/img/madre-sobreproteccion.jpg"
+image: /img/empresario-equipaje-esperando-llegada-al-aeropuerto-generado-ia.jpg
 ---
 
 Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio. Pequeñas, trabajadoras, capaces de sobrevivir y prosperar en entornos muy distintos. Cuando pienso en lo que queremos para nuestros hijos, a menudo pienso en ellas.
