@@ -1,11 +1,18 @@
 ---
-image: "/img/adolescente-ano-escolar-extranjero.jpg"
 title: "Programas de inmersión lingüística: dónde hacerlos, cuándo y por qué"
 date: 2025-11-28
-description: "La inmersión lingüística es la mejor manera de aprender un idioma de forma natural y duradera. Te explico qué tipos existen, a qué edades y por qué marcan una diferencia real."
-category: "Educación Internacional"
-tags: ["idiomas", "inmersión lingüística", "año escolar", "extranjero", "jóvenes"]
-source: "mcm"
+description: La inmersión lingüística es la mejor manera de aprender un idioma
+  de forma natural y duradera. Te explico qué tipos existen, a qué edades y por
+  qué marcan una diferencia real.
+category: Educación Internacional
+tags:
+  - idiomas
+  - inmersión lingüística
+  - año escolar
+  - extranjero
+  - jóvenes
+image: /img/familia-sofa.jpg
+source: mcm
 ---
 
 Aprender un idioma en un aula tiene un límite. Aprenderlo viviendo en el país, rodeado de personas que lo hablan desde que se despiertan hasta que se acuestan, es una experiencia completamente diferente.
