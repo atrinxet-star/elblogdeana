@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo empieza la ESO: cómo prepararlo para el cambio"
 date: 2026-08-20
-description: "El salto de Primaria a la ESO es uno de los momentos más delicados en la trayectoria escolar. Con la preparación adecuada, puede ser un inicio sólido en lugar de un tropiezo."
-category: "Orientación educativa"
+description: El salto de Primaria a la ESO es uno de los momentos más delicados
+  en la trayectoria escolar. Con la preparación adecuada, puede ser un inicio
+  sólido en lugar de un tropiezo.
+category: Orientación educativa
 tags:
   - ESO
   - secundaria
   - transición escolar
   - hábitos de estudio
   - adolescentes
-image: "/img/consejos-padre-preuniversitario.jpg"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.05.52.png
 ---
 
 El verano antes de entrar en la ESO debería ser más que una pausa. Es una ventana de preparación que muchas familias dejan pasar sin aprovechar, y que luego se echa de menos en octubre.
