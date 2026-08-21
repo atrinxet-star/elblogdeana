@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo no quiere comer: qué hacer y qué no hacer nunca"
 date: 2026-08-20
-description: "La hora de la comida se ha convertido en un campo de batalla. Tu hijo rechaza la comida, solo quiere comer cuatro cosas o tarda una eternidad. Te explico por qué ocurre y cómo actuar."
-category: "Pedagogía para padres"
+description: La hora de la comida se ha convertido en un campo de batalla. Tu
+  hijo rechaza la comida, solo quiere comer cuatro cosas o tarda una eternidad.
+  Te explico por qué ocurre y cómo actuar.
+category: Pedagogía para padres
 tags:
   - alimentación
   - niños
   - hábitos
   - familia
   - comer
-image: "/img/familia-cenando-juntos.png"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.13.18.png
 ---
 
 La hora de comer puede ser una de las más agotadoras del día cuando un hijo no quiere comer. Hay niños que solo aceptan cuatro alimentos. Niños que tardan una hora en un plato. Niños que protestan ante cualquier cosa nueva. Y padres que acaban comiendo de pie, en tensión, intentando que al menos entre algo.
