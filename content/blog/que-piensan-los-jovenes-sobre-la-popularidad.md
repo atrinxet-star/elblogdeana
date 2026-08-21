@@ -1,10 +1,17 @@
 ---
-image: "/img/redes-jovenes.png"
-title: "¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los jóvenes de 13 a 17 años"
+title: ¿Qué piensan los adolescentes sobre la popularidad? Lo que dicen los
+  jóvenes de 13 a 17 años
 date: 2024-05-05
-description: "La popularidad obsesiona a muchos adolescentes. Descubre qué piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el liderazgo y la presión social."
-category: "Adolescencia"
-tags: ["adolescentes", "popularidad", "autoestima", "jóvenes"]
+description: La popularidad obsesiona a muchos adolescentes. Descubre qué
+  piensan realmente los jóvenes de 13 a 17 años sobre ser populares, el
+  liderazgo y la presión social.
+category: Adolescencia
+tags:
+  - adolescentes
+  - popularidad
+  - autoestima
+  - jóvenes
+image: /img/pexels-max-fischer-5212697.jpg
 ---
 
 En mis años de consulta con familias y adolescentes, hay un tema que aparece con más frecuencia de lo que podría esperarse: la popularidad. No siempre lo dicen con esa palabra, pero está ahí. "Es que no encaja con su grupo." "Le preocupa mucho lo que piensan sus compañeros." "Desde que empezó el instituto, ha cambiado."
