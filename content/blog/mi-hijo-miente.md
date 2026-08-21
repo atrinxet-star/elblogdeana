@@ -1,15 +1,17 @@
 ---
 title: "Mi hijo miente: por qué lo hace y cómo reaccionar sin empeorar las cosas"
 date: 2026-08-20
-description: "Descubrir que tu hijo miente genera desconfianza y frustración. Pero antes de reaccionar, es importante entender por qué lo hace. La causa determina completamente cómo actuar."
-category: "Pedagogía para padres"
+description: Descubrir que tu hijo miente genera desconfianza y frustración.
+  Pero antes de reaccionar, es importante entender por qué lo hace. La causa
+  determina completamente cómo actuar.
+category: Pedagogía para padres
 tags:
   - mentiras
   - confianza
   - niños
   - adolescentes
   - límites
-image: "/img/familia-risa-humor.jpg"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.09.50.png
 ---
 
 Descubrir que tu hijo te ha mentido duele. No solo por la mentira en sí, sino por lo que implica: ¿me oculta más cosas? ¿No confía en mí? ¿He fallado en algo?
