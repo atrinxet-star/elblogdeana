@@ -1,10 +1,17 @@
 ---
-image: "/img/comportamiento-adolescentes.jpg"
 title: "Problemas de comportamiento en la adolescencia: guía práctica para padres"
 date: 2025-04-08
-description: "La preadolescencia puede empezar a los 11 años y traer cambios difíciles de gestionar. Te explico qué influye en el comportamiento adolescente y cómo actuar sin perder la relación."
-category: "Adolescencia"
-tags: ["adolescentes", "comportamiento", "límites", "comunicación", "familia"]
+description: La preadolescencia puede empezar a los 11 años y traer cambios
+  difíciles de gestionar. Te explico qué influye en el comportamiento
+  adolescente y cómo actuar sin perder la relación.
+category: Adolescencia
+tags:
+  - adolescentes
+  - comportamiento
+  - límites
+  - comunicación
+  - familia
+image: /img/madre-adolescente-apoyo.jpg
 ---
 
 La adolescencia es el paso ineludible de la infancia a la edad adulta, una etapa llena de cambios físicos y emocionales profundos. En algunos chicos y chicas, la preadolescencia puede empezar incluso a los 11 años, y muchas familias llegan a mi consulta sin saber muy bien qué es "normal" y qué no lo es.
