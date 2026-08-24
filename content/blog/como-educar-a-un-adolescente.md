@@ -10,10 +10,9 @@ tags:
   - educación
   - crianza
 image: /img/pexels-kindel-media-8550827.jpg
-imageAlt: "Familia con adolescente dialogando de forma calmada y respetuosa en casa"
+imageAlt: Familia con adolescente dialogando de forma calmada y respetuosa en casa
 ---
-
-Llegamos a casa y nos encontramos a nuestro adolescente que pasa del 1,70 "tirado" en el sillón del salón.
+Llegamos a casa y nos encontramos a nuestro adolescente que pasa del 1,70 "tirado" en el sillón del salón o en su cama, sin hacer nada, mirando el móvil...
 
 Entonces nuestra idea de lo que debería estar haciendo empieza a trabajar demasiado rápido. Empezamos a calentar: no está haciendo nada de provecho, no está estudiando, ¿por qué no lee un buen libro?
 
@@ -21,7 +20,9 @@ Y sin embargo, quizá lo que necesita es exactamente eso: descansar.
 
 ## Los adolescentes se parecen más a los bebés de lo que creemos
 
-A los bebés les perdonamos y comprendemos porque son pequeños: lloran porque no saben hablar y tienen hambre o sueño. A nuestros adolescentes, que están pasando por un cambio tan importante como el que vive un bebé, les exigimos que estén como nosotros o mejor, porque son más jóvenes.
+A los bebés les perdonamos y comprendemos porque son pequeños cuando lloran porque no saben expresar lo que les pasa. 
+
+A nuestros adolescentes, que están pasando por un cambio tan importante como el que vive un bebé, les exigimos que estén como nosotros.
 
 Un adolescente a veces está mal y ni él sabe por qué. Y eso es completamente normal.
 
@@ -53,15 +54,15 @@ La conexión con tu hijo adolescente se construye en los pequeños momentos coti
 
 ## Lo que sí funciona, en resumen
 
-- Mantener la calma cuando ellos no pueden mantenerla
-- Ser coherente entre lo que dices y lo que haces
-- Reconocer sus logros, por pequeños que sean
-- No magnificar los errores
-- Estar disponible sin estar encima
-- Respetar sus tiempos y sus espacios
+* Mantener la calma cuando ellos no pueden mantenerla
+* Ser coherente entre lo que dices y lo que haces
+* Reconocer sus logros, por pequeños que sean
+* No magnificar los errores
+* Estar disponible sin estar encima
+* Respetar sus tiempos y sus espacios
 
 La adolescencia no se gestiona: se acompaña. Y acompañar bien, muchas veces, es el mayor regalo que podemos darles.
 
----
+- - -
 
 Si sientes que la comunicación con tu hijo adolescente se ha complicado o no sabes cómo llegar a él, **puedo ayudarte**. Acompañar a familias en esta etapa es uno de los trabajos que más hago y más valoro.
