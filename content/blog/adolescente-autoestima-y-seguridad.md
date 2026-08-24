@@ -10,10 +10,8 @@ tags:
   - autoestima
   - seguridad
   - educación
-image: /img/autoestima-adolescente.png
-imageAlt: "Adolescente con postura segura reflejando autoestima y seguridad personal"
+image: /img/captura-de-pantalla-2023-03-20-a-las-13.51.21.png
 ---
-
 La adolescencia es una edad complicada, sin duda. Pero también puede ser una de las más divertidas y ricas si sabemos cómo acompañarla.
 
 Buscar el lado irónico de las cosas, dar por hecho que pueden hacerlo, quitarle hierro a lo dramático, compartir nuestras propias experiencias, mostrar empatía ante sus problemas... Es la forma más directa de llegar hasta ellos.
@@ -22,7 +20,9 @@ Buscar el lado irónico de las cosas, dar por hecho que pueden hacerlo, quitarle
 
 Los adolescentes pueden llegar a sentirse muy tristes, decepcionados, contradictorios y solos, sin ningún motivo importante aparente. Y sin querer, hieren a los que les rodean, sobre todo a los padres.
 
-Hay que tomarse estos altibajos de humor como algo normal en su desarrollo, no como señales de alarma. No ponernos a su altura, no hacerles ver nuestra decepción por su comportamiento, ser firmes en nuestros principios sin humillar y, sobre todo, no alargar una discusión con rencores o enfados eternos que no llevan a ningún sitio y que hacen que se cierren aún más.
+Hay que tomarse estos altibajos de humor como algo normal en su desarrollo, no como señales de alarma y mucho menos pensar que esas agresiones verbales son reales hacia nosotros, es su frustración que no saben manejar y no saben contra quien dirigirla.
+
+No ponernos a su altura, ser firmes en nuestros principios sin humillar y, sobre todo, no alargar una discusión con rencores o enfados eternos que no llevan a ningún sitio y que hacen que se cierren aún más.
 
 ## La autoestima se construye con confianza
 
@@ -42,25 +42,25 @@ Firmeza no es inflexibilidad. Es coherencia. Es decir lo que piensas, cumplir lo
 
 No siempre es fácil saber cuándo un adolescente está pasando por un bache de autoestima o cuándo hay algo que merece más atención. Algunas señales a las que prestar atención:
 
-- Se compara constantemente con otros y siempre sale perdiendo
-- Abandona actividades que antes le gustaban sin dar explicación
-- Evita situaciones nuevas o cualquier cosa en la que pueda quedar mal
-- Reacciona de forma desproporcionada ante cualquier crítica, por pequeña que sea
-- Ha dejado de hablar de sus cosas en casa
+* Se compara constantemente con otros y siempre sale perdiendo
+* Abandona actividades que antes le gustaban sin dar explicación
+* Evita situaciones nuevas o cualquier cosa en la que pueda quedar mal
+* Reacciona de forma desproporcionada ante cualquier crítica, por pequeña que sea
+* Ha dejado de hablar de sus cosas en casa
 
 Ante estas señales, lo más importante no es el discurso. Es la presencia. Estar ahí, sin presionar, con calma. Y si el bache se prolonga, buscar acompañamiento profesional a tiempo.
 
 ## Lo que sí funciona con los adolescentes
 
-- Hablarles desde la experiencia propia, no desde el sermón
-- Reconocer sus logros, por pequeños que sean
-- Respetar sus tiempos y sus espacios
-- No magnificar los errores
-- Mantener el sentido del humor, sin usarlo para reírnos de ellos
-- Estar disponibles cuando nos buscan, sin presionarles cuando no
+* Hablarles desde la experiencia propia, no desde el sermón
+* Reconocer sus logros, por pequeños que sean
+* Respetar sus tiempos y sus espacios
+* No magnificar los errores
+* Mantener el sentido del humor, sin usarlo para reírnos de ellos
+* Estar disponibles cuando nos buscan, sin presionarles cuando no
 
 La adolescencia no se gestiona, se acompaña. Y acompañar bien es, muchas veces, el mayor regalo que podemos darles.
 
----
+- - -
 
 Si sientes que tu hijo adolescente está perdiendo confianza en sí mismo o que la comunicación en casa se ha complicado, **hablemos**. Puedo ayudarte a entender qué está pasando y cómo actuar.
