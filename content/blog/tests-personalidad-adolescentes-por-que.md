@@ -12,6 +12,7 @@ tags:
   - orientación académica
   - autoconocimiento
 image: /img/captura-de-pantalla-2025-12-12-a-las-13.10.36.png
+imageAlt: "Test de personalidad y recursos de orientación para adolescentes y sus familias"
 ---
 
 Durante los últimos 25 años he corregido más de 500 tests de personalidad a adolescentes. Y si algo he observado con claridad en estos últimos años es que cada vez más familias se interesan por este tipo de evaluaciones.

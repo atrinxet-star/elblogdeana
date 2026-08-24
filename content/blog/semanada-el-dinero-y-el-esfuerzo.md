@@ -1,5 +1,6 @@
 ---
 image: "/img/dinero.jpg"
+imageAlt: "Monedas y billetes representando el valor del dinero y la importancia del esfuerzo"
 title: "¿Cae el dinero del cielo? Por qué la semanada sin esfuerzo no educa"
 date: 2024-03-15
 description: "Dar dinero a los hijos sin que lo ganen no les enseña a valorarlo. Después de 35 años acompañando a familias, te explico por qué la semanada sin esfuerzo es un error y qué hacer en su lugar."

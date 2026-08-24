@@ -12,6 +12,7 @@ tags:
   - comunicación
   - familia
 image: /img/madre-adolescente-apoyo.jpg
+imageAlt: "Madre apoyando con empatía a su hijo adolescente con problemas de comportamiento"
 ---
 
 La adolescencia es el paso ineludible de la infancia a la edad adulta, una etapa llena de cambios físicos y emocionales profundos. En algunos chicos y chicas, la preadolescencia puede empezar incluso a los 11 años, y muchas familias llegan a mi consulta sin saber muy bien qué es "normal" y qué no lo es.

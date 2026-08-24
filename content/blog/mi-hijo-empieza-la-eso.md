@@ -12,6 +12,7 @@ tags:
   - hábitos de estudio
   - adolescentes
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.05.52.png
+imageAlt: "Información y recursos para preparar a los hijos para el inicio de la ESO"
 ---
 
 El verano antes de entrar en la ESO debería ser más que una pausa. Es una ventana de preparación que muchas familias dejan pasar sin aprovechar, y que luego se echa de menos en octubre.

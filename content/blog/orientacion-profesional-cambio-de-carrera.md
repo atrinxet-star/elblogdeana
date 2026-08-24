@@ -12,6 +12,7 @@ tags:
   - tests
   - profesionales
 image: /img/captura-de-pantalla-2026-01-26-a-las-15.17.29.png
+imageAlt: "Recursos de orientación profesional para un cambio de carrera laboral"
 ---
 
 La pregunta me llega en dos versiones.

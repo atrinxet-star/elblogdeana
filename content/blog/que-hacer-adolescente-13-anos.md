@@ -10,6 +10,7 @@ tags:
   - límites
   - pubertad
 image: "/img/test-evaluacion.jpg"
+imageAlt: "Test de evaluación y herramientas de orientación para adolescentes de 13 años"
 ---
 
 Si tienes un hijo de 13 años en casa, probablemente reconoces esta escena: le preguntas algo y te contesta con un monosílabo o con un bufido. Antes te lo contaba todo, ahora parece que hablar contigo es un esfuerzo enorme. Lo que antes le gustaba ya no le interesa. Y cualquier cosa que digas puede convertirse en un conflicto.

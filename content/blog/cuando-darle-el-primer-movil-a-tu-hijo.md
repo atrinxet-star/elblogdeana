@@ -12,6 +12,7 @@ tags:
   - normas
   - pantallas
 image: /img/adolescente-movil.jpg
+imageAlt: "Adolescente usando su teléfono móvil de forma responsable"
 ---
 
 "¡Mamá, necesito un móvil! ¿Para qué? ¡Todos mis amigos tienen!" Es una conversación que tarde o temprano llega a todas las casas. Mi consejo siempre es el mismo: no te dejes llevar por la presión social ni por lo que hacen los demás. Haz lo que creas que se adapta a la madurez real de tu hijo, no a su edad en el calendario.

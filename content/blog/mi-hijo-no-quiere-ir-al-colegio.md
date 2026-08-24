@@ -12,6 +12,7 @@ tags:
   - motivación
   - niños
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.14.12.png
+imageAlt: "Orientación para padres cuando su hijo se niega a ir al colegio"
 ---
 
 "No quiero ir al colegio." Puede ser una frase de un lunes o puede ser una señal de algo que merece atención. La diferencia está en la frecuencia, la intensidad y lo que hay detrás.

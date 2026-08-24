@@ -1,5 +1,6 @@
 ---
 image: "/img/que-es-liderazgo.jpg"
+imageAlt: "Joven mostrando habilidades de liderazgo y capacidad de trabajo en equipo"
 title: "¿Qué es el liderazgo, y se puede educar?"
 date: 2026-01-10
 description: "¿Se nace líder o se aprende a serlo? Comparto cómo entiendo el liderazgo después de años acompañando a jóvenes, y por qué creo que sí se puede educar."

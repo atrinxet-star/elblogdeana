@@ -10,6 +10,7 @@ tags:
   - hábitos
   - autonomía
 image: "/img/madre-hijo-campo.jpg"
+imageAlt: "Madre y niño de 5 años jugando juntos en el campo con alegría"
 ---
 
 Los cinco años son una edad maravillosa. Tu hijo ya puede mantener conversaciones, tiene amigos, juega en equipo, pregunta el por qué de todo y empieza a entender las normas. También puede tener cambios de humor inesperados, negarse a hacer cosas que antes hacía sin problema y poner a prueba los límites con más habilidad que nunca.

@@ -1,5 +1,6 @@
 ---
 image: "/img/joven-instituto.jpg"
+imageAlt: "Joven estudiante en el instituto con actitud positiva y enfoque en la excelencia"
 title: "Excelencia más allá de los resultados académicos"
 date: 2025-05-01
 description: "Un 10 en matemáticas no garantiza el éxito. Te cuento por qué la excelencia real va mucho más allá de las notas."

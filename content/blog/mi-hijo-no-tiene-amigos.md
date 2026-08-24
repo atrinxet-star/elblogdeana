@@ -11,6 +11,7 @@ tags:
   - niños
   - adolescentes
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.16.03.png
+imageAlt: "Recursos para padres que quieren ayudar a su hijo a relacionarse y hacer amigos"
 ---
 
 Hay pocas cosas que duelan más a un padre o una madre que ver a su hijo solo. Sin nadie que le llame, sin planes el fin de semana, sin ese grupo de amigos que parece que todos los demás tienen.

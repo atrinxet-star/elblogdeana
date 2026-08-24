@@ -12,6 +12,7 @@ tags:
   - extranjero
   - jóvenes
 image: /img/familia-sofa.jpg
+imageAlt: "Familia en el sofá reflexionando sobre los programas de inmersión lingüística"
 source: mcm
 ---
 

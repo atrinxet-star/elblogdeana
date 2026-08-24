@@ -11,6 +11,7 @@ tags:
   - escuela
   - confianza
 image: /img/captura-de-pantalla-2026-01-26-a-las-15.21.46.png
+imageAlt: "Recursos de orientación para ayudar a los hijos a descubrir sus capacidades"
 ---
 
 A veces algunos educadores, con buena intención o sin ella, desaniman a los estudiantes con dificultades diciéndoles que no van a poder tener éxito académicamente. Tengo un enorme respeto por la profesión docente, pero también creo necesario poner nombre a los mensajes que hacen daño, vengan de donde vengan.

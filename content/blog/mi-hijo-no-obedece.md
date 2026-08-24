@@ -10,6 +10,7 @@ tags:
   - adolescentes
   - obediencia
 image: "/img/padre-hijo-tension.png"
+imageAlt: "Padre e hijo en un momento de tensión mientras establecen límites y normas"
 ---
 
 "He dicho que no veinte veces y sigue sin hacerme caso." "Todo se convierte en una negociación." "Si no le grito no me escucha." Si te reconoces en alguna de estas frases, este artículo es para ti.

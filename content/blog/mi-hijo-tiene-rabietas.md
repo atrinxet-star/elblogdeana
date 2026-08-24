@@ -12,6 +12,7 @@ tags:
   - límites
   - calma
 image: /img/captura-de-pantalla-2026-08-21-a-las-10.47.31.png
+imageAlt: "Consejos de orientación para gestionar las rabietas infantiles sin perder la calma"
 ---
 
 Tu hijo se tira al suelo en el supermercado. Llora, grita, patalea. La gente mira. Tú no sabes si gritar, consolarlo, ignorarlo o salir corriendo. Y cuando por fin termina, estás agotado.

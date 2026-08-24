@@ -12,6 +12,7 @@ tags:
   - límites
   - tecnología
 image: /img/pexels-karolina-grabowska-6957255.jpg
+imageAlt: "Adolescente con dependencia del teléfono móvil y las pantallas en casa"
 ---
 
 "Se pasa el día con el móvil." "Si se lo quito, se vuelve loco." "Ya no hace nada más." Si estas frases te resultan familiares, este artículo es para ti.

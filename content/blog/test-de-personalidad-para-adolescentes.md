@@ -13,6 +13,7 @@ tags:
   - tests
   - autoconocimiento
 image: "/img/adolescente-test-personalidad.jpg"
+imageAlt: "Adolescente realizando un test de personalidad guiado por un orientador educativo"
 faq:
   - question: "¿Qué es un test de personalidad para adolescentes?"
     answer: "Es una herramienta psicométrica validada que mide cómo es el adolescente: su perfil de personalidad, inteligencias múltiples, aptitudes cognitivas, intereses vocacionales y estilo de aprendizaje. No mide si es inteligente, sino cómo es inteligente y qué entorno le hace rendir mejor. El resultado no es una etiqueta, es un mapa."

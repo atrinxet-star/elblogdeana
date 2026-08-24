@@ -1,5 +1,6 @@
 ---
 image: "/img/ninos-semanada-dinero.jpg"
+imageAlt: "Niños aprendiendo el valor del dinero y el esfuerzo con su semanada semanal"
 title: "La semanada: cómo educar a los hijos en el valor del esfuerzo y el dinero"
 date: 2024-01-15
 description: "¿Hay que dar semanada a los hijos? Y si sí, ¿bajo qué condiciones? Te cuento cómo vincular el dinero al esfuerzo desde pequeños para que aprendan a valorarlo."

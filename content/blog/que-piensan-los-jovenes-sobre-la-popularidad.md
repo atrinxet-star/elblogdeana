@@ -12,6 +12,7 @@ tags:
   - autoestima
   - jóvenes
 image: /img/pexels-max-fischer-5212697.jpg
+imageAlt: "Grupo de jóvenes en el instituto reflexionando sobre la popularidad entre adolescentes"
 ---
 
 En mis años de consulta con familias y adolescentes, hay un tema que aparece con más frecuencia de lo que podría esperarse: la popularidad. No siempre lo dicen con esa palabra, pero está ahí. "Es que no encaja con su grupo." "Le preocupa mucho lo que piensan sus compañeros." "Desde que empezó el instituto, ha cambiado."

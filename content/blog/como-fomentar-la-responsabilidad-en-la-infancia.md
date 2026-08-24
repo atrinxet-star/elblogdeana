@@ -1,5 +1,6 @@
 ---
 image: "/img/nino-escuela.jpg"
+imageAlt: "Niño en edad escolar preparando su mochila con responsabilidad y autonomía"
 title: "Cómo fomentar la responsabilidad en la infancia"
 date: 2024-09-10
 description: "La responsabilidad no se impone: se cultiva. Claves prácticas para educar en ella desde los primeros años de vida, con paciencia, coherencia y mucho ejemplo."

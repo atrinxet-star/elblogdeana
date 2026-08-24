@@ -12,6 +12,7 @@ tags:
   - responsabilidad
   - educación primaria
 image: /img/habito-lectura-2.jpg
+imageAlt: "Niño de 8 años leyendo un libro con concentración para desarrollar buenos hábitos"
 ---
 
 A los 8 años el niño ya no es un niño pequeño, pero tampoco es un adolescente. Es una etapa de relativa calma: es capaz de razonar, de entender las consecuencias de sus actos, de asumir responsabilidades reales y de mantener compromisos.

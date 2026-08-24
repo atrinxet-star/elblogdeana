@@ -12,6 +12,7 @@ tags:
   - familia
   - comer
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.13.18.png
+imageAlt: "Guía para padres sobre cómo gestionar la negativa de un niño a comer"
 ---
 
 La hora de comer puede ser una de las más agotadoras del día cuando un hijo no quiere comer. Hay niños que solo aceptan cuatro alimentos. Niños que tardan una hora en un plato. Niños que protestan ante cualquier cosa nueva. Y padres que acaban comiendo de pie, en tensión, intentando que al menos entre algo.

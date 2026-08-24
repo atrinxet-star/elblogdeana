@@ -1,5 +1,6 @@
 ---
 image: "/img/estudiantes-universidad.jpg"
+imageAlt: "Estudiantes universitarios en el campus de una prestigiosa universidad americana"
 title: "Las mejores universidades de Business y Economía en Estados Unidos"
 date: 2025-03-10
 description: "Si tu hijo quiere estudiar Economía o Administración de Empresas, Estados Unidos tiene algunas de las mejores opciones del mundo. Aquí las más destacadas y qué las hace únicas."

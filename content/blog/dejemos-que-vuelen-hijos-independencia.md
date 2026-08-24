@@ -11,6 +11,7 @@ tags:
   - crianza
   - padres
 image: /img/nino-pensativo.jpg
+imageAlt: "Niño pensativo mirando al horizonte con expresión de independencia y madurez"
 ---
 
 Noche antes de un festivo, medianoche. Una madre me escribe pasándolo mal. No porque su hija esté mal —está bien. Sino porque su hija no está con ella.

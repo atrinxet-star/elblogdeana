@@ -1,5 +1,6 @@
 ---
 image: "/img/familia-sofa.jpg"
+imageAlt: "Familia riendo juntos en el sofá de casa compartiendo un momento de humor"
 title: "El sentido del humor en la educación: por qué es una herramienta y no un lujo"
 date: 2024-04-10
 description: "Educar no tiene que ser siempre serio. El humor conecta, relaja tensiones y abre puertas que de otra manera permanecerían cerradas. Te cuento cómo usarlo con tus hijos."

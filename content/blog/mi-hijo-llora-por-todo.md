@@ -12,6 +12,7 @@ tags:
   - niños
   - gestión emocional
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.07.21.png
+imageAlt: "Recursos de orientación para padres con hijos con alta sensibilidad emocional"
 ---
 
 "Llora por cualquier cosa." "No soporta la frustración." "Un pequeño contratiempo y se derrumba." Si describes así a tu hijo, probablemente llevas tiempo preguntándote si es normal o si estás haciendo algo mal.

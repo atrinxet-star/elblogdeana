@@ -1,5 +1,6 @@
 ---
 image: "/img/padres-conversacion.jpg"
+imageAlt: "Padres conversando juntos sobre la decisión de enviar a su hijo al extranjero"
 title: "Mandar a tu hijo a estudiar al extranjero: una decisión de confianza"
 date: 2024-06-25
 description: "Cuando los padres mandan a sus hijos al extranjero por presión social y no por convicción, sufren el doble. Te cuento por qué la confianza es la clave de todo el proceso."

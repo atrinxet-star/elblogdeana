@@ -11,6 +11,7 @@ tags:
   - autonomía
   - hijos
 image: /img/ninos-actividades-extraescolares.jpg
+imageAlt: "Niños participando en actividades extraescolares con energía y entusiasmo"
 ---
 
 Llega el principio de curso, y cada año volvemos a organizar las tardes de nuestros hijos, a menudo actuando como si dejarles "tiempo libre" fuese, en sí mismo, un problema grave.

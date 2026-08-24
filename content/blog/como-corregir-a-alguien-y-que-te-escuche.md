@@ -1,5 +1,6 @@
 ---
 image: "/img/madre-hija-dialogo.png"
+imageAlt: "Madre e hija en conversación tranquila practicando la escucha activa"
 title: "¿Cómo corregir a alguien y que te escuche? ¿Crees que sabes hacerlo?"
 date: 2024-07-20
 description: "La técnica del minuto de silencio: cómo corregir a tu hijo o alumno de forma efectiva para que te escuche de verdad, sin gritos ni conflicto."

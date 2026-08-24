@@ -10,6 +10,7 @@ tags:
   - educación
   - familias
 image: /img/padre-vs-madre.png
+imageAlt: "Padre y madre con enfoques complementarios en la educación de sus hijos"
 ---
 
 En varias ocasiones he oído quejarse a madres o padres de que no coinciden en cómo educar a los hijos/as.

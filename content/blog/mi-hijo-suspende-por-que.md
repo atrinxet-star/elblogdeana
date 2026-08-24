@@ -1,5 +1,6 @@
 ---
 image: "/img/estudiante-suspenso.jpg"
+imageAlt: "Estudiante preocupado analizando sus malas notas en casa con sus padres"
 title: "Mi hijo suspende, ¿por qué?"
 date: 2024-12-10
 description: "Un boletín con suspensos dispara preguntas y miedos en cualquier familia. Te explico cómo identificar la causa real según la etapa y qué hacer en cada caso."

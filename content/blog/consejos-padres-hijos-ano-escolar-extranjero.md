@@ -11,6 +11,7 @@ tags:
   - padres
   - consejos
 image: /img/captura-de-pantalla-2026-01-29-a-las-17.03.07.png
+imageAlt: "Recursos y consejos para padres con hijos cursando un año académico en el extranjero"
 ---
 
 Mandar a un hijo durante un curso académico a estudiar al extranjero es una experiencia que hay que pensársela con calma, no precipitarse, no tomarla a la ligera ni dejarse llevar por el entorno.

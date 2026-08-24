@@ -11,6 +11,7 @@ tags:
   - educación
   - jóvenes
 image: /img/adolescente-confianza-autoestima.png
+imageAlt: "Adolescente con actitud segura y confianza en sus capacidades personales"
 ---
 
 El mercado laboral de 2030 ya no se parece al de 2010. Y el de 2040 será irreconocible. Entonces, ¿para qué mundo estamos preparando a nuestros hijos?

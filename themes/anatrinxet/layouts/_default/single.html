@@ -45,7 +45,7 @@
   {{ if .Params.image }}
   <div class="article-cover">
     <div class="container">
-      <img src="{{ .Params.image }}" alt="{{ .Title }}">
+      <img src="{{ .Params.image }}" alt="{{ with .Params.imageAlt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}">
     </div>
   </div>
   {{ end }}

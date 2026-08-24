@@ -1,5 +1,6 @@
 ---
 image: "/img/padres-hija-mano.jpg"
+imageAlt: "Padres cogiendo la mano de su hija pequeña creando recuerdos de infancia especiales"
 title: "Los recuerdos de la infancia te acompañan toda la vida: cómo crearlos bien"
 date: 2024-05-18
 description: "Los recuerdos de la infancia influyen en quiénes somos de adultos. Por qué importan y cómo ayudar a nuestros hijos a crear memorias positivas que les acompañen toda la vida."

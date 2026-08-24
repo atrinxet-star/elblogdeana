@@ -12,6 +12,7 @@ tags:
   - educación emocional
   - familia
 image: /img/chico-triste-tiro-completo-sentado-suelo.jpg
+imageAlt: "Chico joven triste sentado en el suelo reflejando el impacto del acoso escolar"
 ---
 
 La educación contra el bullying no comienza cuando un niño se convierte en víctima o testigo del acoso escolar. Comienza mucho antes, en casa, con los primeros vínculos, las primeras palabras y las primeras lecciones emocionales.

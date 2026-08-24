@@ -11,6 +11,7 @@ tags:
   - autonomía
   - rutinas
 image: /img/ordenar.png
+imageAlt: "Niño ordenando su habitación con sus pertenencias bien organizadas"
 ---
 
 "¿Cómo consigo que mi hijo sea ordenado?" Es una de las preguntas que más me hacen los padres en consulta. Lo intentamos una y mil veces, pero, ¿lo conseguimos realmente?

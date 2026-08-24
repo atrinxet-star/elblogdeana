@@ -9,6 +9,7 @@ tags:
   - valores
   - jóvenes
 image: /img/jovenes-universitarias-laptop.jpg
+imageAlt: "Jóvenes universitarias trabajando con laptop en la biblioteca del campus"
 ---
 
 Hace tiempo conocí una carta preciosa: la que un padre escribió a su hijo cuando este se marchaba a estudiar a la universidad, lejos de casa. El hijo la fotocopió y la compartió con sus compañeros, y tuvo tanto éxito que terminó publicada en forma de libro —*Life's Little Instruction Book*, de Jackson Brown— traducido a decenas de idiomas. Cada vez que acompaño a una familia en este momento —el de soltar a un hijo para que empiece su vida universitaria— pienso en esa carta, porque lo académico es solo una parte de lo que realmente importa.

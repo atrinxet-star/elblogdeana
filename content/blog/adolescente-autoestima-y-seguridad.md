@@ -11,6 +11,7 @@ tags:
   - seguridad
   - educación
 image: /img/autoestima-adolescente.png
+imageAlt: "Adolescente con postura segura reflejando autoestima y seguridad personal"
 ---
 
 La adolescencia es una edad complicada, sin duda. Pero también puede ser una de las más divertidas y ricas si sabemos cómo acompañarla.

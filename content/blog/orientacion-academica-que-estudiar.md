@@ -11,6 +11,7 @@ tags:
   - bachillerato
   - decisión
 image: /img/captura-de-pantalla-2025-12-16-a-las-11.38.41.png
+imageAlt: "Test y recursos de orientación académica para decidir qué estudiar"
 ---
 
 Hace unas semanas una madre me llamó llorando. Su hijo había terminado primero de Medicina. Un expediente brillante. Pero se quería ir.

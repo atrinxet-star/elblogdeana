@@ -13,6 +13,7 @@ tags:
   - decisiones educativas
   - familias
 image: /img/captura-de-pantalla-2026-01-26-a-las-18.22.14.png
+imageAlt: "Información sobre orientación educativa y consultoría para familias con hijos"
 faq:
   - question: ¿Cuándo debo acudir a una orientadora educativa?
     answer: "Hay seis señales clave: pérdida de motivación escolar, incertidumbre

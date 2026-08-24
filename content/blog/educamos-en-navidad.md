@@ -11,6 +11,7 @@ tags:
   - vínculo
   - hijos
 image: /img/captura-de-pantalla-2026-08-20-a-las-17.41.55.png
+imageAlt: "Familia celebrando la Navidad con valores y reflexión educativa en el hogar"
 ---
 
 Cada familia tiene sus propias costumbres en Navidad, pero en cualquiera de los casos estas fechas representan un momento pedagógico precioso que no deberíamos desperdiciar. Durante estas semanas se dan tres condiciones que rara vez coinciden el resto del año: nuestros hijos están más receptivos, nosotros estamos más tranquilos y disponibles, y el ambiente festivo crea el contexto perfecto para la conexión emocional.

@@ -10,6 +10,7 @@ tags:
   - educación
   - crianza
 image: /img/pexels-kindel-media-8550827.jpg
+imageAlt: "Familia con adolescente dialogando de forma calmada y respetuosa en casa"
 ---
 
 Llegamos a casa y nos encontramos a nuestro adolescente que pasa del 1,70 "tirado" en el sillón del salón.

@@ -12,6 +12,7 @@ tags:
   - educación
   - aprendizaje
 image: /img/captura-de-pantalla-2026-08-20-a-las-17.37.00.png
+imageAlt: "Recursos y guía para fomentar el hábito de la lectura en niños y jóvenes"
 ---
 
 Cuántas veces hemos oído la frase: "qué suerte que a tu hijo le guste leer, al mío no le gusta nada". Pues bien, a todo el mundo le puede gustar leer. Solo hay que ayudarles a descubrir ese mundo de la forma adecuada.

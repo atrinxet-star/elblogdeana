@@ -1,5 +1,6 @@
 ---
 image: "/img/nino-deberes.jpg"
+imageAlt: "Niño haciendo los deberes en casa con actitud positiva y motivada"
 title: "5 maneras de motivar a su hijo para la escuela"
 date: 2024-02-14
 description: "Motivar a tu hijo para que quiera ir al colegio no es magia: es método. Cinco estrategias concretas para despertar el interés por aprender, incluso en los más reacios."

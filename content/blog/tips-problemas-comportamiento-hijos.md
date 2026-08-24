@@ -11,6 +11,7 @@ tags:
   - crianza
   - hijos
 image: /img/captura-de-pantalla-2026-08-12-a-las-18.02.42.png
+imageAlt: "Guía con claves prácticas para gestionar problemas de comportamiento en los hijos"
 ---
 
 ¿Le digo "no" a mi hijo demasiadas veces? ¿Lo malcrío diciéndole "sí" a todo? Educar es, probablemente, una de las tareas más complicadas que existen, y hay momentos en los que las situaciones nos superan y no sabemos muy bien qué hacer.

@@ -13,6 +13,7 @@ tags:
   - padres
   - independencia
 image: /img/empresario-equipaje-esperando-llegada-al-aeropuerto-generado-ia.jpg
+imageAlt: "Persona con equipaje en el aeropuerto representando el viaje de estudios al extranjero"
 ---
 
 Dicen que las abejas son la especie más inteligente debido a su alto nivel de aclimatación y adaptación al medio. Pequeñas, trabajadoras, capaces de sobrevivir y prosperar en entornos muy distintos. Cuando pienso en lo que queremos para nuestros hijos, a menudo pienso en ellas.

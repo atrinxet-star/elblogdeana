@@ -11,6 +11,7 @@ tags:
   - comunicación
   - vínculo
 image: /img/familia-mesa-cena.jpg
+imageAlt: "Familia reunida alrededor de la mesa durante la cena compartiendo el momento"
 ---
 
 Numerosos estudios confirman lo beneficioso que es cenar o comer en familia, una rutina tan sencilla como enriquecedora, sobre todo para los adolescentes. Hay algunos puntos que conviene tener en cuenta para que funcione de verdad.

@@ -12,6 +12,7 @@ tags:
   - adolescentes
   - límites
 image: /img/captura-de-pantalla-2026-08-20-a-las-18.09.50.png
+imageAlt: "Claves y orientación para padres sobre cómo actuar cuando un hijo miente"
 ---
 
 Descubrir que tu hijo te ha mentido duele. No solo por la mentira en sí, sino por lo que implica: ¿me oculta más cosas? ¿No confía en mí? ¿He fallado en algo?
