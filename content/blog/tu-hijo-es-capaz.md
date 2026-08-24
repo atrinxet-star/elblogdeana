@@ -1,10 +1,16 @@
 ---
-image: "/img/tu-hijo-capaz.jpg"
-title: "Tu hijo es capaz"
+title: Tu hijo es capaz
 date: 2026-02-12
-description: "Hay educadores que, sin darse cuenta, dañan la confianza de un alumno con frases como 'no estás hecho para estudiar'. Por qué esos mensajes son un error y qué decir en su lugar."
-category: "Pedagogía para padres"
-tags: ["autoestima", "motivación", "escuela", "confianza"]
+description: Hay educadores que, sin darse cuenta, dañan la confianza de un
+  alumno con frases como 'no estás hecho para estudiar'. Por qué esos mensajes
+  son un error y qué decir en su lugar.
+category: Pedagogía para padres
+tags:
+  - autoestima
+  - motivación
+  - escuela
+  - confianza
+image: /img/captura-de-pantalla-2026-01-26-a-las-15.21.46.png
 ---
 
 A veces algunos educadores, con buena intención o sin ella, desaniman a los estudiantes con dificultades diciéndoles que no van a poder tener éxito académicamente. Tengo un enorme respeto por la profesión docente, pero también creo necesario poner nombre a los mensajes que hacen daño, vengan de donde vengan.
