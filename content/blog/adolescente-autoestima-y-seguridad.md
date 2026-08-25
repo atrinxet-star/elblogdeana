@@ -64,3 +64,5 @@ La adolescencia no se gestiona, se acompaña. Y acompañar bien es, muchas veces
 - - -
 
 Si sientes que tu hijo adolescente está perdiendo confianza en sí mismo o que la comunicación en casa se ha complicado, **hablemos**. Puedo ayudarte a entender qué está pasando y cómo actuar.
+
+Si sientes que tu hijo necesita un acompañamiento más profundo, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/) ofrecemos orientación académica y personal para adolescentes.

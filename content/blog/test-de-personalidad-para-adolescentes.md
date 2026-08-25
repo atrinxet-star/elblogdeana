@@ -66,3 +66,5 @@ No te doy un informe de 20 páginas y te digo "ya puedes irte". Me siento contig
 ---
 
 ¿Quieres saber qué test encaja mejor con la situación de tu hijo? **Escríbeme.** Te cuento exactamente qué hacemos, cómo funciona y cuánto cuesta — sin rodeos.
+
+En [MCM Educational Consultants](https://www.mcm.info/test-de-personalidad-orientacion-academica-y-desarrollo-del-talento/) aplicamos tests de personalidad y orientación académica de forma profesional, con interpretación incluida en sesión.

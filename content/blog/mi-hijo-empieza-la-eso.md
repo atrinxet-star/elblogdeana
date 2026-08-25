@@ -48,3 +48,5 @@ No todos los alumnos viven la ESO igual. Un alumno ordenado y autónomo la afron
 ---
 
 Si tu hijo empieza la ESO el próximo curso y quieres que el inicio sea sólido, **escríbeme**. Una sesión de orientación antes del comienzo puede marcar mucho la diferencia en cómo arranca el año.
+
+Si estás valorando que tu hijo curse la ESO en el extranjero como parte de su formación, en [MCM Educational Consultants](https://www.mcm.info/estudiar-eso-en-el-extranjero/) te explicamos todas las opciones disponibles.

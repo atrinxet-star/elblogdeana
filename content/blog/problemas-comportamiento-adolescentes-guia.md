@@ -72,3 +72,5 @@ Cuando se haya calmado —a veces hacen falta unos días— es el momento de ret
 - Recuerda que esta etapa pasa. Y que cómo la atravieséis juntos define la relación que tendréis de adultos.
 
 No hay una fórmula única, pero la combinación de límites claros, calma adulta y confianza activa es, con diferencia, lo que mejor funciona en la práctica.
+
+Cuando los problemas de comportamiento se intensifican, un cambio de entorno puede ser parte de la solución. En [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/estudiantes-con-problemas/) disponemos de programas específicos para adolescentes que necesitan un acompañamiento más estructurado.

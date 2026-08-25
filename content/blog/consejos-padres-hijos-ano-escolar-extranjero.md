@@ -47,3 +47,5 @@ Darle espacio para que integre lo vivido, escucharle cuando quiere contar y no p
 ---
 
 Si tu hijo está a punto de embarcarse en esta experiencia o ya está fuera y tienes dudas, **estoy aquí para orientarte**. Es exactamente el tipo de situaciones en las que un acompañamiento profesional hace la diferencia.
+
+Si estás valorando un año escolar en el extranjero para tu hijo, en [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/ano-escolar-en-el-extranjero/) te ayudamos a elegir el programa, el país y el colegio adecuados, con seguimiento durante todo el proceso.

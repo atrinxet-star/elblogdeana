@@ -78,3 +78,5 @@ El mundo profesional ya no busca solo expedientes brillantes, sino personas capa
 ---
 
 *¿Sabes dónde brilla tu hijo? ¿Sabes dónde necesita acompañamiento? Escríbeme y lo averiguamos juntos.*
+
+Si quieres que tu hijo haga un test de personalidad con interpretación profesional, en [MCM Educational Consultants](https://www.mcm.info/test-de-personalidad-orientacion-academica-y-desarrollo-del-talento/) lo trabajamos de forma personalizada dentro del proceso de orientación.

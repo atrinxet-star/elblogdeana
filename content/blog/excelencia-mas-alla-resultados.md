@@ -60,3 +60,5 @@ Porque la excelencia no es un punto de llegada. Es una dirección.
 La excelencia no es un número. Es una actitud. Es el compromiso de dar lo mejor de ti, en lo que eres y en lo que quieres ser.
 
 ¿Quieres explorar el perfil real de tu hijo más allá de sus notas? **Escríbeme.** Primera consulta sin compromiso.
+
+Si buscas un entorno educativo que potencie de verdad el talento de tu hijo, en [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/bachillerato-en-el-extranjero/) te asesoramos sobre los mejores programas de bachillerato en el extranjero.

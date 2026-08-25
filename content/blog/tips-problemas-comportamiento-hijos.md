@@ -61,3 +61,5 @@ Estos límites cambian con la edad, y los niños deben aprender a seguirlos desd
 Educar a los hijos no es fácil, y lo que funciona con uno no tiene por qué funcionar igual con otro. A veces algo sale mal, pero culparte es contraproducente: solo sirve para entender qué pasó y volver a empezar con más información.
 
 Si el comportamiento de tu hijo te preocupa de forma sostenida —en el colegio, en casa, con sus amigos— una orientación profesional a tiempo puede ayudarte a entender qué hay detrás y cómo acompañarle mejor. No hay que esperar a que la situación sea grave para pedir apoyo.
+
+En algunos casos, un programa educativo especializado fuera del entorno habitual puede marcar un punto de inflexión. En [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/estudiantes-con-problemas/) tenemos experiencia en orientar a familias con adolescentes que atraviesan momentos difíciles.

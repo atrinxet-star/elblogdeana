@@ -53,3 +53,5 @@ Ninguna de estas cinco habilidades se mide en las notas. Pero todas se miden en 
 Por eso, cuando acompaño a una familia en la orientación de un joven, no solo pregunto qué quiere estudiar. Pregunto quién es, cómo aprende, cómo se relaciona, qué le hace levantarse por la mañana con ganas. Eso es lo que realmente predice el éxito profesional.
 
 ¿Quieres saber cuáles de estas habilidades tiene ya desarrolladas tu hijo? En una sesión de orientación con tests adaptados a su edad, lo descubrimos juntos.
+
+Si quieres orientar a tu hijo en el desarrollo de estas habilidades y en la elección de su camino académico, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-estudiantes/) ofrecemos orientación académica y profesional personalizada.

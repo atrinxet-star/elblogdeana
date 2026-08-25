@@ -52,3 +52,5 @@ Por eso el acompañamiento profesional antes, durante y después no es un lujo. 
 ---
 
 Si estás en este momento de duda, **hablemos antes de decidir**. Una conversación con criterio profesional puede ahorrarte muchos errores y asegurarte de que, cuando tu hijo se vaya, los dos lo hagáis con confianza real.
+
+Si quieres tomar esta decisión con toda la información y el apoyo necesario, en [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/ano-escolar-en-el-extranjero/) llevamos más de 35 años organizando años escolares en el extranjero para familias españolas.

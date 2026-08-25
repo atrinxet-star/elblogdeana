@@ -63,3 +63,5 @@ La clave está en elegir bien. No todos los internados son iguales, y no todos l
 ---
 
 ¿Quieres saber si un Boarding School podría ser una buena opción para tu hijo? **Hablemos.** Es exactamente el tipo de decisión para la que estoy aquí.
+
+En [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/ano-escolar-en-el-extranjero/colegio-privado-interno-mcm/) tenemos acceso a una selección de los mejores boarding schools de Reino Unido, Irlanda, Canadá y Estados Unidos, y te ayudamos a elegir el que mejor encaja con tu hijo.
