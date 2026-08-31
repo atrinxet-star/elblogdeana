@@ -11,7 +11,7 @@ tags:
   - notas
   - aprendizaje
   - educación
-image: /img/board-2433993_1280.jpg
+image: /img/captura-de-pantalla-2024-05-28-a-las-12.21.15.png
 imageAlt: Madre reflexionando con preocupación sobre la evaluación educativa de su hijo
 ---
 
