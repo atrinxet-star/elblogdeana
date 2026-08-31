@@ -12,8 +12,9 @@ tags:
   - técnicas de estudio
   - hábitos
   - padres
-image: /img/adolescente-estudia.jpg
-imageAlt: "Adolescente estudiando concentrado en casa con libros y apuntes para los exámenes"
+image: /img/adolescente-estudiando.jpg
+imageAlt: Adolescente estudiando concentrado en casa con libros y apuntes para
+  los exámenes
 ---
 "¿Le ayudo o le dejo que lo haga solo?" Es una de las preguntas más frecuentes de los padres cuando llegan los exámenes. Y me encuentro a muchos padres que me dicen: 
 
