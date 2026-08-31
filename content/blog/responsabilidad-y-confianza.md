@@ -10,7 +10,7 @@ tags:
   - autonomía
   - hijos
   - educación
-image: /img/care-9719575_1280.jpg
+image: /img/deberes.png
 imageAlt: Padre e hija compartiendo un momento de confianza y diálogo abierto en familia
 ---
 
