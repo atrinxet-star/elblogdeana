@@ -10,8 +10,9 @@ tags:
   - tecnología
   - infancia
   - pantallas
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.18.57.png
-imageAlt: "Información sobre el uso del móvil en la infancia y cómo gestionar las pantallas"
+image: /img/pexels-karolina-grabowska-6957255.jpg
+imageAlt: Información sobre el uso del móvil en la infancia y cómo gestionar las
+  pantallas
 ---
 
 Antes de que existieran los móviles, los niños se aburrían igual. Molestaban igual. Necesitaban atención igual. Y aprendían a gestionar ese aburrimiento porque no había otra opción.
