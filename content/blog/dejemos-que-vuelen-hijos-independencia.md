@@ -10,7 +10,7 @@ tags:
   - extranjero
   - crianza
   - padres
-image: /img/captura-de-pantalla-2026-05-11-a-las-13.50.02.png
+image: /img/people-2591874_1920.jpg
 imageAlt: Niño pensativo mirando al horizonte con expresión de independencia y madurez
 ---
 
