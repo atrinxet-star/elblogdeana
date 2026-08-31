@@ -10,8 +10,8 @@ tags:
   - comunicación
   - crianza
   - hijos
-image: /img/madre-adolescente-apoyo.jpg
-imageAlt: "Madre con su hijo adolescente transmitiendo valores desde el amor y el corazón"
+image: /img/niña-abrazo.jpg
+imageAlt: Madre con su hijo adolescente transmitiendo valores desde el amor y el corazón
 ---
 
 Con cualquiera que nos hable desde los sentimientos que hemos vivido sentimos afinidad y empatía de forma casi automática. Educar, en el fondo, también es eso: cuando educamos, le estamos "vendiendo" a nuestro hijo una idea, y a la larga, queremos que esa idea se convierta en suya propia.
