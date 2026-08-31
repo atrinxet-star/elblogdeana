@@ -1,16 +1,18 @@
 ---
-title: "¿A qué edad se puede estudiar en el extranjero?"
+title: ¿A qué edad se puede estudiar en el extranjero?
 date: 2026-08-25
-description: "No hay una edad perfecta para estudiar en el extranjero. Hay una madurez adecuada. Te explico qué buscar en cada etapa y cuándo tiene más sentido dar ese paso."
-category: "Extranjero"
+description: No hay una edad perfecta para estudiar en el extranjero. Hay una
+  madurez adecuada. Te explico qué buscar en cada etapa y cuándo tiene más
+  sentido dar ese paso.
+category: Extranjero
 tags:
   - estudiar en el extranjero
   - año escolar
   - adolescentes
   - orientación
   - madurez
-image: /img/adolescente-mochila-extranjero.jpg
-imageAlt: "Adolescente con mochila preparado para estudiar en el extranjero"
+image: /img/captura-de-pantalla-2026-01-29-a-las-17.04.08.png
+imageAlt: Adolescente con mochila preparado para estudiar en el extranjero
 ---
 
 Una de las preguntas que más me hacen los padres cuando se plantean mandar a su hijo al extranjero es esta: ¿es demasiado pequeño? ¿O ya es demasiado tarde?
