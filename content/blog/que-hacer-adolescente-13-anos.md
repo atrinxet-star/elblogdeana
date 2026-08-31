@@ -1,16 +1,18 @@
 ---
-title: "Mi hijo tiene 13 años y no sé cómo tratarle"
+title: Mi hijo tiene 13 años y no sé cómo tratarle
 date: 2026-08-20
-description: "Los 13 años son una de las edades más difíciles para los padres. Tu hijo ya no es un niño pero tampoco un adulto, y la convivencia puede ser agotadora. Te explico qué está pasando y cómo actuar."
-category: "Adolescencia"
+description: Los 13 años son una de las edades más difíciles para los padres. Tu
+  hijo ya no es un niño pero tampoco un adulto, y la convivencia puede ser
+  agotadora. Te explico qué está pasando y cómo actuar.
+category: Adolescencia
 tags:
   - adolescentes
   - 13 años
   - comunicación
   - límites
   - pubertad
-image: "/img/test-evaluacion.jpg"
-imageAlt: "Test de evaluación y herramientas de orientación para adolescentes de 13 años"
+image: /img/adolescente-test.jpg
+imageAlt: Test de evaluación y herramientas de orientación para adolescentes de 13 años
 ---
 
 Si tienes un hijo de 13 años en casa, probablemente reconoces esta escena: le preguntas algo y te contesta con un monosílabo o con un bufido. Antes te lo contaba todo, ahora parece que hablar contigo es un esfuerzo enorme. Lo que antes le gustaba ya no le interesa. Y cualquier cosa que digas puede convertirse en un conflicto.
