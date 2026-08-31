@@ -10,8 +10,8 @@ tags:
   - pantallas
   - tecnología
   - ocio
-image: /img/pexels-jéshoots-21067.jpg
-imageAlt: "Joven jugando a videojuegos en casa con moderación y supervisión parental"
+image: /img/nino-videojuegos.jpg
+imageAlt: Joven jugando a videojuegos en casa con moderación y supervisión parental
 ---
 
 ¿Cuántas veces nos hemos preguntado, como padres, si los videojuegos son buenos o malos para nuestros hijos? La respuesta honesta es: depende de cuáles, de cuánto tiempo y de cómo se juegan. Y la investigación científica tiene cosas interesantes que decir al respecto.
