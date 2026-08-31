@@ -10,8 +10,8 @@ tags:
   - extranjero
   - crianza
   - padres
-image: /img/nino-pensativo.jpg
-imageAlt: "Niño pensativo mirando al horizonte con expresión de independencia y madurez"
+image: /img/captura-de-pantalla-2026-05-11-a-las-13.50.02.png
+imageAlt: Niño pensativo mirando al horizonte con expresión de independencia y madurez
 ---
 
 Noche antes de un festivo, medianoche. Una madre me escribe pasándolo mal. No porque su hija esté mal —está bien. Sino porque su hija no está con ella.
