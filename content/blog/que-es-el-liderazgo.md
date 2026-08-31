@@ -1,11 +1,17 @@
 ---
-image: "/img/que-es-liderazgo.jpg"
-imageAlt: "Joven mostrando habilidades de liderazgo y capacidad de trabajo en equipo"
-title: "¿Qué es el liderazgo, y se puede educar?"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.27.38.png
+imageAlt: Joven mostrando habilidades de liderazgo y capacidad de trabajo en equipo
+title: ¿Qué es el liderazgo, y se puede educar?
 date: 2026-01-10
-description: "¿Se nace líder o se aprende a serlo? Comparto cómo entiendo el liderazgo después de años acompañando a jóvenes, y por qué creo que sí se puede educar."
-category: "Educación"
-tags: ["liderazgo", "valores", "jóvenes", "educación"]
+description: ¿Se nace líder o se aprende a serlo? Comparto cómo entiendo el
+  liderazgo después de años acompañando a jóvenes, y por qué creo que sí se
+  puede educar.
+category: Educación
+tags:
+  - liderazgo
+  - valores
+  - jóvenes
+  - educación
 ---
 
 ¿Se nace líder, o es uno mismo quien se convierte en líder? Es una pregunta que me han hecho muchas veces, en distintas versiones, a lo largo de los años.
