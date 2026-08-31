@@ -1,11 +1,16 @@
 ---
-image: "/img/familia-sofa.jpg"
-imageAlt: "Familia riendo juntos en el sofá de casa compartiendo un momento de humor"
+image: /img/captura-de-pantalla-2026-08-20-a-las-18.01.35.png
+imageAlt: Familia riendo juntos en el sofá de casa compartiendo un momento de humor
 title: "El sentido del humor en la educación: por qué es una herramienta y no un lujo"
 date: 2024-04-10
-description: "Educar no tiene que ser siempre serio. El humor conecta, relaja tensiones y abre puertas que de otra manera permanecerían cerradas. Te cuento cómo usarlo con tus hijos."
-category: "Pedagogía para padres"
-tags: ["humor", "educación", "comunicación"]
+description: Educar no tiene que ser siempre serio. El humor conecta, relaja
+  tensiones y abre puertas que de otra manera permanecerían cerradas. Te cuento
+  cómo usarlo con tus hijos.
+category: Pedagogía para padres
+tags:
+  - humor
+  - educación
+  - comunicación
 ---
 
 Repetimos las cosas mil veces y parece que nadie nos escuche. Acabamos perdiendo la paciencia y todo termina en enfado. Lo conozco bien: es uno de los relatos más frecuentes que escucho de padres agotados.
