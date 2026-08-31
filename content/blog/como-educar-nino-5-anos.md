@@ -1,16 +1,18 @@
 ---
 title: "Cómo educar a un niño de 5 años: lo que de verdad importa en esta etapa"
 date: 2026-08-20
-description: "A los 5 años los niños son curiosos, sociales y llenos de energía. Te explico qué necesitan realmente en esta etapa y cómo acompañarles sin sobrecargarles."
-category: "Educación por edades"
+description: A los 5 años los niños son curiosos, sociales y llenos de energía.
+  Te explico qué necesitan realmente en esta etapa y cómo acompañarles sin
+  sobrecargarles.
+category: Educación por edades
 tags:
   - niños
   - 5 años
   - educación infantil
   - hábitos
   - autonomía
-image: "/img/madre-hijo-campo.jpg"
-imageAlt: "Madre y niño de 5 años jugando juntos en el campo con alegría"
+image: /img/abrazo.png
+imageAlt: Madre y niño de 5 años jugando juntos en el campo con alegría
 ---
 
 Los cinco años son una edad maravillosa. Tu hijo ya puede mantener conversaciones, tiene amigos, juega en equipo, pregunta el por qué de todo y empieza a entender las normas. También puede tener cambios de humor inesperados, negarse a hacer cosas que antes hacía sin problema y poner a prueba los límites con más habilidad que nunca.
