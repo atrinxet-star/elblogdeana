@@ -10,7 +10,7 @@ tags:
   - soledad
   - niños
   - adolescentes
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.16.03.png
+image: /img/adolescente-sin-amigos.png
 imageAlt: "Recursos para padres que quieren ayudar a su hijo a relacionarse y hacer amigos"
 ---
 
@@ -52,3 +52,6 @@ Si el aislamiento es prolongado, si hay señales de tristeza importante o baja a
 ---
 
 Si tu hijo está sufriendo por la soledad y no sabes cómo ayudarle, **escríbeme**. Muchas veces hay un camino claro una vez que se entiende bien qué está pasando.
+
+
+Si el aislamiento afecta también a su rendimiento o motivación escolar, en [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/estudiantes-con-problemas/) tienen programas específicos para adolescentes que necesitan un cambio de entorno y de dinámica.

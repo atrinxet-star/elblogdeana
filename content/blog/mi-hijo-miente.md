@@ -11,7 +11,7 @@ tags:
   - niños
   - adolescentes
   - límites
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.09.50.png
+image: /img/hijo-miente-padres.png
 imageAlt: "Claves y orientación para padres sobre cómo actuar cuando un hijo miente"
 ---
 
@@ -58,3 +58,6 @@ Que sienta que puede contarte las cosas sin que el mundo se derrumbe. Que sepa q
 ---
 
 Si las mentiras de tu hijo son frecuentes y sientes que habéis perdido la confianza, **escríbeme**. Trabajar la comunicación familiar a tiempo previene problemas mucho más difíciles de gestionar después.
+
+
+Si buscas apoyo profesional para mejorar la comunicación y la convivencia familiar, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-padres/) ofrecen orientación educativa personalizada para familias.

@@ -9,7 +9,7 @@ tags:
   - adolescentes
   - educación
   - crianza
-image: /img/pexels-kindel-media-8550827.jpg
+image: /img/como-educar-adolescente.jpg
 imageAlt: Familia con adolescente dialogando de forma calmada y respetuosa en casa
 ---
 Llegamos a casa y nos encontramos a nuestro adolescente que pasa del 1,70 "tirado" en el sillón del salón o en su cama, sin hacer nada, mirando el móvil...
@@ -66,3 +66,6 @@ La adolescencia no se gestiona: se acompaña. Y acompañar bien, muchas veces, e
 - - -
 
 Si sientes que la comunicación con tu hijo adolescente se ha complicado o no sabes cómo llegar a él, **puedo ayudarte**. Acompañar a familias en esta etapa es uno de los trabajos que más hago y más valoro.
+
+
+Si buscas un acompañamiento más profundo en la etapa adolescente, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/) llevan más de 35 años orientando a familias en decisiones educativas clave.

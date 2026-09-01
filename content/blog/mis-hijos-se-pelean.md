@@ -11,7 +11,7 @@ tags:
   - conflictos
   - familia
   - convivencia
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.17.10.png
+image: /img/hermanos-pelean-conflicto.png
 imageAlt: "Guía práctica para padres sobre cómo gestionar los conflictos entre hermanos"
 ---
 

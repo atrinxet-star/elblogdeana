@@ -11,7 +11,7 @@ tags:
   - hábitos
   - familia
   - comer
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.13.18.png
+image: /img/hijo-no-quiere-comer.png
 imageAlt: "Guía para padres sobre cómo gestionar la negativa de un niño a comer"
 ---
 

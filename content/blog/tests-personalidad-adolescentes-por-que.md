@@ -11,7 +11,7 @@ tags:
   - adolescentes
   - orientación académica
   - autoconocimiento
-image: /img/captura-de-pantalla-2025-12-12-a-las-13.10.36.png
+image: /img/test-personalidad-adolescente.png
 imageAlt: "Test de personalidad y recursos de orientación para adolescentes y sus familias"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - adolescentes
   - límites
   - tecnología
-image: /img/pexels-karolina-grabowska-6957255.jpg
+image: /img/adolescente-enganchado-movil.jpg
 imageAlt: "Adolescente con dependencia del teléfono móvil y las pantallas en casa"
 ---
 
@@ -56,3 +56,6 @@ Si el uso del móvil interfiere en el sueño de forma sistemática, en el rendim
 ---
 
 Si el móvil se ha convertido en un foco constante de conflicto en casa y no sabes cómo gestionarlo, **escríbeme**. Con un plan concreto y adaptado a tu situación, la cosa mejora.
+
+
+Si además ves que el problema afecta al rendimiento escolar o al estado emocional de tu hijo, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-padres/) ofrecen orientación educativa personalizada para familias de toda España.

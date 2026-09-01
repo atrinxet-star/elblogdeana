@@ -11,7 +11,7 @@ tags:
   - itinerario académico
   - familias
   - toma de decisiones
-image: /img/captura-de-pantalla-2025-09-16-a-las-18.49.55.png
+image: /img/que-es-consultoria-educativa.png
 imageAlt: "Información sobre qué es una consultoría educativa y cómo puede ayudar a tu hijo"
 faq:
   - question: ¿Qué es una consultoría educativa?

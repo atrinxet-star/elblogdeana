@@ -57,3 +57,6 @@ Las metas tienen que ser ambiciosas pero alcanzables. Y tienen que ser suyas, no
 Motivar a un hijo para la escuela es un trabajo de fondo, no de un día. Requiere paciencia, coherencia y, sobre todo, interés genuino por quién es ese niño más allá de sus notas. Cuando eso está, todo lo demás es mucho más fácil.
 
 Si sientes que la desmotivación de tu hijo va más allá de lo que puedes gestionar en casa, **escríbeme**. Muchas veces una evaluación del perfil académico y emocional aclara cosas que la familia no puede ver desde dentro.
+
+
+Si la desmotivación escolar es persistente, una valoración académica profesional puede ser el punto de partida. En [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-estudiantes/) trabajan con estudiantes de toda España para diseñar un itinerario académico con sentido.

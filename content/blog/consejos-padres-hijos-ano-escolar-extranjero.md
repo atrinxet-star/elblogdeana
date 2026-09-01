@@ -10,7 +10,7 @@ tags:
   - extranjero
   - padres
   - consejos
-image: /img/captura-de-pantalla-2026-01-29-a-las-17.03.07.png
+image: /img/padres-hijos-ano-escolar-extranjero.png
 imageAlt: "Recursos y consejos para padres con hijos cursando un año académico en el extranjero"
 ---
 

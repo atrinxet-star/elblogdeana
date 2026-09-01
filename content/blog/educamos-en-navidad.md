@@ -10,7 +10,7 @@ tags:
   - familia
   - vínculo
   - hijos
-image: /img/captura-de-pantalla-2026-08-20-a-las-17.41.55.png
+image: /img/familia-educacion-navidad.png
 imageAlt: "Familia celebrando la Navidad con valores y reflexión educativa en el hogar"
 ---
 

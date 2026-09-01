@@ -11,7 +11,7 @@ tags:
   - ansiedad
   - motivación
   - niños
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.14.12.png
+image: /img/hijo-no-quiere-ir-colegio.png
 imageAlt: "Orientación para padres cuando su hijo se niega a ir al colegio"
 ---
 
@@ -52,3 +52,6 @@ Porque detrás del "no quiero ir al colegio" hay cosas muy distintas. Y lo que f
 ---
 
 Si tu hijo lleva tiempo sin querer ir al colegio y no sabes qué hay detrás, **escríbeme**. Identificar la causa es el primer paso, y muchas veces es más accesible de lo que parece.
+
+
+Si el rechazo escolar persiste y necesitas una valoración profesional, en [MCM Educational Consultants](https://www.mcm.info/cursos-academicos/estudiantes-con-problemas/) llevan más de 35 años acompañando a familias con adolescentes que necesitan un enfoque educativo diferente.

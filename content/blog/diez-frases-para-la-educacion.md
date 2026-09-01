@@ -10,7 +10,7 @@ tags:
   - citas
   - aprendizaje
   - inspiración
-image: /img/vista-superior-estatuilla-madera-gorra-academica-espacio-copia.jpg
+image: /img/frases-motivacion-educacion.jpg
 imageAlt: "Estatuilla de madera con birrete académico simbolizando los valores de la educación"
 ---
 

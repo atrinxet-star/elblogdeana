@@ -10,7 +10,8 @@ tags:
   - autoestima
   - seguridad
   - educación
-image: /img/captura-de-pantalla-2023-03-20-a-las-13.51.21.png
+image: /img/adolescente-autoestima-seguridad.png
+imageAlt: "Adolescente seguro de sí mismo sonriendo — autoestima y seguridad personal en la adolescencia"
 ---
 La adolescencia es una edad complicada, sin duda. Pero también puede ser una de las más divertidas y ricas si sabemos cómo acompañarla.
 

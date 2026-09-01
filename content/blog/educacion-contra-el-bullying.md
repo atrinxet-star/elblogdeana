@@ -62,3 +62,6 @@ La prevención es siempre más eficaz que la intervención. Y empieza en casa, c
 ---
 
 *¿Tienes dudas sobre cómo hablar de este tema con tu hijo? Escríbeme. Primera consulta gratuita.*
+
+
+Si necesitas apoyo profesional para gestionar una situación de acoso o exclusión social, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-padres/) orientan a familias de toda España con acompañamiento personalizado.

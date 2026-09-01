@@ -9,7 +9,7 @@ tags:
   - educación
   - cultura
   - formación
-image: /img/vista-superior-estatuilla-madera-gorra-academica-espacio-copia.jpg
+image: /img/historia-estudiar-extranjero.jpg
 imageAlt: "Estatuilla académica representando la tradición educativa a lo largo de la historia"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - orientación académica
   - decisiones educativas
   - familias
-image: /img/captura-de-pantalla-2026-01-26-a-las-18.22.14.png
+image: /img/cuando-acudir-consultoria-educativa.png
 imageAlt: "Información sobre orientación educativa y consultoría para familias con hijos"
 faq:
   - question: ¿Cuándo debo acudir a una orientadora educativa?

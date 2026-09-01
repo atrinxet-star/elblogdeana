@@ -11,7 +11,7 @@ tags:
   - sensibilidad
   - niños
   - gestión emocional
-image: /img/captura-de-pantalla-2026-08-20-a-las-18.07.21.png
+image: /img/hijo-llora-emociones.png
 imageAlt: "Recursos de orientación para padres con hijos con alta sensibilidad emocional"
 ---
 
@@ -55,3 +55,6 @@ Si el llanto es muy frecuente e intenso, si interfiere en su funcionamiento diar
 ---
 
 Si el llanto frecuente de tu hijo te preocupa o no sabes cómo gestionarlo, **escríbeme**. A veces hace falta una mirada externa para entender qué hay detrás y cómo acompañarlo mejor.
+
+
+Si el estado emocional de tu hijo te preocupa y afecta a su vida escolar, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/) llevan más de 35 años ayudando a familias a tomar decisiones educativas con criterio profesional.

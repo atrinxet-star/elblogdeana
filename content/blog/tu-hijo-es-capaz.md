@@ -10,7 +10,7 @@ tags:
   - motivación
   - escuela
   - confianza
-image: /img/captura-de-pantalla-2026-01-26-a-las-15.21.46.png
+image: /img/hijo-capaz-autoconfianza.png
 imageAlt: "Recursos de orientación para ayudar a los hijos a descubrir sus capacidades"
 ---
 

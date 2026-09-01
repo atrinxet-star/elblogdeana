@@ -51,3 +51,8 @@ Es la recta final, donde se juegan las opciones de carrera. Aquí los motivos ha
 - **Mantén la confianza.** Si tú confías en tu hijo, él también lo hará en sí mismo.
 
 Cuando la incertidumbre se instala en casa, consultar con un profesional educativo ayuda a poner nombre al problema real y a tomar decisiones con criterio, en lugar de a ciegas.
+
+
+---
+
+Si los suspensos son persistentes y no sabéis qué hay detrás, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/) hacen una valoración del perfil académico y emocional del alumno para identificar qué está fallando y cómo reconducirlo.

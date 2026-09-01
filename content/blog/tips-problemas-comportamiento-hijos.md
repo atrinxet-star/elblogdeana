@@ -10,7 +10,7 @@ tags:
   - límites
   - crianza
   - hijos
-image: /img/captura-de-pantalla-2026-08-12-a-las-18.02.42.png
+image: /img/problemas-comportamiento-hijos.png
 imageAlt: "Guía con claves prácticas para gestionar problemas de comportamiento en los hijos"
 ---
 

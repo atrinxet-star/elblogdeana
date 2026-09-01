@@ -66,3 +66,6 @@ Si a pesar de estudiar con tu hijo, los resultados no mejoran, si hay mucha ansi
 - - -
 
 Si tu hijo tiene problemas con los exámenes y no sabéis qué cambiar, **escríbeme**. Muchas veces unas pocas sesiones cambian completamente cómo estudia y cómo le va.
+
+
+Si el problema va más allá de los hábitos de estudio y crees que puede haber un bloqueo emocional o académico, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/para-estudiantes/) hacen evaluaciones del perfil de aprendizaje para dar con el origen real del problema.

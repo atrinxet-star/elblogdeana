@@ -11,7 +11,7 @@ tags:
   - bienestar
   - autoestima
   - familia
-image: /img/captura-de-pantalla-2023-03-20-a-las-13.51.21.png
+image: /img/adolescente-felicidad-bienestar.png
 imageAlt: "Imagen que refleja la búsqueda de felicidad y bienestar en la adolescencia"
 ---
 
@@ -56,3 +56,8 @@ La felicidad de un adolescente también depende de cómo lo miramos. Si cada vez
 Si de vez en cuando lo miramos y le decimos, con palabras o sin ellas, "te veo y me alegra que estés aquí", eso se queda.
 
 No en el examen de fin de trimestre. En algún lugar mucho más profundo.
+
+
+---
+
+Si sientes que tu hijo necesita apoyo para encontrar su camino académico y personal, **escríbeme**. Y si buscas un programa educativo que amplíe su horizonte, en [MCM Educational Consultants](https://www.mcm.info/servicios/orientacion-academica-mcm/) ofrecen orientación educativa personalizada desde 1989.

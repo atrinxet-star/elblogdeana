@@ -11,7 +11,7 @@ tags:
   - gestión emocional
   - límites
   - calma
-image: /img/captura-de-pantalla-2026-08-21-a-las-10.47.31.png
+image: /img/nino-rabieta-pataleta.png
 imageAlt: "Consejos de orientación para gestionar las rabietas infantiles sin perder la calma"
 ---
 

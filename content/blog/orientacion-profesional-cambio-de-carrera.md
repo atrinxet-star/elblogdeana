@@ -11,7 +11,7 @@ tags:
   - adultos
   - tests
   - profesionales
-image: /img/captura-de-pantalla-2026-01-26-a-las-15.17.29.png
+image: /img/orientacion-profesional-cambio-carrera.png
 imageAlt: "Recursos de orientación profesional para un cambio de carrera laboral"
 ---
 

@@ -10,7 +10,7 @@ tags:
   - universidad
   - bachillerato
   - decisión
-image: /img/captura-de-pantalla-2025-12-16-a-las-11.38.41.png
+image: /img/orientacion-academica-que-estudiar.png
 imageAlt: "Test y recursos de orientación académica para decidir qué estudiar"
 ---
 

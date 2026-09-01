@@ -11,7 +11,7 @@ tags:
   - infancia
   - educación
   - aprendizaje
-image: /img/captura-de-pantalla-2026-08-20-a-las-17.37.00.png
+image: /img/nino-habito-lectura.png
 imageAlt: "Recursos y guía para fomentar el hábito de la lectura en niños y jóvenes"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - popularidad
   - autoestima
   - jóvenes
-image: /img/pexels-max-fischer-5212697.jpg
+image: /img/jovenes-popularidad-amistad.jpg
 imageAlt: "Grupo de jóvenes en el instituto reflexionando sobre la popularidad entre adolescentes"
 ---
 
