@@ -2,8 +2,7 @@
 title: "Cambio de carrera profesional: cómo saber si es el momento y por dónde
   empezar"
 date: 2025-11-10
-description: Tienes trabajo, tienes experiencia. Pero algo no encaja. ¿Es el
-  momento de cambiar? ¿Cómo se hace sin tirar todo por la borda?
+description: "Tienes trabajo y experiencia, pero algo no encaja. Te ayudo a identificar si es el momento de un cambio de carrera profesional y cómo dar el primer paso sin riesgos."
 category: Orientación
 tags:
   - orientación profesional

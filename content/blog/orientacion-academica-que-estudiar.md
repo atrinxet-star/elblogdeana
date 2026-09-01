@@ -1,8 +1,7 @@
 ---
 title: ¿Qué estudiar? La pregunta más importante que nadie enseña a responder
 date: 2025-09-05
-description: Cada año miles de jóvenes eligen carrera por descarte, por nota de
-  corte o por presión familiar. Hay una forma mejor de hacerlo.
+description: "Cada año miles de jóvenes eligen carrera por descarte o por nota de corte. La orientación académica profesional ayuda a elegir con criterio. Te explico cómo."
 category: Orientación
 tags:
   - orientación académica

@@ -1,8 +1,7 @@
 ---
 title: Diferencias entre educacion de los padres vs madres
 date: 2024-11-20
-description: En varias ocasiones he oído quejarse a madres o padres de que no
-  coinciden en cómo educar a los hijos/as.
+description: "Padres y madres educan diferente — y eso no es un problema, es una ventaja. Te explico cómo convertir las diferencias en un equipo educativo que funciona."
 category: Pedagogía para padres
 tags:
   - padres
